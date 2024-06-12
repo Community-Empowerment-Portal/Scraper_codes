@@ -66,6 +66,7 @@ const getDataOfEachCategory = async (url, uuid, name) => {
           "SchemeObjective":"scheme_objective",
           "BeneficiaryCategory":"beneficiary_category",
           "EligibilityCriteria":"eligibility_criteria",
+          "Eligibilitycriteria":"eligibility_criteria",
           "BenefitsProvided":"benefits_provided",
           "ApplicationProcess":"application_process",
           "CategoryofScheme":"category",
@@ -188,3 +189,5 @@ const getAllCategories = async (categoriesUrl) => {
         main();
         
         // writeData(await getDataOfEachCategory("https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies", "1", "test"))
+
+        // console.log("All data scrapped successfully from maharastra");
