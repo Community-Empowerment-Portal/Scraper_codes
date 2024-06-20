@@ -1,0 +1,128 @@
+[
+    {
+        "Beneficiaries": 3636,
+        "Expenditure": 1655.29,
+        "Scheme_ID": "$2b$10$myBuecNkpOQhRyxKDMJdLe/cGCvfl3lJ/sUX9rEQifkLpgbIsfeEC",
+        "Scheme_Stat_ID": "$2b$04$.0.iauzhf5KXQrhQ6ZAtr.p1Ec4/4MFqcW2sI2aE5supdmHB3f0MS",
+        "Year": "2012-13"
+    },
+    {
+        "Beneficiaries": 0,
+        "Expenditure": 0.0,
+        "Scheme_ID": "$2b$10$myBuecNkpOQhRyxKDMJdLe/cGCvfl3lJ/sUX9rEQifkLpgbIsfeEC",
+        "Scheme_Stat_ID": "$2b$04$nt6IcK0Nmk9BTTpWA1HQzeAfV05.NxUDmWdRzbxh7NSR0Wubt3./y",
+        "Year": "2013-14"
+    },
+    {
+        "Beneficiaries": 0,
+        "Expenditure": 0.0,
+        "Scheme_ID": "$2b$10$myBuecNkpOQhRyxKDMJdLe/cGCvfl3lJ/sUX9rEQifkLpgbIsfeEC",
+        "Scheme_Stat_ID": "$2b$04$kLixdm2uAfbDV8fTd4Eu7.ahMibU0GOxIFi1HMgMotAfAbq//PNQa",
+        "Year": "2014-15"
+    },
+    {
+        "Beneficiaries": 507,
+        "Expenditure": 1597.05,
+        "Scheme_ID": "$2b$10$/iTOsz.2nPaqma8nrIOir.SYuptV2uD9QLfYvLJZZ4KOF4.FeYBzK",
+        "Scheme_Stat_ID": "$2b$04$wxTBpoS6UWCDR2wfXdBF7O1tbvvSy/j3NDVrU9Bxh84JSOVZEXmbW",
+        "Year": "2012-13"
+    },
+    {
+        "Beneficiaries": 1001,
+        "Expenditure": 3153.15,
+        "Scheme_ID": "$2b$10$/iTOsz.2nPaqma8nrIOir.SYuptV2uD9QLfYvLJZZ4KOF4.FeYBzK",
+        "Scheme_Stat_ID": "$2b$04$MCInwYBsw3FRwezJ0Stqtux6CGVpNALRFWJZgXwgZVW8TZTsiavyi",
+        "Year": "2013-14"
+    },
+    {
+        "Beneficiaries": 1142,
+        "Expenditure": 3597.0,
+        "Scheme_ID": "$2b$10$/iTOsz.2nPaqma8nrIOir.SYuptV2uD9QLfYvLJZZ4KOF4.FeYBzK",
+        "Scheme_Stat_ID": "$2b$04$QOV8fGhVlzJVYaTtYCiQQ.ucD2JPkga56tq5kVQy6G1Mdf0vloHke",
+        "Year": "2014-15"
+    },
+    {
+        "Beneficiaries": 13,
+        "Expenditure": 0.0,
+        "Scheme_ID": "$2b$10$GogtcfULbPB2kRJK2pTbhucBAMK91yFILg3Nxb6epi68esif59RcS",
+        "Scheme_Stat_ID": "$2b$04$GynMEs.t2StQgeCH3mLQ1eYS5bxvqPUZpClZoYzfaGEASu9uLl9du",
+        "Year": "2012-13"
+    },
+    {
+        "Beneficiaries": 0,
+        "Expenditure": 0.0,
+        "Scheme_ID": "$2b$10$GogtcfULbPB2kRJK2pTbhucBAMK91yFILg3Nxb6epi68esif59RcS",
+        "Scheme_Stat_ID": "$2b$04$pcjNGnEH89EnW8o.yidw8OAzs.kwlbk9H7qqGe9r06LX4e2XH2UHm",
+        "Year": "2013-14"
+    },
+    {
+        "Beneficiaries": 0,
+        "Expenditure": 0.0,
+        "Scheme_ID": "$2b$10$GogtcfULbPB2kRJK2pTbhucBAMK91yFILg3Nxb6epi68esif59RcS",
+        "Scheme_Stat_ID": "$2b$04$H5.VJdD4aEvdag2PQHKnBOQsbvMzxQXbM.Hq6mWErA7iHmeOznvCW",
+        "Year": "2014-15"
+    },
+    {
+        "Beneficiaries": 0,
+        "Expenditure": 3200.0,
+        "Scheme_ID": "$2b$10$MCpDiROM.fTIRvxq7X62IeKZYQhN8LwAjBgYq/6rbhjlu7VhlU99O",
+        "Scheme_Stat_ID": "$2b$04$TZ.itWOYaxUr43kzQBxuveHayR3lq3Thh0II/2cOrNlzv4boKsSJi",
+        "Year": "2012-13"
+    },
+    {
+        "Beneficiaries": 0,
+        "Expenditure": 1440.0,
+        "Scheme_ID": "$2b$10$MCpDiROM.fTIRvxq7X62IeKZYQhN8LwAjBgYq/6rbhjlu7VhlU99O",
+        "Scheme_Stat_ID": "$2b$04$2gDKN1wGdPt8US.heqc1yehmB6nzQb1F0olQ8v1MQSiTkE.HkFZ/u",
+        "Year": "2013-14"
+    },
+    {
+        "Beneficiaries": 0,
+        "Expenditure": 945.0,
+        "Scheme_ID": "$2b$10$MCpDiROM.fTIRvxq7X62IeKZYQhN8LwAjBgYq/6rbhjlu7VhlU99O",
+        "Scheme_Stat_ID": "$2b$04$WxMSe61wFJUiJENAuluhQuw229fJUnHX2stVIvxmQeA45yPoque1S",
+        "Year": "2014-15"
+    },
+    {
+        "Beneficiaries": 3255,
+        "Expenditure": 800.0,
+        "Scheme_ID": "$2b$10$OElMp1mVtEzpLHgOPRpwMuOUf3h5FCelyT2vauJubd7GR20evYB02",
+        "Scheme_Stat_ID": "$2b$04$g/BAB3L8NqemSby6Oe/zzOWbHaoUfb39EW4aDPzqKJaqY7IUC9bNa",
+        "Year": "2012-13"
+    },
+    {
+        "Beneficiaries": 0,
+        "Expenditure": 800.0,
+        "Scheme_ID": "$2b$10$OElMp1mVtEzpLHgOPRpwMuOUf3h5FCelyT2vauJubd7GR20evYB02",
+        "Scheme_Stat_ID": "$2b$04$7IJFZ/vSf3u8obLKpdXQXuXLhXZD6VbHSWvVYCkLAppaZg9o1LAGy",
+        "Year": "2013-14"
+    },
+    {
+        "Beneficiaries": 0,
+        "Expenditure": 0.0,
+        "Scheme_ID": "$2b$10$OElMp1mVtEzpLHgOPRpwMuOUf3h5FCelyT2vauJubd7GR20evYB02",
+        "Scheme_Stat_ID": "$2b$04$Vp6ZG5hFF1tTg93he3GEUui53nTQycHLFQ3EZm/tsONwxJ/AIyHf6",
+        "Year": "2014-15"
+    },
+    {
+        "Beneficiaries": 507,
+        "Expenditure": 1597.05,
+        "Scheme_ID": "$2b$10$r2d.z9vcAQkyHMbBO/hYLOVI32udaKQJTC78vG/S8wppRMDJvUShi",
+        "Scheme_Stat_ID": "$2b$04$6Du46rl0uJ8.6hKjAt431u5aGU60IfxOZEo.g044FJ/2S7Ve5kJw.",
+        "Year": "2012-13"
+    },
+    {
+        "Beneficiaries": 1001,
+        "Expenditure": 3153.15,
+        "Scheme_ID": "$2b$10$r2d.z9vcAQkyHMbBO/hYLOVI32udaKQJTC78vG/S8wppRMDJvUShi",
+        "Scheme_Stat_ID": "$2b$04$ycSAQVEzdJpxILEEFInOD.Hz0GfgBNSP2a.nUtyDBD3VQTz89VSl.",
+        "Year": "2013-14"
+    },
+    {
+        "Beneficiaries": 1142,
+        "Expenditure": 3597.0,
+        "Scheme_ID": "$2b$10$r2d.z9vcAQkyHMbBO/hYLOVI32udaKQJTC78vG/S8wppRMDJvUShi",
+        "Scheme_Stat_ID": "$2b$04$9npKIvJYZxJpxrU/dN.JbumQOaMTlCfwQSbmHNLs0jKOWL5KWUAle",
+        "Year": "2014-15"
+    }
+]
