@@ -1,10 +1,10 @@
 [
   {
-    "title": "National Social Assistance Programme (NSAP):-",
+    "title": "National Social Assistance Programme (NSAP)",
     "schemes": [
       {
-        "id": "2ae684c1-6cac-4d2a-a08c-9efaed1e639e",
-        "name": "1. Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+        "id": "90b16b14-6126-42e3-b068-8d668ba348be",
+        "name": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
         "url": "https://socialwelfarekashmir.jk.gov.in/IGNOAPS.html",
         "details": {
           "Description of the Scheme": "The scheme is centrally sponsored and shared by Central and State Govt. on 50:50 basis. Financial Assistance is provided to old aged persons of 60  years age and above, living below poverty line (BPL)",
@@ -19,8 +19,8 @@
         }
       },
       {
-        "id": "acb0e76d-f690-4d24-9105-253288eec17c",
-        "name": "2. Indira Gandhi National Widow Pension Scheme (IGNWPS)",
+        "id": "0fae95f5-1695-447c-b330-8f070f47b7af",
+        "name": "Indira Gandhi National Widow Pension Scheme (IGNWPS)",
         "url": "https://socialwelfarekashmir.jk.gov.in/IGNWPS.html",
         "details": {
           "Description of the Scheme": "The scheme is centrally sponsored and shared by Centre and State Govt. on 50:50 basis.  Under the scheme widows in the age group of 40 to 79 years belonging to BPL category are eligible for monthly pension.",
@@ -35,8 +35,8 @@
         }
       },
       {
-        "id": "7ac93857-7dec-4015-ad3e-96d6940afae9",
-        "name": "3. Indira Gandhi National Disability Pension Scheme (IGNDPS)",
+        "id": "9b2a7bf8-cad0-4f3d-aef2-1b040cdc19af",
+        "name": "Indira Gandhi National Disability Pension Scheme (IGNDPS)",
         "url": "https://socialwelfarekashmir.jk.gov.in/IGNDPS.html",
         "details": {
           "error": "Failed to load details"
@@ -46,8 +46,8 @@
         }
       },
       {
-        "id": "b1ff4305-c99d-4683-869b-21796b8abdde",
-        "name": "4. National Family Benefit Scheme (NFBS)",
+        "id": "b7b3db9c-80e1-4954-9e1f-e27c707d1b05",
+        "name": "National Family Benefit Scheme (NFBS)",
         "url": "https://socialwelfarekashmir.jk.gov.in/NFBS.html",
         "details": {
           "Description of the Scheme": "National Family Benefit Scheme (NFBS) provides one-time lump sum cash assistance of Rs. 20,000 to families living below poverty line on the death of the primary bread-earner between the age group of 18-59. The objective of the scheme is to ensure social security of the households living below poverty line. The payment is to be made to the widow or the un-married daughter of the family.",
@@ -67,11 +67,11 @@
     ]
   },
   {
-    "title": "Integrated Social Security Schemes (ISSS):-",
+    "title": "Integrated Social Security Schemes (ISSS)",
     "schemes": [
       {
-        "id": "ed4870f1-c7e4-4c32-80f2-c64d0720006c",
-        "name": "1. Old Age Pension (OAP), ",
+        "id": "91376853-135c-4d39-bce8-453fa18372ba",
+        "name": "Old Age Pension (OAP),",
         "url": "https://socialwelfarekashmir.jk.gov.in/OAP.html",
         "details": {
           "Description of the Scheme": "Old aged men and women with no source of income are provided financial support in the form of pension. Applicants shall be 60 years and above in case of males and 55 years or above in case of females and the applicant should have meager source of income."
@@ -85,8 +85,8 @@
         }
       },
       {
-        "id": "7267dae9-3e30-4e62-b0dd-9589d0bfdc7a",
-        "name": "2.Widows/Women in Distress (WID), ",
+        "id": "c77c988e-e0cc-4a72-8964-421f439d5d22",
+        "name": "Widows/Women in Distress (WID),",
         "url": "https://socialwelfarekashmir.jk.gov.in/WID.html",
         "details": {
           "Description of the Scheme": "Women in distress, including destitute, separated, divorced or widow are provided financial support in the form of monthly pension. - The applicant should be aged between 40-79 years"
@@ -100,8 +100,8 @@
         }
       },
       {
-        "id": "3520fb85-f258-417f-8369-d41a8c79df14",
-        "name": "3. Pension for Physically Challenged Persons (PCP), , 4. Pension for, , Transgender Community",
+        "id": "032761e5-33c0-484a-848b-ffa6cefdbd8b",
+        "name": "Pension for Physically Challenged Persons (PCP), , 4. Pension for, , Transgender Community",
         "url": "https://socialwelfarekashmir.jk.gov.in/PCP.html",
         "details": {
           "Description of the Scheme": "The pension is provided to persons with 40% or more disability and having no source of income. Physically Challenged Person should be in the age of 18-79 years."
@@ -117,11 +117,11 @@
     ]
   },
   {
-    "title": "C.) CONTRIBUTARY SCHEME (State Sponsored )",
+    "title": ") CONTRIBUTARY SCHEME (State Sponsored )",
     "schemes": [
       {
-        "id": "ee1ed2aa-1e09-4b96-b825-9595f08309f4",
-        "name": "1. Contributory Social Security Scheme (CSSS)",
+        "id": "799fef3e-3be9-4f6a-8eda-958956455d1c",
+        "name": "Contributory Social Security Scheme (CSSS)",
         "url": "https://socialwelfarekashmir.jk.gov.in/CSSS.html",
         "details": {
           "Description of the Scheme": "With the aim to provide social security to the marginal workers having meager income the department has formulated this scheme to provide financial support on contributory basis. Marginal workers include Agricultural and Non-Agricultural Labourer, Rural Barber, Craftsman, Blacksmith, Shepherd, Masons, Weavers etc."
@@ -129,8 +129,8 @@
         "criteria": {}
       },
       {
-        "id": "c7036cce-d017-499c-913b-4f746a9cfb6c",
-        "name": "2. Aam Aadmi Bima Yojana Scheme (AABYS), , ",
+        "id": "26465228-d4a2-4969-a771-eb467a05414f",
+        "name": "Aam Aadmi Bima Yojana Scheme (AABYS), ,",
         "url": "https://socialwelfarekashmir.jk.gov.in/AABYS.html",
         "details": {
           "Description of the Scheme": "The scheme provides death and disability insurance cover to marginal sections in case the head of the family or one earning member of the household becomes disabled due to an accident or dies due to a natural/accidental cause."
@@ -143,8 +143,8 @@
     "title": "SCHOLARSHIP SCHEMES",
     "schemes": [
       {
-        "id": "9f2c8dbd-0317-401f-8624-a3d6eb282fb8",
-        "name": "1. Post-matric Scholarship for Physically Challenged, SC & OBC Students, ",
+        "id": "b9629746-35cc-40e4-8e2a-fc9666e802df",
+        "name": "Post-matric Scholarship for Physically Challenged, SC & OBC Students,",
         "url": "https://socialwelfarekashmir.jk.gov.in/POMPCOBC.html",
         "details": {
           "Eligibility": "For OBC and physically challenged students:- The income limit of parents/guardians should not exceed Rs. 1.00 lacs/year.In case of Physically Challenged, the disability should be 40% and above and should be studying in recognized institutions for professional/academic courses.- The student should not be receiving simultaneously any other scholarship from any other Institution for any other course under any other category.For Scheduled Caste/Pahari students:- The scholarship is available for students at post Matric or Post Graduation level.- Income limit of parents/guardians is Rs. 2.00 Lacs per year.- The students must be from SC/Pahari speaking category, and studying in recognized institutions for undergoing various professional/academic courses.- The student is not in receipt of any other scholarship under any other institution/course/category."
@@ -154,11 +154,11 @@
     ]
   },
   {
-    "title": "DISTRICT LEVEL SCHOLARSHIP SCHEMES:",
+    "title": "DISTRICT LEVEL SCHOLARSHIP SCHEMES",
     "schemes": [
       {
-        "id": "31d27d81-70b7-4208-8bf3-7373c7fa493f",
-        "name": "1. Pre-matric Scholarship for Physically Challenged and Other Backward Classes Students (OBC)",
+        "id": "1045ae8e-7fa9-4f31-8cd9-fa14f79a8391",
+        "name": "Pre-matric Scholarship for Physically Challenged and Other Backward Classes Students (OBC)",
         "url": "https://socialwelfarekashmir.jk.gov.in/PRMPCOBC.html",
         "details": {
           "Description of the Scheme": "Pre-matric scholarship is provided to OBC and physically challenged students from class I to X.School attendance required for all classes is 80% and above,Minimum marks obtained should be 50% and above for class VI-VIII and 55% and above for class IX-X in previous exam qualified.For all classes the income of parents/guardians should not exceed Rs. 2100/- per month"
@@ -166,8 +166,8 @@
         "criteria": {}
       },
       {
-        "id": "120227bc-98f2-4044-b86f-79075928451c",
-        "name": "2. Stipend to ITI Trainees from OBC Background",
+        "id": "623230ff-34ea-4265-923f-81656d7cff21",
+        "name": "Stipend to ITI Trainees from OBC Background",
         "url": "https://socialwelfarekashmir.jk.gov.in/SITIOBC.html",
         "details": {
           "Description of the Scheme": "Students who are studying in Industrial Training Institute and whose parental income is low, receive a monthly stipend to support them in their academic course. Students who belong to OBC category and are pursuing various technical courses in the district in Industrial Training Institutes are eligible for the stipend under the scheme. The monthly income of the parents/guardians of the students shall not exceed Rs. 2100/- per month"
@@ -175,8 +175,8 @@
         "criteria": {}
       },
       {
-        "id": "824d8f13-de2c-4ce2-aab4-561f278ac6d1",
-        "name": "3. Pre-matric Scholarship for Children of those Engaged in Unclean Occupation",
+        "id": "4e4baf3c-7c77-4242-92e2-00e9c205c0dd",
+        "name": "Pre-matric Scholarship for Children of those Engaged in Unclean Occupation",
         "url": "https://socialwelfarekashmir.jk.gov.in/PRCEUO.html",
         "details": {},
         "criteria": {}
@@ -187,8 +187,8 @@
     "title": "SCHEMES IMPLEMENTED BY MINISTRY OF",
     "schemes": [
       {
-        "id": "ad681dd3-78b8-4a56-8c3d-a8ba3e930f57",
-        "name": "1. Pre-matric Scholarship to Students belonging to National Minorities",
+        "id": "9c5a54a1-a3b1-4bcd-aab3-0dca38a42a85",
+        "name": "Pre-matric Scholarship to Students belonging to National Minorities",
         "url": "https://socialwelfarekashmir.jk.gov.in/PRSNM.html",
         "details": {
           "error": "Failed to load details"
@@ -198,8 +198,8 @@
         }
       },
       {
-        "id": "b787ebf7-5006-41f1-bf57-75f38d709b82",
-        "name": "2. Post-matric Scholarship to students belonging to National Minorities",
+        "id": "3d6f04a4-a2ce-4cb0-8279-a710de5b7123",
+        "name": "Post-matric Scholarship to students belonging to National Minorities",
         "url": "https://socialwelfarekashmir.jk.gov.in/POSNM.html",
         "details": {
           "error": "Failed to load details"
@@ -209,8 +209,8 @@
         }
       },
       {
-        "id": "5859accb-79bf-4251-b7ba-948a472c9507",
-        "name": "3. Merit-cum-Means based scholarship to students belonging to National Minorities",
+        "id": "fde07993-7748-4617-8734-34045bfded5f",
+        "name": "Merit-cum-Means based scholarship to students belonging to National Minorities",
         "url": "https://socialwelfarekashmir.jk.gov.in/MCM.html",
         "details": {
           "error": "Failed to load details"
@@ -220,8 +220,8 @@
         }
       },
       {
-        "id": "1c17f910-9f48-45d9-8ef3-ae629f0b3c8a",
-        "name": "1. Dr. Ambedkar post-matric scholarship for Economically Backward Classes, (EBC) students",
+        "id": "cdbcd132-a8b4-4037-a8f8-252b31bdbebd",
+        "name": "Dr. Ambedkar post-matric scholarship for Economically Backward Classes, (EBC) students",
         "url": "https://socialwelfarekashmir.jk.gov.in/ebc.html",
         "details": {
           "Eligibility": "Previous Class passed"
@@ -229,8 +229,8 @@
         "criteria": {}
       },
       {
-        "id": "37beeb4a-ed5d-4f97-ab0f-0259b1618e98",
-        "name": "2.",
+        "id": "bd4de561-d152-47c6-b33f-e71814778f09",
+        "name": "",
         "url": "file:///C:/Users/Desktop/website%20details/POSNM.html",
         "details": {
           "error": "Failed to load details"
@@ -240,7 +240,7 @@
         }
       },
       {
-        "id": "d2e1c324-b2a3-4c85-9372-69d03430ce19",
+        "id": "e49d62da-01e1-4dd3-a4ea-4cddc537146b",
         "name": "Dr. Ambedkar post-matric scholarship for Denotified Nomadic & Semi-, nomadic tribes(DNT) students",
         "url": "https://socialwelfarekashmir.jk.gov.in/DNTs.html",
         "details": {
@@ -249,8 +249,8 @@
         "criteria": {}
       },
       {
-        "id": "f6079d0a-91e8-4d7b-befc-90c189c8c6af",
-        "name": "3. Central sector schemes of pre and post-matric scholarship for students with, disabilities",
+        "id": "bf6ca180-c872-4e2d-adf4-2e4925bb5243",
+        "name": "Central sector schemes of pre and post-matric scholarship for students with, disabilities",
         "url": "https://socialwelfarekashmir.jk.gov.in/CSPMSD.html",
         "details": {
           "Eligibility": "Previous Class passed"
@@ -263,8 +263,8 @@
     "title": "MISCELLANEOUS WELFARE SCHEMES",
     "schemes": [
       {
-        "id": "c5912297-793e-4915-97bb-f5c7730b109a",
-        "name": "1. Financial assistance to Gadhanjis (Fishermen)",
+        "id": "74c973ec-2d91-4be3-a37b-1ce5cfb9ebd5",
+        "name": "Financial assistance to Gadhanjis (Fishermen)",
         "url": "https://socialwelfarekashmir.jk.gov.in/FAGH.html",
         "details": {
           "error": "Failed to load details"
@@ -274,8 +274,8 @@
         }
       },
       {
-        "id": "4b8dcb4c-db1a-4645-9558-128a5b43d167",
-        "name": "2. Grant of Prosthetic Aid for fitting-up/repairing of Artificial Limbs",
+        "id": "b8881d68-5e77-4433-a2e4-5e4287915457",
+        "name": "Grant of Prosthetic Aid for fitting-up/repairing of Artificial Limbs",
         "url": "https://socialwelfarekashmir.jk.gov.in/PAAL.html",
         "details": {
           "error": "Failed to load details"
@@ -285,8 +285,8 @@
         }
       },
       {
-        "id": "4a1047d7-ece5-40d2-9eec-6d5c24c50d48",
-        "name": "3. Grant in Aid to NGO's",
+        "id": "895e2bcf-fbaa-45e0-99e1-432f946b22be",
+        "name": "Grant in Aid to NGO's",
         "url": "https://socialwelfarekashmir.jk.gov.in/NGO.html",
         "details": {
           "Description of the Scheme": "The Department is providing grant-in-aid to registered voluntary organizations for various welfare schemes like income generations, running of homes for destitute/ orphans etc.",
@@ -299,8 +299,8 @@
         }
       },
       {
-        "id": "ceede617-633d-40ab-9e46-341a85149494",
-        "name": "4. State Marriage Assistance Scheme",
+        "id": "11dac949-778d-4fc7-82ae-4e390b8c0283",
+        "name": "State Marriage Assistance Scheme",
         "url": "https://socialwelfarekashmir.jk.gov.in/State%20Marriage%20Assistance%20Scheme.html",
         "details": {
           "Description of the Scheme": "“State Marriage Assistance Scheme”"
@@ -311,8 +311,8 @@
         }
       },
       {
-        "id": "0ed871ab-9f12-4003-89df-42cb9759561b",
-        "name": "5. AASRA",
+        "id": "2b179dae-795d-4130-8be3-f654185950b8",
+        "name": "AASRA",
         "url": "https://socialwelfarekashmir.jk.gov.in/AASRA.html",
         "details": {
           "Description of the Scheme": "“Aasra”",
@@ -324,8 +324,8 @@
         }
       },
       {
-        "id": "b9eb5fd4-46e6-48d8-b8dc-424bd13adff1",
-        "name": "6. HUNAR",
+        "id": "8fc4a773-7134-4585-86e3-300324381d69",
+        "name": "HUNAR",
         "url": "https://socialwelfarekashmir.jk.gov.in/HUNAR.html",
         "details": {
           "Description of the Scheme": "“Hunnar”"

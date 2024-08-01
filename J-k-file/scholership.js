@@ -2,6 +2,18 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const { v4: uuidv4 } = require('uuid'); // Import the uuid library
 
+// Function to clean unwanted prefixes from the title and name
+function cleanText(text) {
+    // Remove prefixes like "C.) " or "1. " or "1) " or "A. " at the start of the string
+    return text
+        // Remove unwanted prefixes like "A) ", "1. ", "2) ", "1.1 ", etc. from the start
+        .replace(/^\s*(?:\d+\.\s*|\d+\)\s*|[A-Z]\)\s*|[A-Z]\.\s*)/, '')
+        // Remove unwanted suffixes like ":-", ":", " -", etc. from the end
+        .replace(/[\:\-\—\|\—]+\s*$/, '')
+        .trim();
+
+}
+
 async function scrap() {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
@@ -68,6 +80,7 @@ async function scrap() {
 
     // Visit each scheme URL and extract additional details and criteria
     for (const section of filteredData) {
+        section.title = cleanText(section.title); // Clean the section title
         for (const scheme of section.schemes) {
             try {
                 await page.goto(scheme.url, { waitUntil: 'networkidle2' });
@@ -123,12 +136,15 @@ async function scrap() {
                 scheme.details = { error: 'Failed to load details' };
                 scheme.criteria = { error: 'Failed to load criteria' };
             }
+
+            scheme.name = cleanText(scheme.name); // Clean the scheme name
         }
     }
 
     console.log(filteredData);
-    fs.writeFileSync("monu.json", JSON.stringify(filteredData, null, 2)); // Write only data to the file
+    fs.writeFileSync("J-k-file/monu.json", JSON.stringify(filteredData, null, 2)); // Write only data to the file
     await browser.close();
 }
 
 scrap();
+
