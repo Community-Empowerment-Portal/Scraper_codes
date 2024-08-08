@@ -1,6 +1,8 @@
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer-extra');
+const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const { v4: uuidv4 } = require('uuid');
 const fs = require('fs/promises'); // Using fs.promises for async file operations
+puppeteer.use(StealthPlugin());
 
 const config = {
   baseUrl: "https://sje.gujarat.gov.in/dscw/Schemes?lang=English",
@@ -14,7 +16,7 @@ const config = {
 };
 
 async function extractUrls(thisPage) {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   await page.goto(thisPage, { waitUntil: "networkidle2" });
   const urls = await page.evaluate((selectors) => {
@@ -35,11 +37,11 @@ async function extractUrls(thisPage) {
 }
 
 async function scrapeData(thisUrl, parentTitle) {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   await page.goto(thisUrl, { waitUntil: "networkidle2" });
 
-  const data = await page.evaluate((selectors) => {
+  const data = await page.evaluate((selectors, url) => {
     const details = {};
     const titles = document.querySelectorAll(selectors.detailTitle);
     const contents = document.querySelectorAll(selectors.detailContent);
@@ -55,8 +57,11 @@ async function scrapeData(thisUrl, parentTitle) {
       details[title.textContent.trim()] = content;
     });
 
+    // Add the scheme link to the details
+    details["scheme_link"] = url;
+
     return details;
-  }, config.selectors);
+  }, config.selectors, thisUrl); // Pass `thisUrl` as an argument to `page.evaluate`
 
   await browser.close();
   return {
@@ -65,6 +70,7 @@ async function scrapeData(thisUrl, parentTitle) {
     id: uuidv4(),
   };
 }
+
 
 async function main() {
   try {
