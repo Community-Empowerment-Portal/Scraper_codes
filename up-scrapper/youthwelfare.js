@@ -69,7 +69,7 @@ const urls = [
     for (const url of urls) {
         await page.goto(url);
 
-        const data = await page.evaluate(() => {
+        const data = await page.evaluate((url) => {
             const extractText = (selector) => {
                 const element = document.querySelector(selector);
                 return element ? element.innerText.trim() : null;
@@ -85,6 +85,7 @@ const urls = [
 
             const scheme = {
                 title: extractText('.inner-head-left h2'),
+                scheme_link:url,
                 department: extractText('.top-bage-wrapper .badge:first-child'),
                 type: Array.from(document.querySelectorAll('.mid-bage-wrapper .badge')).map(badge => badge.innerText.trim()),
                 overview: extractText('#Overview p'),
@@ -99,14 +100,14 @@ const urls = [
                     return { question, answer };
                 }),
             };
-
+            console.log("aa raha hai...")
             return scheme;
-        });
+        }, url);
 
         allSchemes.push(data);
     }
 
     fs.writeFileSync('youthwelfare.json', JSON.stringify(allSchemes, null, 2));
-
+    console.log("saved data to file");
     await browser.close();
 })();
