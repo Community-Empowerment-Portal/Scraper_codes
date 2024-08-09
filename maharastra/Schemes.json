@@ -2,6 +2,7 @@
   {
     "title": "Education loan Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Education loan Scheme",
       "Funding by": "Central Government Schemes  National Scheduled Castes Finance and Development Corporation, New Delhi (NSFDC)",
       "Scheme Objective": "The main object of the Corporation is to implement various schemes to uplift lifestyle of Charmakars (Dhor, Chambhar, Holar,Mochi etc.) who are economically weak and below poverty line and with an intention to develop them educationally, economically and socially so as to give them respectable place in Society. Also production of various types of Footwear  Leather Articles  supply to Government Departments  sale in Open Market.",
@@ -29,11 +30,12 @@
         }
       ]
     },
-    "id": "fab03d6d-8817-4a54-8aec-9dd25d11d576"
+    "id": "c9f32b6e-3b77-4e6c-9c68-51b20ac6639a"
   },
   {
     "title": "Training Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Scheme": "Detailed  Information",
       "Name of the Scheme": "training Scheme",
       "Funding by": "State Government Schemes",
@@ -67,11 +69,12 @@
         }
       ]
     },
-    "id": "685be3f4-dd07-4f1f-bc2e-d9bd820aea6f"
+    "id": "29a21b0d-2c7a-427d-80c3-f5ab898b23d7"
   },
   {
     "title": "Maintenance Allowance to B.C. Students Studying in Sainik School.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Maintenance Allowance to B.C. Students Studying in Sainik School.",
       "Funding By": "State",
       "Scheme Objective": "OBC students should have access to national protection Prabodhini, military forces to be recruited them students, students in the discipline, confidence, courage, leadership, patriotism has been launched to cultivate these qualities, etc.",
@@ -104,11 +107,12 @@
         }
       ]
     },
-    "id": "81fbd334-f24c-4534-adac-9074490bac4e"
+    "id": "e296d099-4530-4299-a0dc-226b1484494a"
   },
   {
     "title": "Training of Motor Driving to VJNT, SBC & OBC",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Training of Motor Driving to VJNT, SBC & OBCS",
       "Funding By": "State",
       "Scheme Objective": "To create employment chances for VJNT, OBC & SBC youth.",
@@ -119,11 +123,12 @@
       "Category of Scheme": "Economic Upliftment.",
       "Contact Office": "Approved Driving School.Assistant Commissioner of Social Welfare concerned District."
     },
-    "id": "af00b4dd-4d57-430d-aa8d-fa0c4940e525"
+    "id": "cf90bd15-d2c6-44ab-9e34-13104e51df61"
   },
   {
     "title": "Savitribai Phule Scholarship for VJNT and SBC girls students studying in 5th to 7th std.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Savitribai Phule Scholarship for V.J.N.T and S.B.C girls students studying in 5th to 7th std.",
       "Funding By": "State",
       "Scheme Objective": "For encouraging the enrollment and presently of VJNT / SBC girl students studying in 5th to 7th standard, Government has introduced this scheme.",
@@ -134,11 +139,12 @@
       "Category of Scheme": "Education",
       "Contact Office": "District Social Welfare Zillah Parishad of concerned District.Head Master of concerned School."
     },
-    "id": "b3096487-df54-4253-a26c-b8b987e47907"
+    "id": "2b3913fd-a842-4d40-aaed-28c7ae9870b5"
   },
   {
     "title": "Meritorious Scholarships to VJNT and SBC students studying in Secondary Schools.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Meritorious Scholarships to VJNT and SBC students studying in Secondary Schools.",
       "Funding By": "State",
       "Scheme Objective": "To motivate Backward Class students for education.",
@@ -149,11 +155,12 @@
       "Category of Scheme": "Education.",
       "Contact Office": "The Head Master of School.District Social Welfare Officer, Zillah Parishad concerned.The Assistant Commissioner of Social Welfare Mumbai City."
     },
-    "id": "f0616091-9987-4034-b9b2-5245ea8e2672"
+    "id": "133f0c5b-283e-464d-ad80-d483c700e70d"
   },
   {
     "title": "Tuition fees and Examination fees to VJNT/SBC students studying in High Schools.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Tuition fees and Examination fees to VJNT/SBC students studying in High Schools.",
       "Funding By": "State",
       "Scheme Objective": "To improve the interests of VJNT/SBC students in High Schools. To help and encourage the VJNT/SBC parents/ guardians for their children education.",
@@ -164,11 +171,12 @@
       "Category of Scheme": "Education.",
       "Contact Office": "The Head Master of School.District Social Welfare Officer, Zillah Parishad concerned.The Assistant Commissioner of Social Welfare Mumbai City."
     },
-    "id": "107bfbcc-e011-4d71-bd8b-81b4a4e7b074"
+    "id": "a451f2de-c3d4-4b6e-a6d8-554303897b42"
   },
   {
     "title": "Award of stipend to VJNT and SBC students studying in ITI",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Award of stipend to V.J.N.T and S.B.C students studying in I.T.I",
       "Funding By": "State",
       "Scheme Objective": "To encourage V.J.N.T. & S.B.C. students and promote the interest in Technical education.",
@@ -179,11 +187,12 @@
       "Category of Scheme": "Education.",
       "Contact Office": "Assistant Commissioner of Social Welfare concerned District.Principal, Industrial Training Institute."
     },
-    "id": "b65e325a-cebd-4d71-bcab-4eb649b00bdf"
+    "id": "45104437-0c5b-48c7-bf4a-1442cb5b57a8"
   },
   {
     "title": "Vocational Training for VJNT and SBC candidates studying in Government Industrial Training Institute.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Vocational Training for VJNT and SBC candidates studying in Government Industrial Training Institute.",
       "Funding By": "State",
       "Scheme Objective": "The State Government has introduced in 2003-04 the scheme to create self-employment for unemployed youths and students of VJNT and SBC who apply for a Vocational Training. He will be given the Vocational Training in Government I.T.I and undergo short duration vocational training courses. The short duration vocational courses will enable the youths to create their own employment in service sector.",
@@ -194,11 +203,12 @@
       "Category of Scheme": "Education.",
       "Contact Office": "Assistant Commissioner of Social Welfare concerned District.Principal of Government Industrial Training Institutes."
     },
-    "id": "fed05b8f-739c-4dfd-b229-e420d6024b33"
+    "id": "57bded54-cfa2-4281-8075-004e7a0512b5"
   },
   {
     "title": "Maintenance allowance to Backward Class students under training in Sainik Schools.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Maintenance allowance to Backward Class students under training in Sainik Schools.",
       "Funding By": "State",
       "Scheme Objective": "VJNT and SBC students are paid maintenance so that a maximum number of students can take admission to Sainik School with a view to seek admission in N.D.A.",
@@ -209,11 +219,12 @@
       "Category of Scheme": "Education.",
       "Contact Office": "Assistant Commissioner of Social Welfare concerned District.Principal of Sainik School of concerned district."
     },
-    "id": "b1e8a875-9378-4a32-8d06-3a5f49a57242"
+    "id": "06578d95-aad1-496d-aeba-25ec22642d30"
   },
   {
     "title": "Payment of maintenance allowance to VJNT and SBC students studying in professional courses and living in hostel attached to professional colleges.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Payment of maintenance allowance to V.J.N.T and SBC students studying in professional courses and living in hostel attached to professional colleges.",
       "Funding By": "State",
       "Scheme Objective": "This scheme is introduced to complete the education of V.J.N.T and S.B.C students who are the student of professional courses.",
@@ -224,11 +235,12 @@
       "Category of Scheme": "Education",
       "Contact Office": "Assistant Commissioner of Social Welfare concerned District.Principal of concerned College."
     },
-    "id": "b77300bd-0b07-4302-8ec2-25595e02a74f"
+    "id": "7e8fc658-c8b2-461f-bcd9-ab63279d3254"
   },
   {
     "title": "Savitribai Phule Scholarship for VJNT and SBC girls students studying in 8th to 10 std.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Savitribai Phule Scholarship for V.J.N.T and S.B.C girls students studying in 8th to 10 std.",
       "Funding By": "State",
       "Scheme Objective": "For encouraging the enrollment and presently of VJNT / SBC girl students studying in 8th to 10th standard, Government has introduced this scheme from the academic year 2003-04.",
@@ -239,11 +251,12 @@
       "Category of Scheme": "Education",
       "Contact Office": "Assistant Commissioner of Social Welfare concerned District.Head Master of concerned School."
     },
-    "id": "e5bd80d9-6143-4ada-92c6-fa5ac4bdaec0"
+    "id": "244a293b-8dde-401f-ba7b-e73eecd87d49"
   },
   {
     "title": "Rajarshi Chhatrapati Shahu Maharaj Merit Scholarship.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Rajarshi Chhatrapati Shahu Maharaj Merit Scholarship.",
       "Funding By": "State",
       "Scheme Objective": "To create competition spirit among VJNT and SBC students, Government has introduced this scheme from the academic year 2003-04, vide G.R no.EBC-204/CR-2004/BCW-3, dated 25th July 2003.This scholarship is separate from Post Matric Scholarship. No income limit is applicable.",
@@ -254,11 +267,12 @@
       "Category of Scheme": "Education.",
       "Contact Office": "Assistant Commissioner of Social Welfare concerned District.Principal of concerned College."
     },
-    "id": "270c7806-7322-4593-a72f-0392c8badca9"
+    "id": "5a1b8435-cfc1-4410-9c84-58dfed751cf4"
   },
   {
     "title": "Education Loan (National Backward Classes Finance & Development Corporation, New Delhi & State Corporation jointly.)",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Education Loan",
       "Funding by": "National Backward Classes Finance & Development Corporation, New Delhi & State Corporation jointly.",
       "Scheme Objective": "To provide loan to the Students studying in Profession and Technical courses in Government recognised Institutes.",
@@ -269,11 +283,12 @@
       "Category of Scheme": "Education",
       "Contact Office": "Concern District Office of the Corporation."
     },
-    "id": "4bdf99d0-b550-4e38-89dd-fa60c6dc4bf3"
+    "id": "d801b5a1-c614-4fa6-90a6-268a35afc831"
   },
   {
     "title": "Opening and maintenance of Public School (Vidya Niketan) for Vimukta Jatis and Nomadic Tribes",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Opening and maintenance of Public School (Vidya Niketan) for Vimukta Jatis and Nomadic Tribes",
       "Funding By": "State",
       "Scheme Objective": "Government has granted permission to voluntary organization to run the Public School (Vidya Niketan) on grant-in-aid basis at Kamlewadi, Taluka Mukhed, District Nanded for the needy, brilliant and talented students belonging to VJNT Category. In this public school, students gets education from 5th to 12th standard on merit basis.",
@@ -284,11 +299,12 @@
       "Category of Scheme": "Education.",
       "Contact Office": "Assistant Commissioner Social Welfare of concerned District.Principal of Vidyaniketan, Kamlewadi, Tq. Mukhed Dist. Nanded"
     },
-    "id": "254c3bf6-6d04-483e-b54f-6bcfab46dcdb"
+    "id": "38d3e963-c9f4-4f21-ba47-628a644f95ad"
   },
   {
     "title": "Opening and running Junior Colleges for VJNT students run by voluntary agencies.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Opening and running Junior Colleges for VJNT students run by voluntary agencies.",
       "Funding By": "State",
       "Scheme Objective": "For educational and social development of VJNT students Govt. vide G.R. dated 26/6/2008 has started (11th and 12th class) Junior College education by upgrading the 148 secondary Ashram Schools in existence. Free lodging and boarding facilities along with necessary educational goods, stationary is being provided as per norms.",
@@ -299,11 +315,12 @@
       "Category of Scheme": "Education.",
       "Contact Office": "Assistant Commissioner Social Welfare of concerned District.Head Master of concerned Ashram School."
     },
-    "id": "7053b374-5934-47d4-a76e-f5190c110419"
+    "id": "e755c176-2ab8-497a-b69a-0af5ebe5c010"
   },
   {
     "title": "Opening and running Ashram Schools for VJNT students through voluntary agencies.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Opening and running Ashram Schools for VJNT students through voluntary agencies.",
       "Funding By": "State",
       "Scheme Objective": "As a special measure for providing educational facilities to the pupils belonging to Vimukta Jatis and Nomadic Tribes, Government has encouraged the establishment of Ashram Schools with residential facilities to the children since 1954 through recognized NGO’s. Permission to open Ashram Schools is granted to such voluntary agencies which show interest in conducting schools for Vimukta Jatis / Nomadic Tribes etc., and are prepared to maintain the Ashram School as per terms and conditions prescribed by Government.",
@@ -314,11 +331,12 @@
       "Category of Scheme": "Education.",
       "Contact Office": "Assistant Commissioner Social Welfare of concerned District.Head Master of concerned Ashram School."
     },
-    "id": "e6c9813d-d4d6-4178-9a50-a5402836bed6"
+    "id": "e74b4e26-0d48-4ef6-9577-0cfe237bc4f2"
   },
   {
     "title": "Vasantrao Naik Merit Awards to the VJNT students who came First in State or First in Board of 10th and 12th Standard Examination.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Vasantrao Naik Merit Awards to the VJNT students who came First in State or First in Board of 10th and 12th Standard Examination.",
       "Funding By": "State",
       "Scheme Objective": "To motivate VJNT students for Higher Education.",
@@ -329,11 +347,12 @@
       "Category of Scheme": "Education.",
       "Contact Office": "Assistant Commissioner of Social Welfare concerned District.Director, VJNT, OBC, SBC. Welfare, M.S. Pune."
     },
-    "id": "4e1e0aea-adb4-4a28-a00d-867f3b0b5a4d"
+    "id": "c7077c3b-4efb-4586-a5b1-5781c0766b38"
   },
   {
     "title": "Tuition fees and examination fees to VJNT students.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Tuition fees and examination fees to VJNT students.",
       "Funding By": "State",
       "Scheme Objective": "Under the scheme, all the students belonging to V.J. and N.T. are being reimbursed of the payment of (i) Tuition Fees, (ii) Admission Fees (iii) Term Fees (iv) Library Fees, (v) Laboratory Fees, (vi) Gymkhana Fees, and (vii) Examination Fees at Post Matriculation education in recognized educational institutions. Student with one failure and those not covered under Government of India Scholarship are also held eligible for such reimbursement.",
@@ -344,11 +363,12 @@
       "Category of Scheme": "Education",
       "Contact Office": "Assistant Commissioner of Social Welfare concerned District.Principal of concerned College."
     },
-    "id": "681ff708-30be-41cd-989a-58d3d76d0851"
+    "id": "761fdd62-0ed1-4540-aa31-d9e6249cd3aa"
   },
   {
     "title": "Post-Matric Scholarship to VJNT students.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Post-Matric Scholarship to VJNT students.",
       "Funding By": "State",
       "Scheme Objective": "In order to encourage the VJNT students to undergo Post-Matric Courses, the Government of Maharashtra has introduced a scheme known as the Government of Maharashtra Post-Matric Scholarship to V.J.N.T. students.",
@@ -359,11 +379,12 @@
       "Category of Scheme": "Education",
       "Contact Office": "Assistant Commissioner of Social Welfare concerned District.Principal of concerned College."
     },
-    "id": "edd96249-a168-4221-9c21-47b71a67371f"
+    "id": "b85ea2bd-c668-419d-a865-b1ad25c1155f"
   },
   {
     "title": "Government institution for Special Education and Vocational Training Centre",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Government institution for Special Education and Vocational Training Centre",
       "Funding by": "State Government",
       "Scheme objective": "Special education given to special children in these Government special school between the age 6 to 18 yr and above 18 yrs the vocational training given to special children.",
@@ -374,11 +395,12 @@
       "Category of Scheme": "Education",
       "Contact Office": "Government Institution and District social welfare office Zilha parishad/Assistant Commissioner Social welfare office Mumbai urban / Mumbai suburban"
     },
-    "id": "0f34448a-092f-4143-a7fd-baa753e9607a"
+    "id": "536937a1-b2e0-4311-a51c-2e9e72c711ab"
   },
   {
     "title": "Non-Governmental Aided organization (Special Schools and Vocational Training Centre) for Disable.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Non-Governmental Aided organization (Special Schools and Vocational Training Centre) for Disable.",
       "Funding by": "State Government",
       "Scheme objective": "Special education is provided to disabled children below the age of 18 years in the special school which are run by Non-Governmental Aided organization. Vocational training is also given to special children above 18 yrs",
@@ -389,11 +411,12 @@
       "Category of Scheme": "Education and Vocational Training",
       "Contact Office": "voluntary organization and District social welfare office Zillah Parishad/Assistant Commissioner Social welfare office Mumbai urban / Mumbai suburban"
     },
-    "id": "3944461d-0318-4fd8-ac8e-7504c6736731"
+    "id": "143c9b48-bcf8-49b5-87a2-0d84ba0acec2"
   },
   {
     "title": "Tuition fees and examination fees to OBC. students.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Tuition fees and examination fees to O.B.C. students.",
       "Funding By": "State",
       "Scheme Objective": "Under the scheme, the students belonging to O.B.C. are being reimbursed of the payment of (i) Tuition Fees, (ii) Admission Fees (iii) Term Fees (iv) Library Fees, (v) Laboratory Fees, (vi) Gymkhana Fees, and (vii) Examination Fees at Post Matriculation education in recognized educational institutions. Student with one failure and those not covered under Government of India Scholarship are also held eligible for such reimbursement.",
@@ -404,11 +427,12 @@
       "Category of Scheme": "Education",
       "Contact Office": "Assistant Commissioner of Social Welfare concerned District.Principal of concerned College."
     },
-    "id": "32c1e1af-3e98-4d34-a852-9123cf7bda18"
+    "id": "a0efddb1-6d87-4d9e-8098-49c41b8c5036"
   },
   {
     "title": "Post-Matric Scholarship to OBC. students.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Post-Matric Scholarship to O.B.C. students.",
       "Funding By": "Centre",
       "Scheme Objective": "In order to encourage the O.B.C. students to undergo Post-Matric Courses, the Government of Maharashtra has introduced a scheme known as the Government of Maharashtra Post-Matric Scholarship to O.B.C. students.",
@@ -419,11 +443,12 @@
       "Category of Scheme": "Education",
       "Contact Office": "Assistant Commissioner of Social Welfare concerned District.Principal of concerned College."
     },
-    "id": "7eb76f6b-2b01-410d-8fe1-fd8d78cf3dc6"
+    "id": "2779d847-35cd-499a-bf70-34978adb6472"
   },
   {
     "title": "Homes for Intellectually Impaired Persons",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Homes for Intellectually Impaired Persons",
       "Funding by": "State Government",
       "Scheme objective": "Mentally Deficient Children Home functioning under the provisions of Maharashtra Juvenile Justice (Care & Protection of children) Act 2000 and amendment Act 2006. The numbers of MDC homes are 19 out of which 14 are granted and 5 are non- granted.",
@@ -434,11 +459,12 @@
       "Category of Scheme": "Care and protection, education training.",
       "Contact Office": "Concern Child Welfare Committee of District."
     },
-    "id": "f71a4c03-e131-4d9c-86fc-115df75bbc16"
+    "id": "c49cc062-bfdf-44c3-9370-af4627eddafa"
   },
   {
     "title": "Book Bank for Scheduled Caste Students",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Book Bank for Scheduled Caste Students",
       "Funding By": "Central",
       "Scheme Objective": "The existing Centrally Sponsored Scheme of Book Banks for SC Students stand merged with the Centrally Sponsored Scheme of Post-Matric Scholarship for SC students.",
@@ -471,11 +497,12 @@
         }
       ]
     },
-    "id": "b8b5df9d-daa5-4733-b445-8d420c0ed3f4"
+    "id": "c6face57-33f7-4686-9120-f9cc62236518"
   },
   {
     "title": "Stipends to Trainees in Industrial Training Institute",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Stipends to trainees in Industrial training Institute",
       "Funding By": "State",
       "Scheme Objective": "From this scheme the Technical training is given to Scheduled Caste students in ITI. for their job opportunities",
@@ -508,11 +535,12 @@
         }
       ]
     },
-    "id": "a37e13f2-ad75-4556-84bd-296ed5bba0c7"
+    "id": "a8cb1506-dc9f-44e3-8cf3-2ce6586b088a"
   },
   {
     "title": "Professional Technical Training to Scheduled Caste Students through ITI (Professional Training on Demand)",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Professional Technical training to Scheduled Caste Students through ITI (Professional training on Demand)",
       "Funding By": "State",
       "Scheme Objective": "Through this scheme Government has decided to provide short term technical courses training to less  educated Scheduled Caste students through ITI. and other training institutes. Due to this training student will get a benefit of self-employment.",
@@ -545,11 +573,12 @@
         }
       ]
     },
-    "id": "e43add7d-2fec-4e15-9798-d67df47afc59"
+    "id": "90ae616c-1aa9-40f3-b5df-c14267cc3301"
   },
   {
     "title": "Professional training allowance and subsistence stipend attached to the hostel students",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Professional training allowance and subsistence stipend attached to the hostel students",
       "Funding By": "State",
       "Scheme Objective": "The students of Medical, engineering, agriculture, etc. are given an allowance and subsistence to  scheduled caste students who are attached to the commercial college and hostel",
@@ -582,11 +611,12 @@
         }
       ]
     },
-    "id": "236de85b-f5f9-4f7c-bf9b-fa94c57cb47c"
+    "id": "e8e08345-e8db-4cef-b4ae-3017c72ed39b"
   },
   {
     "title": "Opening and running Ashram Schools through voluntary agencies for Children of Sugarcane cutting labour.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Opening and running Ashram Schools through voluntary agencies for Children of Sugarcane cutting labour.",
       "Funding By": "State",
       "Scheme Objective": "Sugarcane cutting labour migrates for their work for 4 to 5 months anywhere in Maharashtra. To avoid the gap in education of their children, and to protect their educational career Govt. has sanctioned 2 residential Ashram Schools for Sugarcane cutting labour Children in Beed District.",
@@ -597,11 +627,12 @@
       "Category of Scheme": "Education.",
       "Contact Office": "(1) Assistant Commissioner Social Welfare of concerned District.(2) Head Master of concerned Ashram School."
     },
-    "id": "83ec7f71-f1ee-4be0-aaa6-3ecfa519c852"
+    "id": "d1b8d56d-51c7-41cd-9b4c-4a3b8150f2cf"
   },
   {
     "title": "Tuition fees and examination fees to Backward Class Students.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Tuition fees and examination fees to Backward ClassStudents.",
       "Funding By": "State",
       "Scheme Objective": "In order to encourage the Backward Class Students to undergo Post-Matric Courses, the Government of India has introduced a scheme known as the Government of India Post-Matric Scholarship to Scheduled Castes students.",
@@ -634,11 +665,12 @@
         }
       ]
     },
-    "id": "1f8eb843-b7a0-4fcb-b5bb-c74c6b727139"
+    "id": "a5bd2eaf-0ce6-4e98-a9c2-87e388596d84"
   },
   {
     "title": "Award of Scholarship to Backward Class Students In High Schools.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Award of Scholarship to Backward Class Students In High Schools.",
       "Funding By": "State",
       "Scheme Objective": "The students of Scheduled Caste of Std 5th and 7th as well as 8th and 10th first two students are eligible for this scheme.",
@@ -671,11 +703,12 @@
         }
       ]
     },
-    "id": "2ad15507-1463-4944-b98f-333e215f79c5"
+    "id": "d51e5171-474d-4aa0-ad99-1b3892d183c7"
   },
   {
     "title": "State Post-metric Scholarship for Disabled",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "State Post-metric Scholarship for Disabled",
       "Funding by": "State Government",
       "Scheme objective": "To encourage higher education of disabled students.",
@@ -686,11 +719,12 @@
       "Contact Office": "District Social Welfare Office Zillah Parishad & Assistant Commissioner Social Welfare Office ,Mumbai Urban & Mumbai Suburban",
       "Statistical Summary": []
     },
-    "id": "9d2abab2-9a4c-4c28-b5b6-2be0549899f2"
+    "id": "3b682ed2-1f94-49bd-80a5-1e0bfcd8c502"
   },
   {
     "title": "State Pre-metric Scholarship for Disabled",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "State Pre-metric Scholarship for Disabled",
       "Funding by": "State Government",
       "Scheme objective": "To encourage education of disabled children.",
@@ -707,11 +741,12 @@
       "Contact Office": "District Social Welfare Office, Zillah Parishad & Assistant Commissioner Social Welfare Office ,Mumbai Urban & Mumbai Suburban",
       "Statistical Summary": []
     },
-    "id": "7cb943f2-08e2-438d-8778-0c3f085041cf"
+    "id": "73825a57-a916-48ea-8e86-a86fa9d6ef77"
   },
   {
     "title": "Grant for SC ashram school",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Grant for SC ashram school",
       "Funding by": "State government",
       "Scheme Objective": "The scheme is started since 1996-97 on the VJNT ashram school basis, specifically  low literacy rate District, to promote education rate SC community",
@@ -734,11 +769,12 @@
         }
       ]
     },
-    "id": "a7b14bf2-3d18-46fe-80b7-034975e2c73f"
+    "id": "6d674be6-f8d9-48ea-874d-1746ddb1f75c"
   },
   {
     "title": "social work college (Grants for social welfare institution)",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "social work college (Grants for social welfare institution)",
       "Funding by": "State Government",
       "Scheme Objective": "The scheme is started  since 1966 for the purpose of  promote social work education, also develop trained human resource, & increase their Quality. Etc.",
@@ -761,11 +797,12 @@
         }
       ]
     },
-    "id": "828d0467-39b5-473f-b0df-9f42cd859d45"
+    "id": "b3a2d0ee-be91-4583-8edb-4f9d9e3a7c99"
   },
   {
     "title": "Government of India Post-Matric Scholarship Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Government of India Post-Matric Scholarship Scheme",
       "Funding By": "Central",
       "Scheme Objective": "In order to encourage the Backward Class Students to undergo Post-Matric Courses, the Government of India has introduced a scheme known as the Government of India Post-Matric Scholarship to Scheduled Castes students.",
@@ -798,11 +835,12 @@
         }
       ]
     },
-    "id": "2bfcd384-1d81-4dc7-8442-1394ff97b8cf"
+    "id": "ac024cb2-5ea3-4d1a-b76a-35088d631a6e"
   },
   {
     "title": "Savitribai Phule Scholarship Award of Scholarships to B.C. Girl Students studying in Std. 8th to10th",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Savitribai Phule Scholarship Award of Scholarships to B.C. Girl Students studying in Std. 8th to10th",
       "Funding By": "State",
       "Scheme Objective": "The scheme named as Savitribai Phule Scholarship for Scheduled Caste Girls is introduced.",
@@ -835,11 +873,12 @@
         }
       ]
     },
-    "id": "fbfdd6c7-f6ea-4ea5-8e14-4d3b9312c52a"
+    "id": "fed2d0ee-71f7-437f-bff7-73070de3ca68"
   },
   {
     "title": "Rajarshi Chatrapati Shahu Maharaj Merit Awards",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Rajarshi Chatrapati Shahu Maharaj Merit Awards",
       "Funding By": "State",
       "Scheme Objective": "10th and 12th of the special examination of the Scheduled Castes Students are provided for backward pronounced success getting Boys and girls Rajarshi Chatrapati Shahu Maharaj Quality Award",
@@ -872,11 +911,12 @@
         }
       ]
     },
-    "id": "7ea51f46-1044-4cc3-8226-926da77b7359"
+    "id": "50221b34-6e32-4206-b2e0-162a64205037"
   },
   {
     "title": "Rajarshi Shahu Maharaj Merit Scholarship to Scheduled Caste Students who secured 75 percent and then 75 percent marks in the S.S.C. Examination",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Rajarshi Shahu Maharaj Merit Scholarship to Scheduled Caste Students who secured 75 percent and then 75 percent marks in the S.S.C. Examination",
       "Funding By": "State",
       "Scheme Objective": "To develop and enhance in the merit as well as to encourage the Scheduled Caste students this new scheme is introduced by the government vide G.R. EBC 2003/C No. 115/BCW-2 dated 11th June 2003",
@@ -909,11 +949,12 @@
         }
       ]
     },
-    "id": "dd00590e-82d7-4350-917c-4a3dd0cedc72"
+    "id": "8e0e29f5-ea0d-4c0b-825a-8b4cf416cd7d"
   },
   {
     "title": "Scholarship to the Scheduled Caste Students for Aboard Studies.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Scholarship to the Scheduled Caste Students for Aboard Studies.",
       "Funding By": "State",
       "Scheme Objective": "Due to weak economic and financial condition Scheduled Caste students cannot afford the higher education in prominent universities in the foreign countries.  To overcome this difficulty Government of Maharashtra has introduced this scheme as per G.R. No. EBC-2003/C No. 115/BC-2, dated 11th June 2003.",
@@ -946,11 +987,12 @@
         }
       ]
     },
-    "id": "873fc431-3160-4964-9cae-00120554aad4"
+    "id": "78081cff-f328-4566-8052-5e21b6e190b8"
   },
   {
     "title": "Rajarshi Shahu Maharaj Scholarship to 100 Scheduled Caste Students for the Higher Education in the Country",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Rajarshi Shahu Maharaj Scholarship to 100 Scheduled Caste Students for the  Higher Education in the Country",
       "Funding By": "State",
       "Scheme Objective": "Scheduled Caste students must get the essential knowledge and skill, as well as they can face the competition, it is essential for Scheduled Caste students to provide free higher education in the prominent institutions in the India.  Taking into consideration the fact State Government has introduced the new scheme 100 Scheduled Caste students studying in the countrywide higher educational institutions.",
@@ -978,11 +1020,12 @@
         }
       ]
     },
-    "id": "12ea4734-3f17-4292-9359-7b98354f43b3"
+    "id": "171c9009-331f-4594-9772-3da86d6ff2fb"
   },
   {
     "title": "(Grants in aid)Aided hostel for Backward students run by NGO",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "(Grants in aid)Aided hostel for Backward students run by NGO",
       "Funding by": "State government",
       "Scheme Objective": "Provide living, boarding facility for backward students",
@@ -1005,11 +1048,12 @@
         }
       ]
     },
-    "id": "8dd8f6c3-eac8-425d-b58c-aa82b970919a"
+    "id": "e9e6cfad-e9c9-4acb-81b8-c7e48e96a386"
   },
   {
     "title": "Pre Recruitment Solder & Police Training for SC & Nav-Buddha Candidate",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Pre Recruitment Solder & Police training for SC & Nav-Buddha Candidate",
       "Govt. Resolution of scheme": "Social Justice and the Department of Special AssistanceGR No. EBC-2005/prakra78/mavaka 2,date 8/02/2006Govt. shudhipatrak No.EBC-2012 / prakra .43 / Education 1, dated 9/03/2012",
       "Funding by": "State",
@@ -1038,11 +1082,12 @@
         }
       ]
     },
-    "id": "90072e4f-be6a-466b-a8ba-893d917c6017"
+    "id": "0aa1fc8a-6a93-42e5-a16e-25f13a3fc433"
   },
   {
     "title": "To Start Government Hostels for Backward Class boys and girls",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of scheme": "To Start Government Hostels for Backward Class boys and girls",
       "Type scheme": "State Level",
       "Purpose of the scheme": "To provide education and higher education in the weaker section of backward class students in the society.  For these purpose these government hostels are started.  This scheme is started from the year 1922.  Now there are old 271 and new 103 girls and boys hostels working in the Maharashtra State at District & Taluka. Level.  Out of them here are 208 boys hostels and 159 girls hostels running in the State and 32988 students are availing benefits of this scheme.",
@@ -1070,11 +1115,12 @@
         }
       ]
     },
-    "id": "c3846b63-2094-473a-93ed-bc353bd472ce"
+    "id": "f20defc7-2b9d-47e2-afda-5d5341b99007"
   },
   {
     "title": "Division level 1000 capacity Backward class boys and girls hostel.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of scheme": "Division level 1000 capacity Backward class boys and girls hostel.",
       "type scheme": "State / central Level",
       "purpose of the scheme": "According to increased different higher educational institutes higher education level of Scheduled caste and Navbouddha government hostels are less in the State.  Due to this these SC/ Navbouddha students are not getting admission the Government Hostel.  According to this 1000 students capacity division level hostel each hostel for 1 region, government decided to start 7 division level hostels in the year 2007.  Because of this decision backward students get admission in the hostel and these students completed their higher education.  On division level there are 4 units of 250 students capacity and among this 4 unit 1 unit is for girl hostel.  Because of starting this division level hostel 5250 boys and 1750 girls seats are ready for the hostel admission.",
@@ -1086,11 +1132,12 @@
       "Name Office Contact": "Concerned Regional Deputy Commissioner, Social Welfare and Assistant Commissioner, Social Welfare and Warden, backward class boys and girls hostel.",
       "Statistical Summary": []
     },
-    "id": "5274027a-a5a6-423d-bed0-2aae05fce212"
+    "id": "bc948a8a-30f1-4145-95a0-b8dc498f6536"
   },
   {
     "title": "To start Division Level ITI., for boys and girls of scheduled caste and Navbouddha.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of scheme": "To start Division Level I.T.I., for boys and girls of scheduled caste and Navbouddha.",
       "type scheme": "State",
       "purpose of the scheme": "To facilitate scheduled caste and Navbouddha students with technical and vocational courses in government I.T.I.  There are more applications are received for these government I.T.I. courses.  Because of this scheduled caste and Navbouddha students are not getting technical and professional educational courses. Seeing all this government decided to division high level government I.T.I. institutes.",
@@ -1118,11 +1165,12 @@
         }
       ]
     },
-    "id": "a74e9a66-6232-4e67-acdc-a943d051e64a"
+    "id": "88703e7f-70fa-46d2-a2a9-88c59b1c60fe"
   },
   {
     "title": "To start 100 residential school on Taluka level for scheduled caste and Navbouddha.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Plan": "Detail  information",
       "Name  of scheme": "To  start 100 residential school on taluka level for scheduled caste  and navbouddha.",
       "type  scheme": "State",
@@ -1134,11 +1182,12 @@
       "classification  scheme": "Educational",
       "Name  Office Contact": "Concerned  Regional Deputy Commissioner, Social Welfare and Assistant  Commissioner, Social Welfare and Block Development Officer,  Panchyat Samittee and Education Officer (secondary) Zillha  Parishad."
     },
-    "id": "fbdbd62c-2191-4a97-ad0f-5ef653fa4154"
+    "id": "b92cc8de-4c91-4cf2-83bd-e0b48f418498"
   },
   {
     "title": "Pre-matric Scholarships to Children of those who are engaged in unclean occupation.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Pre-matric Scholarships to Children of those who are engaged in unclean occupation.",
       "Funding By": "State and Central",
       "Scheme Objective": "The Scheme is under Centrally Sponsored Scheme.  The children of those parents who are engaged in unclean occupation in sweeping, scavenging, Tanning and Flaying are given scholarship from Std. I to Std. X",
@@ -1171,11 +1220,12 @@
         }
       ]
     },
-    "id": "1e94156a-b2f0-4674-a2e3-65add93e4302"
+    "id": "52b302f5-0fad-4253-8bef-c6eda15d03d5"
   },
   {
     "title": "Post-Matric Scholarship & Other Educational Facilities to SBC. students.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training",
       "Name of the Scheme": "Post-Matric Scholarship & Other Educational Facilities to S.B.C. students.",
       "Funding By": "State",
       "Scheme Objective": "In order to encourage the S.B.C. students to undergo Post-Matric Courses, the Government of Maharashtra has introduced a scheme known as the Government of Maharashtra Post-Matric Scholarship & Free ship to S.B.C. students.",
@@ -1186,11 +1236,12 @@
       "Category of Scheme": "Education",
       "Contact Office": "Assistant Commissioner of Social Welfare concerned District.Principal of concerned College."
     },
-    "id": "3c478519-6ab5-4ec2-a152-d585d5d7a854"
+    "id": "0a85fff4-d6b7-4830-bb74-cfd423e74c81"
   },
   {
     "title": "Gattai Stall",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/economic-upliftment",
       "Name of the Scheme": "Gattai Stall",
       "Funding by": "State  Government Schemes",
       "Scheme Objective": "The main object of the  Corporation is to implement various schemes to uplift lifestyle of  Charmakars (Dhor, Chambhar, Holar,Mochi etc.) who are economically  weak and below poverty line and with an intention to develop them  educationally, economically and socially so as to give them  respectable place in Society. Also production of various types of  Footwear & Leather Articles & supply to Government  Departments & sale in Open Market.",
@@ -1223,11 +1274,12 @@
         }
       ]
     },
-    "id": "ca45304a-a5bd-4ee8-898a-fdfa51d02c97"
+    "id": "74dbb620-d178-4bb0-a673-f4b07a40999b"
   },
   {
     "title": "Financial Assistance to Self-Employment for Trained Disabled Persons",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/economic-upliftment",
       "Name of the Scheme": "Financial Assistance to Self-Employment for Trained Disabled Persons",
       "Funding by": "State Government",
       "Scheme objective": "Financial assistance to facilitate purchase of equipment for those disable persons who are completing vocational training from government institutions or recognize institution to start their own business.",
@@ -1238,11 +1290,12 @@
       "Category of Scheme": "Self Employment",
       "Contact Office": "District Social Welfare Office ,Zillah Parishad & Assistant Commissioner Social Welfare Office ,Mumbai Urban & Mumbai Suburban"
     },
-    "id": "db1e28be-e05f-4587-b5e6-f951301ab27e"
+    "id": "27e63378-5eea-424e-876a-51fcf552c2e0"
   },
   {
     "title": "Financial Assistance scheme to the Co-operative Industrial societies of Scheduled Castes",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/economic-upliftment",
       "Scheme": "Detailed Information",
       "Name Of the Scheme": "Providing Mini tractor and its sub parts to the Self Help Group of Scheduled Castes",
       "Funding by": "State",
@@ -1276,11 +1329,12 @@
         }
       ]
     },
-    "id": "ea3096ab-0931-4b90-9539-a4caeb0d5e98"
+    "id": "c4b2c68c-c142-41fb-b19d-8b0e28c588f3"
   },
   {
     "title": "Long Term-Loan to SC Co-op Spinning Mills under Special Component Plan",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/economic-upliftment",
       "Scheme": "Detailed Information",
       "Name Of the Scheme": "Long Term-Loan to SC Co-op Spinning Mills under Special Component Plan",
       "Funding by": "State",
@@ -1304,11 +1358,12 @@
         }
       ]
     },
-    "id": "84779555-3145-43b2-b059-2a64588a9e51"
+    "id": "404a4098-89b8-4086-ae62-6d66280c251a"
   },
   {
     "title": "1. 25% Margin Money Loan Scheme. 2. Rs. 25,000/- Direct Loan Scheme.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/economic-upliftment",
       "Name of the Scheme": "25% Margin Money Loan Scheme.    Rs. 25,000/- Direct Loan Scheme.",
       "Funding by": "State Government.",
       "Scheme Objective": "Provide loan on nominal rate of interest to the economically weak people who belongs to Vimukta Jatis (Denotified Tribes), Nomadic Tribes and Special Backward Class for their financial, educational and social upliftment.",
@@ -1341,11 +1396,12 @@
         }
       ]
     },
-    "id": "75592d52-f226-4a68-a575-a9ced3f1e366"
+    "id": "3771cc0b-dff0-4305-85ab-bdffb9e3de91"
   },
   {
     "title": "Providing Tin stalls to Gatai Kamgar",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/economic-upliftment",
       "Scheme": "Detailed Information",
       "Name Of the Scheme": "Providing Tin stalls to Gatai Kamgar",
       "Funding by": "State",
@@ -1379,11 +1435,12 @@
         }
       ]
     },
-    "id": "bd87ea52-4834-4106-b9e2-4beec2e411c0"
+    "id": "0fd5ec81-a7ac-47d7-b478-e6dcafe9f2a8"
   },
   {
     "title": "Providing Mini tractor and its sub parts to the Self Help Group of Scheduled Castes",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/economic-upliftment",
       "Scheme": "Detailed Information",
       "Name Of the Scheme": "Providing Mini tractor and its sub parts to the Self Help Group of Scheduled Castes",
       "Funding by": "State",
@@ -1417,11 +1474,12 @@
         }
       ]
     },
-    "id": "703aeb6e-0d2a-4bdf-8dcc-14a28097ac0e"
+    "id": "696ee509-5f1d-42b9-aab0-1c77004bd04d"
   },
   {
     "title": "Mahila Kisan Yojana",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Scheme": "Detailed  Information",
       "Name of the Scheme": "Mahila Kisan Yojana",
       "Funding by": "Central  Government Schemes      National Scheduled  Castes Finance and Development Corporation, New Delhi (NSFDC)",
@@ -1450,11 +1508,12 @@
         }
       ]
     },
-    "id": "400ba098-1059-49f6-9984-7c528f0dcd49"
+    "id": "74e2c275-e950-4ec2-902c-c2a138daaa90"
   },
   {
     "title": "Mahila Samridhi Yojana",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Scheme": "Detailed  Information",
       "Name of the Scheme": "Mahila Samridhi Yojana",
       "Funding by": "Central  Government Schemes      National Scheduled  Castes Finance and Development Corporation, New Delhi (NSFDC)",
@@ -1483,11 +1542,12 @@
         }
       ]
     },
-    "id": "396018e3-9f31-4cbc-a7b4-7e7459cb886e"
+    "id": "8e05b33c-d74d-4fc7-b619-6bdbd8c2ce11"
   },
   {
     "title": "Micro Credit Finance",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Scheme": "Detailed  Information",
       "Name of the Scheme": "Micro Credit  Finance",
       "Funding by": "Central  Government Schemes     National Scheduled Castes Finance and Development  Corporation, New Delhi (NSFDC)",
@@ -1516,11 +1576,12 @@
         }
       ]
     },
-    "id": "fa247994-a72d-4224-a98b-bee04086685b"
+    "id": "87ab069f-eec3-4934-9eff-08812f71c46f"
   },
   {
     "title": "Term Loan Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Scheme": "Detailed  Information",
       "Name of the Scheme": "Term Loan Scheme",
       "Funding by": "Central  Government Schemes  National Scheduled  Castes Finance and Development Corporation, New Delhi (NSFDC)",
@@ -1549,11 +1610,12 @@
         }
       ]
     },
-    "id": "aee74f8d-c081-4004-bcad-e226677d9ace"
+    "id": "90eb5168-95dc-4c4c-9af9-80982459aad3"
   },
   {
     "title": "Margin Money Loan Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Scheme": "Detailed  Information",
       "Name of the Scheme": "Margin Money Loan  Scheme",
       "Funding by": "State  Government Schemes",
@@ -1582,11 +1644,12 @@
         }
       ]
     },
-    "id": "d2636395-ae7f-44b3-86f6-14bb3b971014"
+    "id": "9d929603-0bf0-41f8-9ea0-449a3b9344df"
   },
   {
     "title": "50% Subsidy Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Scheme": "Detailed  Information",
       "Name of the Scheme": "50% Subsidy Scheme",
       "Funding by": "State  Government Schemes",
@@ -1615,11 +1678,12 @@
         }
       ]
     },
-    "id": "d4419985-bf39-4c2d-b7f4-3b232afafa69"
+    "id": "941cc28a-2af9-4bc8-b69a-ab5802d2e713"
   },
   {
     "title": "20% Seed Money Scheme (State Government through Share Capital of the Corporation.)",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Name of the Scheme": "Micro Credit Finance",
       "Funding by": "National Backward Classes Finance & Development Corporation, New Delhi & State Corporation jointly.",
       "Scheme Objective": "To provide loan amount to Male & Female beneficiaries through NGO or directly for self employment activities.",
@@ -1630,11 +1694,12 @@
       "Category of Scheme": "Economic Upliftment.",
       "Contact Office": "Concern District Office of the Corporation."
     },
-    "id": "e5678503-fc84-4107-aafe-8ffca075acf3"
+    "id": "3a86ed2e-7c8b-42f2-9234-8f99e60e4eca"
   },
   {
     "title": "Micro Credit Finance (National Backward Classes Finance & Development Corporation, New Delhi & State Corporation jointly.)",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Name of the Scheme": "Micro Credit Finance",
       "Funding by": "National Backward Classes Finance & Development Corporation, New Delhi & State Corporation jointly.",
       "Scheme Objective": "To provide loan amount to Male & Female beneficiaries through NGO or directly for self employment activities.",
@@ -1645,11 +1710,12 @@
       "Category of Scheme": "Economic Upliftment.",
       "Contact Office": "Concern District Office of the Corporation."
     },
-    "id": "c103713f-1956-4b02-8d61-838993211b47"
+    "id": "3ba6d107-4098-4bb4-9d4e-fc331d84b674"
   },
   {
     "title": "Mahila Samruddhi Yojana (National Backward Classes Finance & Development Corporation, New Delhi & State Corporation jointly.)",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Name of the Scheme": "Mahila Samrudhhi Yojana",
       "Funding by": "National Backward Classes Finance & Development Corporation, New Delhi & State Corporation jointly.",
       "Scheme Objective": "To provide loan amount to female beneficiaries of Self- Helped Group or directly for self employment activities.",
@@ -1660,11 +1726,12 @@
       "Category of Scheme": "Economic Upliftment.",
       "Contact Office": "Concern District Office of the Corporation."
     },
-    "id": "97d3522f-89a8-4bbf-94f6-42c259a21678"
+    "id": "3928fd30-9907-4430-8475-d58d1ced0b20"
   },
   {
     "title": "Swarnima (National Backward Classes Finance & Development Corporation, New Delhi & State Corporation jointly.)",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Name of the Scheme": "Swarnima",
       "Funding by": "National Backward Classes Finance & Development Corporation, New Delhi & State Corporation jointly.",
       "Scheme Objective": "To provide loan amount to female beneficiaries for self employment activity.",
@@ -1675,11 +1742,12 @@
       "Category of Scheme": "Economic Upliftment.",
       "Contact Office": "Concern District Office of the Corporation."
     },
-    "id": "ae44e330-24ca-4f40-a205-f4357f9581b6"
+    "id": "c0f2b252-72fa-4b70-b085-19eb9b1a6705"
   },
   {
     "title": "45% Margin Money Scheme (National Backward Classes Finance & Development Corporation, New Delhi & State Corporation jointly.)",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Name of the Scheme": "45% Margin Money Scheme",
       "Funding by": "National Backward Classes Finance & Development Corporation, New Delhi & State Corporation jointly.",
       "Scheme Objective": "To provide loan amount for the business activities which will create assets i.e. mainly for Transport Sector related business activities.",
@@ -1690,11 +1758,12 @@
       "Category of Scheme": "Economic Upliftment.",
       "Contact Office": "Concern District Office of the Corporation."
     },
-    "id": "2b8df988-a1bd-44cf-b37f-9e4eea606856"
+    "id": "cd100ff3-a3b5-4039-a1dc-53d0683d5456"
   },
   {
     "title": "Term Loan (National Backward Classes Finance & Development Corporation, New Delhi & State Corporation jointly.)",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Name of the Scheme": "Term Loan",
       "Funding by": "National Backward Classes Finance & Development Corporation, New Delhi & State Corporation jointly.",
       "Scheme Objective": "To Provide loan amount for Self Employment to eligible beneficiaries",
@@ -1705,11 +1774,12 @@
       "Category of Scheme": "Economic Upliftment.",
       "Contact Office": "Concern District Office of the Corporation."
     },
-    "id": "2bdd7aa4-d51d-40b4-8fde-db4d2827d48f"
+    "id": "e9fc994a-045e-4cb1-a93a-7c62441dbe69"
   },
   {
     "title": "Financial Assistance to disabled for self employment",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Name of the Scheme": "Financial Assistance to disabled for self employment",
       "Funding by": "State Government",
       "Scheme objective": "To facilitate Self employment to unemployed disable persons is the objective of the scheme. Under this scheme Financial Assistance is provided to disable person for self-employment, small scale business and agro based project.",
@@ -1720,11 +1790,12 @@
       "Category of Scheme": "Self employment",
       "Contact Office": "District Social Welfare Office ,Zillah Parishad & Assistant Commissioner Social Welfare office ,Mumbai Urban & Mumbai Suburban"
     },
-    "id": "fb16435c-1aa8-4ae5-9b85-bcc2f8f62d45"
+    "id": "ed9e1dba-fc86-4d63-9c46-2276af596059"
   },
   {
     "title": "1. 25% Margin Money Loan Scheme. 2. Rs. 25,000/- Direct Loan Scheme.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Name of the Scheme": "25% Margin Money Loan Scheme.    Rs. 25,000/- Direct Loan Scheme.",
       "Funding by": "State Government.",
       "Scheme Objective": "Provide loan on nominal rate of interest to the economically weak people who belongs to Vimukta Jatis (Denotified Tribes), Nomadic Tribes and Special Backward Class for their financial, educational and social upliftment.",
@@ -1757,11 +1828,12 @@
         }
       ]
     },
-    "id": "e98c14e4-0f2a-4b19-acbf-4eee797e774c"
+    "id": "6d121a04-ab0c-4b59-b4ea-70d3da68cf63"
   },
   {
     "title": "Central / State Corporation Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Scheme": "Detailed  Information",
       "Name of the Scheme": "Central / State Corporation scheme",
       "Funding by": "Central State        Central corporation scheme NSFDC             Term Loan             Micro Finance Scheme(MCF)             Mahila Samruddhi Scheme (MSY)             Mahila Kisan Scheme (MKY)             Education Loan         State Govt.Scheme            Special Central Assistance (subsidy Scheme)                 50% Subsidy Scheme Training            Share Capital                Margin Money Loan Scheme                Direct Loan Scheme",
@@ -1773,11 +1845,12 @@
       "Category of  Scheme": "Education / Employment / Economic  Upliftment  / Social  Remedies",
       "Contact  Office": "District Office of Corporation"
     },
-    "id": "ad655e28-0f85-41dd-b5ec-39206743c348"
+    "id": "cd89c661-026f-4de7-90e4-4d7013ddcc1f"
   },
   {
     "title": "Central / State Corporation Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Scheme": "Detailed  Information",
       "Name of the Scheme": "Central / State Corporation scheme",
       "Funding by": "Central State        Central corporation scheme NSFDC             Term Loan             Micro Finance Scheme(MCF)             Mahila Samruddhi Scheme (MSY)             Mahila Kisan Scheme (MKY)             Education Loan         State Govt.Scheme            Special Central Assistance (subsidy Scheme)                 50% Subsidy Scheme Training            Share Capital                Margin Money Loan Scheme                Direct Loan Scheme",
@@ -1789,11 +1862,12 @@
       "Category of  Scheme": "Education / Employment / Economic  Upliftment  / Social  Remedies",
       "Contact  Office": "District Office of Corporation"
     },
-    "id": "635b4af3-4275-48df-86d5-cf0bef5b7d8f"
+    "id": "70f0ac00-58e9-41fd-89a7-6beea2ff7618"
   },
   {
     "title": "1) Term Loan 2)Education Loan 3) Micro Credit Scheme 4) Scheme for NGOs 5) Direct Loan Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Name of the Scheme": "Term Loan          Education Loan          Micro Credit Scheme          Scheme for NGOs          Direct Loan Scheme",
       "Funding by": "State Govt Scheme- Direct Loan Scheme        National Handicapped finance Corporation Delhi -  Term Loan & Other Scheme",
       "Scheme Objective": "To undertake, carry on, assist to carry on and promote economic development activities including self employment and other ventures for benefit and economic rehabilitation of handicapped persons regardless of their religion, sex, caste and age, in collaboration with State Government Ministries/Departments, extend financial assistance/loans/concessional finance to handicapped persons for implementing economically and financially viable schemes /projects, to grant loans to the handicapped for pursuing education at graduation and higher levels, to assist in up gradation/ improvement of technical and entrepreneurial skills, to set up training, quality control, process development and other infrastructural development activities aimed to achieve economic rehabilitation/upliftment of handicapped persons, to assist other organizations engaged in rehabilitation of the handicapped by providing financial assistance, to assist businesses run by handicapped persons in procuring raw materials and marketing finished goods and to work as an Apex Institution for the State  of Maharashtra for channelizing the funds received from State Finance Corporation or the Central Government",
@@ -1804,11 +1878,12 @@
       "Category of  Scheme": "Education loan            Self Employment Scheme            Economic Upliftment",
       "Contact Office & Contact No.": "Maharashtra State Handicapped Finance & Development Corporation, Bandra (E) Mumbai-51        Telephone No - 022-26591620/22                                 Tel Fax 022-2659162"
     },
-    "id": "74e6c453-344d-4a3b-816f-37f420b32d2d"
+    "id": "4b9b9e9e-8b58-41bd-8be9-5a0d54bf7399"
   },
   {
     "title": "Rs.25,000/- Direct Loan Scheme (State Government through Share Capital of the Corporation.)",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/employment",
       "Name of the Scheme": "Rs.25,000/- Direct Loan Scheme",
       "Funding by": "State Government through Share Capital of the Corporation.",
       "Scheme Objective": "To provide loan for miscellaneous activities at minimum period and documents.",
@@ -1819,11 +1894,12 @@
       "Category of Scheme": "Economic Upliftment.",
       "Contact Office": "Concern District Office of the Corporation."
     },
-    "id": "fc2d8c3e-ad63-4800-8772-b551aab87524"
+    "id": "a610a508-2223-4a72-9879-63bb65c2b07a"
   },
   {
     "title": "Indira Gandhi National Widow Pension Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/special-assistance",
       "Name of the Scheme": "Indira Gandhi National Widow Pension Scheme",
       "Funding by": "Centrally Sponsored",
       "Scheme Objective": "Pension Scheme",
@@ -1856,11 +1932,12 @@
         }
       ]
     },
-    "id": "bc4c5282-b262-4ce0-aef1-b05acf81b2da"
+    "id": "234c984a-9a45-4731-9040-065e2b257ffd"
   },
   {
     "title": "Indira Gandhi National Disability Pension Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/special-assistance",
       "Name of the Scheme": "Indira Gandhi National Disability Pension Scheme",
       "Funding by": "Centrally Sponsored",
       "Scheme Objective": "Pension Scheme",
@@ -1893,11 +1970,12 @@
         }
       ]
     },
-    "id": "b1c25c0a-3c74-4043-a347-66daa71fc717"
+    "id": "981a6860-1ae3-45b7-8248-137f7fd03763"
   },
   {
     "title": "Sanjay Gandhi Niradhar Anudan Yojana",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/special-assistance",
       "Name of the Scheme": "Sanjay Gandhi Niradhar Anudan Yojana",
       "Funding by": "State Sponsored",
       "Scheme Objective": "Financial Assistance / Pension Scheme",
@@ -1908,11 +1986,12 @@
       "Category of  Scheme": "Special Assistance / Pension Scheme",
       "Contact  Office": "Collector Office / Tahsildar / Talathi"
     },
-    "id": "980145e7-8266-466e-ab4e-d96fb0efa388"
+    "id": "ec9dc80a-8a5d-46c4-98e5-927b5e2cad15"
   },
   {
     "title": "Shravan Bal sea Rajya Nivruttivetan Yojana",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/special-assistance",
       "Name of the Scheme": "Shravan bal seva  rajya Nivruttivetan Yojana",
       "Funding by": "State Sponsored",
       "Scheme Objective": "Pension Scheme",
@@ -1945,11 +2024,12 @@
         }
       ]
     },
-    "id": "62d8b1e5-6072-4f4e-a8ed-83d6ffcc2af1"
+    "id": "ee7b564b-7f11-44e4-829f-b07bf4db609c"
   },
   {
     "title": "National Family Benefit Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/special-assistance",
       "Name of the Scheme": "National Family Benefit Scheme",
       "Funding by": "CentrallySponsored",
       "Scheme Objective": "Financial Assistance",
@@ -1982,11 +2062,12 @@
         }
       ]
     },
-    "id": "b356a810-f51f-4c5d-927c-8563f27807ee"
+    "id": "f3e2a96c-a708-4f64-bffd-36b6a4c048c6"
   },
   {
     "title": "Indira Gandhi National Old Age Pension Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/special-assistance",
       "Scheme": "Detailed Information",
       "Name of the Scheme": "Indira Gandhi National Old Age Pension Scheme",
       "Funding by": "Centrally Sponsored",
@@ -2020,11 +2101,12 @@
         }
       ]
     },
-    "id": "1f43432e-2b3d-4fca-b59c-110841cda4b1"
+    "id": "f2dcc0d9-989a-4d42-8e3b-83f96451b9d0"
   },
   {
     "title": "Aam Aadmi Bima Yojana",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/special-assistance",
       "Scheme": "Detailed Information",
       "Name of the Scheme": "Aam Aadmi Bima Yojana",
       "Funding by": "Centrally Sponsored",
@@ -2058,11 +2140,12 @@
         }
       ]
     },
-    "id": "9ef4643a-9b08-4381-b6fb-241c37109865"
+    "id": "6e4700c3-08e0-4652-bbba-3ae2ce7a2734"
   },
   {
     "title": "Special Education and Vocational Training through Government institutions",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare",
       "Name of the Scheme": "Special Education and Vocational Training through Government institutions",
       "Funding by": "State Government",
       "Scheme objective": "Special education is provided to disabled children between age group of 6 to 18 years in the government special schools. Vocational training is also provided to special children’s above the age of 18 years.",
@@ -2073,11 +2156,12 @@
       "Category of Scheme": "Education and Vocational Training",
       "Contact Office": "Government Institution and District social welfare office Zillah Parishad/Assistant Commissioner Social welfare office Mumbai urban / Mumbai suburban"
     },
-    "id": "0860843b-ac33-4672-b590-2f10df1fa89f"
+    "id": "92047352-0dc2-466a-b87a-06a746d7bae1"
   },
   {
     "title": "Non-Governmental Aided organization (Special Schools and Vocational Training Centre) for Disable.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare",
       "Name of the Scheme": "Non-Governmental Aided organization (Special Schools and Vocational Training Centre) for Disable.",
       "Funding by": "State Government",
       "Scheme objective": "Special education is provided to disabled children below the age of 18 years in the special school which are run by Non-Governmental Aided organization. Vocational training is also given to special children above 18 yrs",
@@ -2088,11 +2172,12 @@
       "Category of Scheme": "Education and Vocational Training",
       "Contact Office": "voluntary organization and District social welfare office Zillah Parishad/Assistant Commissioner Social welfare office Mumbai urban / Mumbai suburban"
     },
-    "id": "4e104581-2c6c-4c8c-9b34-0ed9f7801b5d"
+    "id": "1cbfd528-6bb4-43da-a4eb-be8834440df7"
   },
   {
     "title": "The Scheme of State Award for Disabled",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare",
       "Name of the Scheme": "The Scheme of State Award for Disabled",
       "Funding by": "State Government",
       "Scheme objective": "Every year the State Government has felicitated awards to the Best Disabled Employees / Employers / Placement Agency who have done outstanding work in various fields.",
@@ -2119,11 +2204,12 @@
         }
       ]
     },
-    "id": "f9a10185-8c9f-4025-b755-6006c0368ffc"
+    "id": "6cac257d-bdfd-4cb4-ae13-9a18dad670b6"
   },
   {
     "title": "Financial Assistance for Aids and Appliances for Disabled Persons",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare",
       "Name of the Scheme": "Financial Assistance for Aids and Appliances for Disabled Persons",
       "Funding by": "State Government",
       "Scheme objective": "Assistance for purchase of aids and appliances to disabled persons as per their age group and disability.",
@@ -2134,11 +2220,12 @@
       "Category of Scheme": "Special Assistance",
       "Contact Office": "District Social Welfare Office ,Zillah Parishad & Assistant Commissioner Social Welfare Office ,Mumbai Urban & Mumbai Suburban"
     },
-    "id": "d2939b16-20c5-41de-b315-e5eb461452b1"
+    "id": "e290360d-05a8-4e79-98c2-652f32d31326"
   },
   {
     "title": "Financial Assistance to Self-Employment for Trained Disabled Persons",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare",
       "Name of the Scheme": "Financial Assistance to Self-Employment for Trained Disabled Persons",
       "Funding by": "State Government",
       "Scheme objective": "Financial assistance to facilitate purchase of equipment for those disable persons who are completing vocational training from government institutions or recognize institution to start their own business.",
@@ -2149,11 +2236,12 @@
       "Category of Scheme": "Self Employment",
       "Contact Office": "District Social Welfare Office ,Zillah Parishad & Assistant Commissioner Social Welfare Office ,Mumbai Urban & Mumbai Suburban"
     },
-    "id": "7ba51db1-c9ca-4a80-98b1-b3d3814a70d6"
+    "id": "d73c167a-48d3-4edb-b410-45e2bde2600a"
   },
   {
     "title": "Financial Assistance to disabled for self employment",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare",
       "Name of the Scheme": "Financial Assistance to disabled for self employment",
       "Funding by": "State Government",
       "Scheme objective": "To facilitate Self employment to unemployed disable persons is the objective of the scheme. Under this scheme Financial Assistance is provided to disable person for self-employment, small scale business and agro based project.",
@@ -2164,11 +2252,12 @@
       "Category of Scheme": "Self employment",
       "Contact Office": "District Social Welfare Office ,Zillah Parishad & Assistant Commissioner Social Welfare office ,Mumbai Urban & Mumbai Suburban"
     },
-    "id": "f42de66b-dfd8-45da-85b9-f81a782acab7"
+    "id": "6656862c-b504-4d9e-b0a5-7b9a09d85291"
   },
   {
     "title": "Merit Awards",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare",
       "Name of the Scheme": "Merit Awards",
       "Funding by": "State Government",
       "Scheme objective": "Awards are given to disabled students who rank in no. 1, 2 and 3 among disabled students in the S.S.C. and H.S.C. board of examination.",
@@ -2179,11 +2268,12 @@
       "Category of Scheme": "Education",
       "Contact Office": "Concern Regional Deputy Commissioner, Social Welfare Department"
     },
-    "id": "2f60918a-6653-46dd-a7a3-8148bef0ad68"
+    "id": "4774c8d2-af91-4964-9b93-5a8d55111e3d"
   },
   {
     "title": "Homes for Intellectually Impaired Persons",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare",
       "Name of the Scheme": "Homes for Intellectually Impaired Persons",
       "Funding by": "State Government",
       "Scheme objective": "Mentally Deficient Children Home functioning under the provisions of Maharashtra Juvenile Justice (Care & Protection of children) Act 2000 and amendment Act 2006. The numbers of MDC homes are 19 out of which 14 are granted and 5 are non- granted.",
@@ -2194,11 +2284,12 @@
       "Category of Scheme": "Care and protection, education training.",
       "Contact Office": "Concern Child Welfare Committee of District."
     },
-    "id": "a0c7214c-e64e-4ef7-8e98-31cbb93f9b55"
+    "id": "2cf50e26-1596-4e02-a7ca-7f2248cdf11a"
   },
   {
     "title": "Grant in Aid to Old age home.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare",
       "Name of the Scheme": "Grant in Aid to Old age home.",
       "Govt. Resolution of the scheme": "Social Welfare Gr. No.1062-44945/N,date20/02/1961",
       "Funding by": "State",
@@ -2227,11 +2318,12 @@
         }
       ]
     },
-    "id": "9a49ea9c-69f1-404a-a1e8-64d89e606512"
+    "id": "11ece801-a31a-4b92-8fc2-1ebe8a6bfc71"
   },
   {
     "title": "Matrimonial Incentives.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare",
       "Name of the Scheme": "Matrimonial Incentives.",
       "Funding by": "State Government",
       "Scheme objective": "Disabled person with atleast 40 % of disability, if getting he/she get married with non-disabled person, he/she will get marriage incentive.",
@@ -2242,11 +2334,12 @@
       "Category of Scheme": "Social incentive",
       "Contact Office": "District Social Welfare Office, Zillah Parishad & Assistant Commissioner Social Welfare Department ,Mumbai Urban & Mumbai Suburban"
     },
-    "id": "52bd9f3a-c431-4d4b-aab7-7561fd65ea71"
+    "id": "7bb3b2ab-aecc-49cc-899b-b36b7df6558a"
   },
   {
     "title": "State Post-metric Scholarship for Disabled",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare",
       "Name of the Scheme": "State Post-metric Scholarship for Disabled",
       "Funding by": "State Government",
       "Scheme objective": "To encourage higher education of disabled students.",
@@ -2257,11 +2350,12 @@
       "Contact Office": "District Social Welfare Office Zillah Parishad & Assistant Commissioner Social Welfare Office ,Mumbai Urban & Mumbai Suburban",
       "Statistical Summary": []
     },
-    "id": "bfbb6ac9-0241-4672-b1d5-479a046f4f7f"
+    "id": "b3a24a5f-0263-4119-9bf5-92e3980ce9c3"
   },
   {
     "title": "State Pre-metric Scholarship for Disabled",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare",
       "Name of the Scheme": "State Pre-metric Scholarship for Disabled",
       "Funding by": "State Government",
       "Scheme objective": "To encourage education of disabled children.",
@@ -2278,11 +2372,12 @@
       "Contact Office": "District Social Welfare Office, Zillah Parishad & Assistant Commissioner Social Welfare Office ,Mumbai Urban & Mumbai Suburban",
       "Statistical Summary": []
     },
-    "id": "b5a1b1b2-9ef8-4b33-a437-b520410cabf3"
+    "id": "008b9623-d5bb-4832-a13b-f1e773b7bff0"
   },
   {
     "title": "Indira Gandhi National Disability Pension Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare",
       "Name of the Scheme": "Indira Gandhi National Disability Pension Scheme",
       "Funding by": "Centrally Sponsored",
       "Scheme Objective": "Pension Scheme",
@@ -2315,11 +2410,12 @@
         }
       ]
     },
-    "id": "55c4a635-1d7b-4833-b2f0-900fbe55a5e9"
+    "id": "bc4061f3-135f-4c1d-8308-4f8a25132d26"
   },
   {
     "title": "1) Term Loan 2)Education Loan 3) Micro Credit Scheme 4) Scheme for NGOs 5) Direct Loan Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare",
       "Name of the Scheme": "Term Loan          Education Loan          Micro Credit Scheme          Scheme for NGOs          Direct Loan Scheme",
       "Funding by": "State Govt Scheme- Direct Loan Scheme        National Handicapped finance Corporation Delhi -  Term Loan & Other Scheme",
       "Scheme Objective": "To undertake, carry on, assist to carry on and promote economic development activities including self employment and other ventures for benefit and economic rehabilitation of handicapped persons regardless of their religion, sex, caste and age, in collaboration with State Government Ministries/Departments, extend financial assistance/loans/concessional finance to handicapped persons for implementing economically and financially viable schemes /projects, to grant loans to the handicapped for pursuing education at graduation and higher levels, to assist in up gradation/ improvement of technical and entrepreneurial skills, to set up training, quality control, process development and other infrastructural development activities aimed to achieve economic rehabilitation/upliftment of handicapped persons, to assist other organizations engaged in rehabilitation of the handicapped by providing financial assistance, to assist businesses run by handicapped persons in procuring raw materials and marketing finished goods and to work as an Apex Institution for the State  of Maharashtra for channelizing the funds received from State Finance Corporation or the Central Government",
@@ -2330,11 +2426,12 @@
       "Category of  Scheme": "Education loan            Self Employment Scheme            Economic Upliftment",
       "Contact Office & Contact No.": "Maharashtra State Handicapped Finance & Development Corporation, Bandra (E) Mumbai-51        Telephone No - 022-26591620/22                                 Tel Fax 022-2659162"
     },
-    "id": "86972e80-6d21-446c-a5f6-3382e88a7396"
+    "id": "362ed85f-ecfe-4eef-b320-d11a83ee53e3"
   },
   {
     "title": "आंतरजातीय विवाहास प्रोत्साहन योजना",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-integration",
       "योजनेचे नांव": "आंतरजातीय विवाहास प्रोत्साहन योजना",
       "योजनेचा प्रकार": "राज्य",
       "योजनेचा उद्देश": "अस्पृश्यता निवारण करण्याचा एक भाग म्हणून आंरजातीय विवाहास प्रोत्साहन देण्यासाठी आर्थिक योजना",
@@ -2367,11 +2464,12 @@
         }
       ]
     },
-    "id": "a87ff0e1-d27b-4b2e-af68-19ff0055327a"
+    "id": "afc982cd-aad1-4f38-9a90-1e27654811b7"
   },
   {
     "title": "नागरी हक्क अधिनियम अंमलबजावणी करीता यंत्रणा (राज्य) अस्पृश्यता निर्मुलनार्थ विविध कार्यक्रमाचे आयोजन करणे",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-integration",
       "योजना": "सविस्तर माहिती",
       "योजनेचे नांव": "नागरी हक्क अधिनियम अंमलबजावणी करीता यंत्रणा (राज्य)        अस्पृश्यता निर्मुलनार्थ विविध कार्यक्रमाचे आयोजन करणे",
       "योजनेचा प्रकार": "केंद्र",
@@ -2405,11 +2503,12 @@
         }
       ]
     },
-    "id": "21e73d10-0d27-4a95-8a92-6ea9a266a4f7"
+    "id": "98fdd0f5-3321-4cb9-94f0-d43eff4d04df"
   },
   {
     "title": "नागरी हक्क अधिनियम अंमलबजावणी करीता यंत्रणा अस्पृश्यता निर्मुलनार्थ विविध कार्यक्रमाचे आयोजन करणे",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-integration",
       "योजना": "सविस्तर माहिती",
       "योजनेचे नांव": "नागरी हक्क अधिनियम अंमलबजावणी करीता यंत्रणा (राज्य)        अस्पृश्यता निर्मुलनार्थ विविध कार्यक्रमाचे आयोजन करणे",
       "योजनेचा प्रकार": "केंद्र",
@@ -2443,11 +2542,12 @@
         }
       ]
     },
-    "id": "42844cfb-7d6c-4fd8-ae1b-05d4a4453e43"
+    "id": "6db36a23-8905-4fcb-82ef-a7f6020f8363"
   },
   {
     "title": "आंतरजातीय विवाहास प्रोत्साहन योजना",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-integration",
       "योजनेचे नांव": "आंतरजातीय विवाहास प्रोत्साहन योजना",
       "योजनेचा प्रकार": "राज्य",
       "योजनेचा उद्देश": "अस्पृश्यता निवारण करण्याचा एक भाग म्हणून आंरजातीय विवाहास प्रोत्साहन देण्यासाठी आर्थिक योजना",
@@ -2480,11 +2580,12 @@
         }
       ]
     },
-    "id": "cf0482ab-d80b-41ae-a19c-c3c47abe2df6"
+    "id": "0d639460-276c-48f2-9e69-b9a5eb9f9397"
   },
   {
     "title": "Incentive given to Encourage Inter caste Marriages.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-integration",
       "Name of the Scheme": "Incentive given to Encourage Inter caste Marriages.",
       "Govt. Resolution of scheme": "Social Welfare, Cultural Affairs, & Sports Department GR.No.UTA-1099/Pra.Kra.45/Mavak-2, date 30/01/1999Social Welfare, Cultural Affairs, & Sports Department GR.No.CBC-1098/Pra.Kra.151/Mavak-5, date 7/5/1999Social Justice, Cultural Affairs, Sports & Special Assistance  Department GR.No.Ajavi 2003/pra.Kra.501/ Mavak-2, date 6/8/2004Social Justice & Special Assistance  Department GR.No.Ajavi 2007/pra.Kra.191/ Mavak-2, date 1/02/2010",
       "Funding by": "State & Central (50:50)",
@@ -2497,11 +2598,12 @@
       "Contact Office": "Assistant Commissioner, Social Welfare, Mumbai City & Urban",
       "Statistical Summary": []
     },
-    "id": "f52c7db2-c2d2-408c-9d02-29fc5ac75aad"
+    "id": "f02f9610-4f0a-4d49-88c8-51f8f8927239"
   },
   {
     "title": "अत्याचाराचे बळी ठरणाऱ्या अनुसूचित जाती व अनुसूचित जमातीच्या कुटूंबातील सदस्यांना आर्थिक सहाय्य देण्याची योजना",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "योजना": "सविस्तर माहिती",
       "योजनेचे नांव": "अत्याचाराचे बळी ठरणाऱ्या अनुसूचित जाती व अनुसूचित जमातीच्या कुटूंबातील सदस्यांना आर्थिक सहाय्य देण्याची योजना",
       "योजनेचा प्रकार": "राज्य",
@@ -2535,11 +2637,12 @@
         }
       ]
     },
-    "id": "f101a16d-d0c1-4c77-bec0-84ff54c3268b"
+    "id": "4040e5ac-ee0a-49c0-8e82-0e0c57e85b60"
   },
   {
     "title": "अत्याचाराचे बळी ठरणाऱ्या अनुसूचित जाती व अनुसूचित जमातीच्या कुटूंबातील सदस्यांना आर्थिक सहाय्य देण्याची योजना",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "योजना": "सविस्तर माहिती",
       "योजनेचे नांव": "अत्याचाराचे बळी ठरणाऱ्या अनुसूचित जाती व अनुसूचित जमातीच्या कुटूंबातील सदस्यांना आर्थिक सहाय्य देण्याची योजना",
       "योजनेचा प्रकार": "राज्य",
@@ -2573,11 +2676,12 @@
         }
       ]
     },
-    "id": "01f40593-3cdd-4e10-9747-9027ab64f04e"
+    "id": "c01c7347-73cf-4c93-98f4-dcbadd87fd1c"
   },
   {
     "title": "कन्यादान योजनेखाली नवदाम्पत्यांना अर्थसहाय्य (विजाभज)",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "योजनेचे नांव": "कन्यादान योजनेखाली नवदाम्पत्यांना अर्थसहाय्य (विजाभज)",
       "योजनेचा प्रकार": "राज्य",
       "योजनेचा उद्देश": "महाराष्ट्रात अनुसूचित जाती,विमुक्त जाती,भटक्या जमाती, विशेष मागास प्रवर्गातील वेगवेगळया जाती, जमातीतील लोंकाचा आर्थिक, सामाजिक व शैक्षणिक मागासलेपणा कमी करुन त्यांना समाजाच्या मुख्य प्रवाहात आणणे",
@@ -2610,11 +2714,12 @@
         }
       ]
     },
-    "id": "7763cec5-52d6-4a04-ad18-71164aacd3b2"
+    "id": "fdb1b491-94ae-45e5-a0dd-54b1bb8bb947"
   },
   {
     "title": "अत्याचाराचे बळी ठरणा-या अनुसूचित जाती व अनुसूचित जमातीच्या कुटुंबातील सदस्यांना आर्थिक सहाय्य देण्याची योजना",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "योजना": "सविस्तर माहिती",
       "योजनेचे नांव": "अत्याचाराचे बळी ठरणा-या अनुसूचित जाती व अनुसूचित जमातीच्या कुटुंबातील सदस्यांना आर्थिक सहाय्य देण्याची योजना",
       "योजनेचा प्रकार": "राज्य",
@@ -2648,11 +2753,12 @@
         }
       ]
     },
-    "id": "16eb3ca5-4ee0-4f94-8b30-b4a7b69a9ac0"
+    "id": "67476c19-ceb2-4029-883d-a64c49da0a7f"
   },
   {
     "title": "Vasantrao Naik Tanda / Basti Development Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "Name of the Scheme": "Vasantrao Naik Tanda / Basti Development Scheme",
       "Funding By": "State",
       "Scheme Objective": "To provide basic amenities to Tandas and Basties of Vimukta Jatis and Nomadic Tribes, such as drinking water, electrification, construction of latrines, drainages and approach roads etc.",
@@ -2667,11 +2773,12 @@
       "Contact Office": "Block Development Officer, Panchayat Samittee concerned.District Social Welfare Officer, Zillah Parishad concerned.Assistant Commissioner of Social Welfare concerned District.",
       "Statistical Summary": []
     },
-    "id": "ecee1a04-841c-457e-8f46-b17ffd1a04f2"
+    "id": "66d49f57-4626-40a1-b428-a45fdaa4fcc4"
   },
   {
     "title": "Yashwantrao Chavan Mukta Vasahat Yojana for VJNT.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "Name of the Scheme": "Yashwantrao Chavan Mukta Vasahat Yojana for VJNTs.",
       "Funding By": "State",
       "Scheme Objective": "To increase the living standards of VJNT families. To create and uplift income sources and get stability to VJNT families.",
@@ -2682,11 +2789,12 @@
       "Category of Scheme": "Income Upliftment and Social remedies.",
       "Contact Office": "Assistant Commissioner of Social Welfare concerned District."
     },
-    "id": "76262f64-cc03-4626-ba42-1f7e9cdf915a"
+    "id": "99c828d6-2d02-41de-b72c-4f76c1d27359"
   },
   {
     "title": "Grant in Aid to Old age home.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "Name of the Scheme": "Grant in Aid to Old age home.",
       "Govt. Resolution of the scheme": "Social Welfare Gr. No.1062-44945/N,date20/02/1961",
       "Funding by": "State",
@@ -2715,11 +2823,12 @@
         }
       ]
     },
-    "id": "27a311fe-b24a-434b-a3c9-7f72ef9055ab"
+    "id": "2ae33c6c-6410-480b-af5d-64a2d5578ecc"
   },
   {
     "title": "Matrimonial Incentives.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "Name of the Scheme": "Matrimonial Incentives.",
       "Funding by": "State Government",
       "Scheme objective": "Disabled person with atleast 40 % of disability, if getting he/she get married with non-disabled person, he/she will get marriage incentive.",
@@ -2730,11 +2839,12 @@
       "Category of Scheme": "Social incentive",
       "Contact Office": "District Social Welfare Office, Zillah Parishad & Assistant Commissioner Social Welfare Department ,Mumbai Urban & Mumbai Suburban"
     },
-    "id": "9da784d8-6eaa-4741-9659-8cf2c8dc349e"
+    "id": "a68350eb-3589-4a4f-8a34-807597f5e626"
   },
   {
     "title": "Shahu, Phule, Ambedkar Dalit Vasti improvement & Development Derivation",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "Name of the Scheme": "Shahu, Phule, Ambedkar Dalit Vasti improvement & Development Derivation",
       "Government Resolution": "Social Justice, Cultural Affairs & Special Assistance Department GR No. Davsu-2003/pra.kra.95/Mavak-2, date 17/02/2006",
       "Funding by": "State",
@@ -2763,11 +2873,12 @@
         }
       ]
     },
-    "id": "5b34e124-fdfd-455f-8a93-2b181670941e"
+    "id": "6d2fabb5-0e29-42c0-8d1b-87d749a97cc7"
   },
   {
     "title": "Machinery for Implementation of Protection of Civil Rights Act",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "Name of the Scheme": "Machinery for Implementation of Protection of Civil Rights Act",
       "Govt. Resolution of scheme": "Social Welfare, Cultural affairs, Sports & Tourism Department GR.No.UTA-1074/48348-V, date 27/12/1974",
       "Funding by": "State & Central (50:50)",
@@ -2780,11 +2891,12 @@
       "Contact Office": "District Social Welfare Officer, Assistant Commissioner related",
       "Statistical Summary": []
     },
-    "id": "7161cf02-b193-4db3-8f61-e416063082eb"
+    "id": "a5925d6f-913a-4f94-acbb-48b1daa17634"
   },
   {
     "title": "Assistance to newly married couples under the Kanyadan Yojana",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "Name of the Scheme": "Assistance to newly married couples under the Kanyadan Yojana",
       "Govt. Resolution of scheme": "",
       "Funding by": "State",
@@ -2797,11 +2909,12 @@
       "Contact Office": "Assistant Commissioner, Social Welfare relevant district",
       "Statistical Summary": []
     },
-    "id": "7aa7470e-97bb-48f6-b61a-b9cc641b6d75"
+    "id": "741b4bc5-0152-47a5-ab42-102e9c7b0ce7"
   },
   {
     "title": "Financial Assistance to victimize family/person of Scheduled Castes and Scheduled Tribes",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "Name of the Scheme": "Financial Assistance to victimize family/person of Scheduled Castes and Scheduled tribes",
       "Govt. Resolution of scheme": "Social justice & Special Assistance Department GR. No. UTA- 2012/pra.Kra.259/samasu, dated 21/08/2013",
       "Funding by": "State & Central (50:50)",
@@ -2822,11 +2935,12 @@
       "Contact Office": "Assistant Commissioner of Social Welfare related district",
       "Statistical Summary": []
     },
-    "id": "78eea721-2368-4379-98e4-ecd33ef9f4ec"
+    "id": "dbc320b6-9012-4e99-9f63-b691c55ca240"
   },
   {
     "title": "Development of SC and Nav-Buddha Vasti (Rural)",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "Name of the Scheme": "Development of SC and Nav-Buddha Vasti (Rural)",
       "Govt. Resolution of scheme": "Social Justice and the Department of Special AssistanceGR No.davasu-2008/prakra524 / VIGHYO, dated 14/11/2008GR No. davasu 2011/prakra442/ajaka, Oct 5/12/2011Govt.sudhdipatrak.No.davasu-2011/prakra442/ajaka,dated 31/12/2011GR No.davasu 2013/prakra .85/ajaka 1, date 1/08/2013GR No.davasu 2015/ prakra 59/ajaka 1, date  27/ 05/2015",
       "Funding by": "State",
@@ -2861,11 +2975,12 @@
         }
       ]
     },
-    "id": "f597ae41-9f58-47e4-ae64-769a9c105535"
+    "id": "7d2229aa-ec53-4643-b1a4-73405aa942c3"
   },
   {
     "title": "Ramai Awas (Gharkul) Scheme for SC & Nav-Buddha (urban and rural)",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "Name of the Scheme": "Ramai Awas (Gharkul) Scheme for SC & Nav-Buddha(urban and rural)",
       "Govt. Resolution of the scheme": "Social Justice & special Assistance departmentGr. No. BCH-2008/Pra.Kra.36/Mavak-2, date 15/011/008Gr. No. BCH-2009/Pra.Kra.159/Mavak-2, date 9/03/2010Gr. No. BCH-2009/Pra.Kra.159/Mavak-2, date 6/08/2010Gr. No. BCH-2009/Pra.Kra.159/Mavak-2, date 2/12/2010Gr. No. BCH-2011/Pra.Kra.35/Mavak-2, date 14/03/2011Gr. No. BCH-2009/Pra.Kra.159/Mavak-2, date 29/09/2011Gr. No. raayo-2011/Pra.Kra.10/Bandhkame, date 18/07/2014",
       "Funding by": "State",
@@ -2878,11 +2993,12 @@
       "Contact Office": "Assistant Commissioner, Social Welfare / Office / Project Director, District Rural Development Agency, the District Council / Municipal Commissioner concerned",
       "Statistical Summary": []
     },
-    "id": "d10c354f-cd10-44ab-8426-9602964eb881"
+    "id": "e7f302ba-3ae6-4fbe-8559-e931df7f6b35"
   },
   {
     "title": "कन्यादान योजनेखाली नवदाम्पत्यांना अर्थसाहय्य (अनु.जाती)",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "योजनेचे नांव": "कन्यादान योजनेखाली नवदाम्पत्यांना अर्थसाहय्य (अनु.जाती)",
       "योजनेचा प्रकार": "राज्य",
       "योजनेचा उद्देश": "महाराष्ट्रात अनुसूचित जाती,विमुक्त जाती,भटक्या जमाती, विशेष मागास प्रवर्गातील वेगवेगळया जाती, जमातीतील लोंकाचा आर्थिक, सामाजिक व शैक्षणिक मागासलेपणा कमी करुन त्यांना समाजाच्या मुख्य प्रवाहात आणणे",
@@ -2915,11 +3031,12 @@
         }
       ]
     },
-    "id": "fc46b067-755a-4a61-8f23-d7ea88d78d37"
+    "id": "61f50ecb-9af8-47b9-8e0a-31e3c538fc4a"
   },
   {
     "title": "NGOs assistant grants (Dr. Babasaheb Ambedkar Samaj Bhushan, Sahityaratna Lokshahir Anna Bhau Sathe Award and Sant Ravidas Award)",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies",
       "Name of the Scheme": "NGOs assistant grants        (Dr. Babasaheb Ambedkar Samaj Bhushan, Sahityaratna Lokshahir Anna Bhau Sathe Award and Sant Ravidas Award)",
       "Government resolution of the scheme": "समाज कल्याण सांस्कृतिक व क्रिडा विभाग शासन निर्णय क्रमांक एससी डब्लू-1085/18986(211)/बीसीडब्लू-4, दि. 19/12/1985          शासन निर्णय क्र.दमिपू-2000/प्र.क्र.213/मावक-4,दि.10/4/2000          शासन निर्णय क्र.असापू-2000/प्रृक्रृ230/मावक-4,दि.25/7/2003          शासन निर्णय क्र.सरंपू-2004/प्र.क्र.184/मावक-4 दि.26/7/2004",
       "Funding by": "State",
@@ -2948,11 +3065,12 @@
         }
       ]
     },
-    "id": "c59d8d01-1b1d-49a7-a561-5722f9b8e862"
+    "id": "814ad172-c445-449d-ba69-8f74ece37efb"
   },
   {
     "title": "Karma veer Dadasaheb Gaikwad Sabalikaran & Swabhiman Yojana",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/awards",
       "Scheme": "Detailed Information",
       "Name Of the Scheme": "Karma veer Dadasaheb Gaikwad Sabalikaran & Swabhiman Yojana",
       "Funding by": "State",
@@ -2986,11 +3104,12 @@
         }
       ]
     },
-    "id": "7845a114-4b64-4c47-97d6-63b5b9950952"
+    "id": "40cdbed6-58fd-4f2a-80ea-fe4f0f90e737"
   },
   {
     "title": "Karmaveer Padmashri Dadasaheb Gaikwad birth centenary and prize distribution.",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/awards",
       "Name of the Scheme": "Karmaveer Padmashri Dadasaheb Gaikwad birth centenary and prize distribution.",
       "Government resolution of the scheme": "Social Justice, Cultural, Sports and Special Assistance GR No. Sankine-2000/pra.kra.308/Mavak-1 date 9/9/2001",
       "Funding by": "State",
@@ -3024,11 +3143,12 @@
         }
       ]
     },
-    "id": "ed1c2fb3-6c86-46dc-a9e8-25f42d9a9f76"
+    "id": "612464a8-5266-4390-9da2-f4ad66704ea6"
   },
   {
     "title": "Shahu, Phule, Ambedkar rewards Scheme",
     "details": {
+      "scheme_link": "https://sjsa.maharashtra.gov.in/en/scheme-category/awards",
       "Name of the Scheme": "Shahu, Phule, Ambedkar rewards Scheme",
       "Government resolution of the scheme": "Gr.No.BCH-2009/pra.kra.23/Bandhkame, date 31/8/2012",
       "Funding by": "State",
@@ -3057,6 +3177,6 @@
         }
       ]
     },
-    "id": "d6e6aadf-cc93-4d05-99a8-87a6296d3d97"
+    "id": "5d40f9fc-ef3c-434b-b29b-04651dcb6436"
   }
 ]
