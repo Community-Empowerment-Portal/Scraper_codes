@@ -1,0 +1,296 @@
+[
+  {
+    "url": "https://handloom.upsdc.gov.in/Home/MGBBY",
+    "data": {
+      "title": "Mahatma Gandhi Bunkar Bima Yojana (MGBBY)",
+      "description": "The Government of India had launched the Bunkar Bima Yojana for Handloom Weavers to provide insurance cover by associating with Life Insurance Corporation of India (LIC). Under this scheme, the government provides insurances that apply to all community weavers in the case of natural death, accidental death as well as partial and permanent disability due to an accident. The concerned handloom authority in the state will finalise the insurance coverage, as the Life Insurance Corporation of India administers the scheme.",
+      "eligibilityCriteria": [
+        "For those who need to be insured under this scheme, has to satisfy the below-following conditions to avail the benefits of the Scheme.",
+        "The weaver’s income must earn at least 50% of his income from handloom weaving.",
+        "All weavers must be between 18 to 59 years of age which includes minorities, women weavers and weavers belonging to North East Region are eligible to apply for this insurance scheme.",
+        "The scheme is applicable to the weavers those who are belonging to the State Handloom Development Corporations/Apex/Primary Handloom Weavers and Cooperative Societies will be covered under the Scheme. Outside co-operative weavers are also covered under the scheme when they provide an eligibility certificate from the State Directorate of Handlooms.",
+        "The State Director in charge of Handlooms is responsible for checking the eligibility of the weavers who are intended to be covered under this scheme.",
+        "The concerned State Director and LIC are responsible to ensure that the women weavers belonging to minorities and weavers of the NER States that includes the states like Arunachal Pradesh, Assam, Nagaland, Tripura, Manipur, Meghalaya, Mizoram and Sikkim are given adequate representation while implementing the scheme.",
+        "In the event of natural death of the member, a Sum Assured of INR 60,000 will become payable to the nominee.",
+        "In the cause of Accidental Death or Total Permanent Disability, a Sum Assured of INR 1,50,000 will become payable to the nominee. In case of Partial Disability, a Sum Assured of INR 75,000"
+      ],
+      "features": [
+        "In the event of natural death of the member, a Sum Assured of INR 60,000 will become payable to the nominee.",
+        "In the cause of Accidental Death or Total Permanent Disability, a Sum Assured of INR 1,50,000 will become payable to the nominee. In case of Partial Disability, a Sum Assured of INR 75,000"
+      ],
+      "premiumCoverage": [
+        {
+          "sNo": "1",
+          "contribution": "GOI Contribution",
+          "amount": "INR 290"
+        },
+        {
+          "sNo": "2",
+          "contribution": "Weaver's Contribution",
+          "amount": "INR 80"
+        },
+        {
+          "sNo": "3",
+          "contribution": "LIC's Contribution",
+          "amount": "INR 100"
+        },
+        {
+          "sNo": "Total Premium",
+          "contribution": "INR 470",
+          "amount": null
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://handloom.upsdc.gov.in/Home/HWCWS",
+    "data": {
+      "title": "Handloom Weavers Comprehensive Welfare Scheme",
+      "description": "The Handloom weaver’s comprehensive welfare Scheme (HWCWS) is implemented by the Office of the Development Commissioner for handlooms to help the weavers to avail social security benefits.",
+      "eligibilityCriteria": [
+        "Weavers in the age group of 18 to 50 will be covered under PMJJBY and PMSBY.",
+        "Weavers in the age group of 51 to 59 who enrolled into MGBBY will be covered under Converged MGBBY.",
+        "Scholarship will be paid to the maximum of two children of the weavers. The children should study between 9th and 12th standard. The amount of scholarship is INR 100 per month per child and will be paid through the National Scholarship Portal (NSP).",
+        "Health Insurance Scheme (HIS).\nHIS gave various healthcare facilities for all the weavers. This component follows the Rashtriya Swasthya Bima Yojana (RSBY) pattern.",
+        "HIS gave various healthcare facilities for all the weavers. This component follows the Rashtriya Swasthya Bima Yojana (RSBY) pattern.",
+        "Insurance cover\nThis component gives insurance cover for natural death, accidental death, complete disability, and partial disability.\nConverged Mahatma Gandhi Bunkar Bima Yojana (MGBBY), Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) and Pradhan Mantri Suraksha Bima Yojana (PMSBY) schemes create a social security system.",
+        "This component gives insurance cover for natural death, accidental death, complete disability, and partial disability.",
+        "Converged Mahatma Gandhi Bunkar Bima Yojana (MGBBY), Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) and Pradhan Mantri Suraksha Bima Yojana (PMSBY) schemes create a social security system.",
+        "PMJJBY insurance scheme covers life insurance for natural death and accidental death.",
+        "Insurance would be for one-year coverage and can be renewed for each year.",
+        "Weavers and workers of age group 18-50 years are eligible for the scheme.",
+        "INR 2 lakh will be paid on the beneficiary’s death."
+      ],
+      "features": [
+        "Health Insurance Scheme (HIS).\nHIS gave various healthcare facilities for all the weavers. This component follows the Rashtriya Swasthya Bima Yojana (RSBY) pattern.",
+        "HIS gave various healthcare facilities for all the weavers. This component follows the Rashtriya Swasthya Bima Yojana (RSBY) pattern.",
+        "Insurance cover\nThis component gives insurance cover for natural death, accidental death, complete disability, and partial disability.\nConverged Mahatma Gandhi Bunkar Bima Yojana (MGBBY), Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) and Pradhan Mantri Suraksha Bima Yojana (PMSBY) schemes create a social security system.",
+        "This component gives insurance cover for natural death, accidental death, complete disability, and partial disability.",
+        "Converged Mahatma Gandhi Bunkar Bima Yojana (MGBBY), Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) and Pradhan Mantri Suraksha Bima Yojana (PMSBY) schemes create a social security system."
+      ],
+      "premiumCoverage": [
+        {
+          "sNo": "GOI share",
+          "contribution": "INR 150",
+          "amount": null
+        },
+        {
+          "sNo": "LIC’s share",
+          "contribution": "INR 100",
+          "amount": null
+        },
+        {
+          "sNo": "Weaver’s share",
+          "contribution": "INR 80",
+          "amount": null
+        },
+        {
+          "sNo": "Total Premium",
+          "contribution": "INR 330",
+          "amount": null
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://handloom.upsdc.gov.in/Home/NHDP",
+    "data": {
+      "title": "National Handloom Development Programme",
+      "description": null,
+      "eligibilityCriteria": [
+        "Develop and promote marketing channels in domestic and export markets and bring about linkage between the two in a holistic and integrated manner.",
+        "Provide marketing opportunities to handloom workers with special focus on talented and uncovered weavers.",
+        "Domestic Marketing Promotion",
+        "Handloom Export Promotion",
+        "Setting up of Urban Haats",
+        "Marketing Incentive (MI)",
+        "Domestic Expos (National Handloom Expo, State Handloom Expo & District Handloom Expo).",
+        "Crafts Melas",
+        "Dilli Haat Exhibits",
+        "Brand Building",
+        "National Handloom Day",
+        "Handloom Awards",
+        "GeM On-boarding",
+        "Miscellaneous Promotional activities/events",
+        "Virtual Expos (for both domestic and international)",
+        "Organization of at least one exclusive expo in each State with specific focus on uncovered & talented weavers.",
+        "In all domestic marketing expos/events/Craft Melas/Dilli Haat, 20% stalls are to be allotted to uncovered & talented weavers. In case the number of such weavers fall open lottery as applicable. Participation fee charged by Dilli Haat Authority in respect of uncovered & talented weavers be borne by Office of the DC (HL).",
+        "WSCs/States should prepare a list of uncovered & talented weavers to be updated from time to time, on the basis of their financial status, workmanship, products marketing capabilities etc. of weavers.",
+        "Weavers who got recommended for Handloom Awards by the Zonal/Head Quarter Level Selection Committee but did not make to final select list are to be considered under talented weavers’ category.",
+        "Handloom agencies/weavers registered under HLM/IHB would be eligible for participation in marketing expos/events.",
+        "Handloom agencies/Weavers whose applications for registration are under consideration for HLM/IHB are to be considered for participation in expos/events.\nAnnual marketing calendar for organization of marketing expos/events etc. shall be approved by DC (HL) on the basis of past performance of IAs and an indicative target shall be communicated to the States/UTs and State & National level IAs."
+      ],
+      "features": [
+        "Domestic Marketing Promotion",
+        "Handloom Export Promotion",
+        "Setting up of Urban Haats",
+        "Marketing Incentive (MI)"
+      ],
+      "premiumCoverage": [
+        {
+          "sNo": "NHE",
+          "contribution": "80",
+          "amount": "14"
+        },
+        {
+          "sNo": "SHE",
+          "contribution": "60",
+          "amount": "14"
+        },
+        {
+          "sNo": "DHE",
+          "contribution": "25",
+          "amount": "5-7"
+        },
+        {
+          "sNo": "Crafts Melas",
+          "contribution": "-",
+          "amount": "-"
+        },
+        {
+          "sNo": "Virtual Expos",
+          "contribution": "200-500\n& above",
+          "amount": "14"
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://handloom.upsdc.gov.in/Home/PMJJBY",
+    "data": {
+      "title": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+      "description": null,
+      "eligibilityCriteria": [
+        "For enrolment in June, July and August – Full Annual Premium of Rs. 330/- is payable.",
+        "For enrolment in September, October and November – pro rata premium of Rs.258/- is payable.",
+        "For enrolment in December, January and February – pro rata premium of Rs.172/- is payable.",
+        "For enrolment in March, April and May – pro rata premium of Rs.86/- is payable."
+      ],
+      "features": [],
+      "premiumCoverage": []
+    }
+  },
+  {
+    "url": "https://handloom.upsdc.gov.in/Home/PMSBY",
+    "data": {
+      "title": "Pradhan Mantri Suraksha Bima Yojana",
+      "description": "will be an Accident Insurance Scheme offering accidental death and disability cover for death or disability on account of an accident. It would be a one-year cover, renewable from year to year. The scheme would be offered/administered through Public Sector General Insurance Companies (PSGICs) and other General Insurance companies willing to offer the product on similar terms with necessary approvals and tie up with Banks for this purpose. Participating banks will be free to engage any such insurance company for implementing the scheme for their subscribers.",
+      "eligibilityCriteria": [
+        "On attaining age 70 years (age ………… birthday).",
+        "Closure of account with the Bank or insufficiency of balance to keep the insurance in force.",
+        "In case a member is covered through more than one account and premium is received by the Insurance Company inadvertently, insurance cover will be restricted to one bank account only and the premium paid for duplicate insurance(s) shall be liable to be forfeited.",
+        "If the insurance cover is ceased due to any technical reasons such as insufficient balance on due date or due to any administrative issues, the same can be reinstated on receipt of full annual premium, subject to conditions that may be laid down. During this period, the risk cover will be suspended and reinstatement of risk cover will be at the sole discretion of Insurance Company.",
+        "Participating banks will deduct the premium amount in the same month when the auto debit option is given, preferably in May of every year, and remit the amount due to the Insurance Company in that month itself."
+      ],
+      "features": [],
+      "premiumCoverage": [
+        {
+          "sNo": "a",
+          "contribution": "Death",
+          "amount": "INR 2 Lakh"
+        },
+        {
+          "sNo": "b",
+          "contribution": "Total and irrecoverable loss of both eyes or loss of use of both hands or feet or loss of sight of one eye and loss of use of hand or foot",
+          "amount": "INR 2 Lakh"
+        },
+        {
+          "sNo": "c",
+          "contribution": "Total and irrecoverable loss of sight of one eye or loss of use of one hand or foot",
+          "amount": "INR 1 Lakh"
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://handloom.upsdc.gov.in/Home/aths",
+    "data": {
+      "title": "Assistance to the Trainees of Handloom Sector",
+      "description": "Under the scheme, candidates are selected for the seats fixed by the Government of India every year for the trainees of the three-year diploma course studying at the Indian Institute of Handloom Technology, Chowkaghat, Varanasi. The amount of scholarship is payable by the Government of India and the State Government to the trainees of the first, second, and third year on the basis of 50:50. In which in the form of state, for first year students INR 500.00 per student, for second year students INR 550.00 per student and for third year students at the rate of INR 600.00 per student for 10 months (July to April) Scholarship funds are provided for. At present, 45 seats have been earmarked for the students of Uttar Pradesh for the three-year diploma course of Indian Institute of Handloom Technology, Chowkaghat, Varanasi by the Ministry of Textiles, Government of India. In the financial year 2021-22, a total budget of INR 7.19 lakh (Rupees seven lakh nineteen thousand only) is proposed for the scholarship of first, second, and third year students for the three-year diploma course of Indian Institute of Handloom Technology, Chowkaghat, Varanasi.",
+      "eligibilityCriteria": [],
+      "features": [],
+      "premiumCoverage": []
+    }
+  },
+  {
+    "url": "https://handloom.upsdc.gov.in/Home/reerpw",
+    "data": {
+      "title": "Reimbursement of Exemption in Electricity Rate to Powerloom Weavers",
+      "description": "From the year 2006, it was decided by the Government of Uttar Pradesh to supply electricity at flat rate to the powerloom weavers of the state. In which INR 130.00 per loom is being given by weavers of urban area and INR 37.50 per loom by weavers of rural area. At present, a new scheme is proposed to meet the complaints of misuse of electricity and according to the demand of weavers, which is under consideration at the government level. The implementation of the scheme is done by the Handloom Department in coordination with the Regional Assistant Commissioner, Handlooms and officers of the Energy Department. For the purpose of benefiting the powerloom weavers of the state in the financial year 2020-21, the approval of a budget of INR 15000.00 lakh (Rupees one billion and fifty crore only) has been received. The sanctioned amount of INR 15000.00 lakh (Rupees one billion and fifty crore only) has been handed over to the Managing Director, Uttar Pradesh Power Corporation Ltd. Lucknow. In the financial year 2021-22, a proposal of INR 25000.00 lakh (Rupees two billion and fifty crore only) is proposed under the scheme of rebate in electricity rate to powerloom weavers.",
+      "eligibilityCriteria": [],
+      "features": [],
+      "premiumCoverage": []
+    }
+  },
+  {
+    "url": "https://handloom.upsdc.gov.in/Home/reerhw",
+    "data": {
+      "title": "Reimbursement of Exemption in Electricity Rate to Handloom Weavers",
+      "description": "Under the scheme, it has been decided by the Government of Uttar Pradesh to provide electricity subsidy to handloom weavers like powerloom weavers from the financial year 2015-16. Under the scheme, weavers are given exemption in electricity bills at the rate of INR 328 per month and INR 3936 per annum. A budget provision of INR 500.00 lakh has been made in the financial year 2020-21. whose expenditure is being processed. For reimbursement of exemption in electricity rates to 12703 handloom weavers in the financial year 2021-22, per handloom weaver electricity connection INR Budget will be required. Therefore, in the financial year 2021-22, a budget of INR 500.00 lakh (Rupees five crore only) is proposed under the scheme to compensate handloom weavers for rebate in electricity rate.",
+      "eligibilityCriteria": [],
+      "features": [],
+      "premiumCoverage": []
+    }
+  },
+  {
+    "url": "https://handloom.upsdc.gov.in/Home/Cmhwas",
+    "data": {
+      "title": "Chief Minister Handloom Weavers Award Scheme",
+      "description": "Handloom weavers play an important role in preserving the heritage of traditional art and culture of Indian society. To stop the migration of handloom weavers, to preserve the art and culture and to prevent the extinction of this art, it is necessary that the handloom weavers should be stopped by providing special facilities from the state government, so that they earn their living by engaging in handloom business can do At the same time, handloom weavers make an important contribution in preserving Indian culture, tradition and art by working hard throughout their life time. For which it is necessary to give respect to the handloom weavers on behalf of the government. To improve and give respect to the miserable economic condition of handloom weavers, only such handloom weavers will be eligible, whose minimum age is 60 years, but there will be no restriction of maximum age, that is, after selection, they will be entitled for this honor till the rest of their life. Under the scheme INR 500.00 per weaver is payable per month. The guidelines of the scheme are under process for approval. In anticipation of approval of the guidelines of the scheme, in the financial year 2021-22, a token budget of INR 0-01 Lakh.",
+      "eligibilityCriteria": [],
+      "features": [],
+      "premiumCoverage": []
+    }
+  },
+  {
+    "url": "https://handloom.upsdc.gov.in/Home/St_kabir",
+    "data": {
+      "title": "Chief Minister Handloom Weavers Award Scheme",
+      "description": "By creating competition among handloom weavers, they will be motivated to make high quality handloom fabrics. This scheme is being run with the objective of encouraging handloom weavers and improving the economic and social condition of the weavers, increasing their productivity and improving the quality. At present, keeping in view the scenario of diversification and change of clothes according to the increasing competition and technological development, this scheme is being implemented to provide assistance, support, encouragement and rewards to the weavers working in the handloom industry.",
+      "eligibilityCriteria": [],
+      "features": [],
+      "premiumCoverage": [
+        {
+          "sNo": "First",
+          "contribution": "INR 20,000",
+          "amount": "Weaver No. 13"
+        },
+        {
+          "sNo": "Second",
+          "contribution": "INR 15,000",
+          "amount": "Weaver No. 13"
+        },
+        {
+          "sNo": "Third",
+          "contribution": "INR 10,000",
+          "amount": "Weaver No. 13"
+        },
+        {
+          "sNo": "Total",
+          "contribution": "Weaver’s 39",
+          "amount": "INR 5,58,000"
+        },
+        {
+          "sNo": "First",
+          "contribution": "INR 1,00,000",
+          "amount": "Weaver No. 4"
+        },
+        {
+          "sNo": "Second",
+          "contribution": "INR 50,000",
+          "amount": "Weaver No. 4"
+        },
+        {
+          "sNo": "Third",
+          "contribution": "INR 25,000",
+          "amount": "Weaver No. 4"
+        },
+        {
+          "sNo": "Total",
+          "contribution": "Weaver’s 12",
+          "amount": "INR 7,00,000"
+        }
+      ]
+    }
+  }
+]
