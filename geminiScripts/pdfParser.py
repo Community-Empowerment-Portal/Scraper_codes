@@ -8,10 +8,20 @@ import json
 from structureGemini import process_and_structure_document
 import time
 from google.api_core.exceptions import ResourceExhausted
+from google.api_core.exceptions import DeadlineExceeded
+from trackScheme import (
+    calculate_hash,
+    load_previous_state,
+    save_current_state,
+    identify_changes,
+)
+
 
 
 base_file_path = os.path.join(os.path.dirname(__file__),'..','goaScraper','goa_pdf_link.json')
 absolute_file_path = os.path.abspath(base_file_path)
+output_file = os.path.join(os.path.dirname(__file__), 'structured_results.json')
+state_file = 'scheme_state.json'
 
 api_keys = [
     "AIzaSyCwZDOJVmSi7hxrw-1oHadN__3-Qnh3-uE",
@@ -104,49 +114,73 @@ def process_with_api_key_rotation(extractedSchemeText, api_keys, retries=5):
                 else:
                     print(f"API key {api_key} exhausted, moving to the next key.")
                     break
+            except DeadlineExceeded as e:
+                print(f"Attempt {attempt + 1} with API key {api_key} failed due to DeadlineExceeded: {str(e)}")
+                if attempt < retries - 1:
+                    backoff_time = 2 ** attempt
+                    print(f"Retrying in {backoff_time} seconds...")
+                    time.sleep(backoff_time)
+                else:
+                    print(f"API key {api_key} exhausted, moving to the next key.")
+                    break
+
+            except Exception as e:
+                print(f"Attempt {attempt + 1} with API key {api_key} failed due to an unexpected error: {str(e)}")
+                if attempt < retries - 1:
+                    backoff_time = 2 ** attempt
+                    print(f"Retrying in {backoff_time} seconds...")
+                    time.sleep(backoff_time)
+                else:
+                    print(f"API key {api_key} exhausted, moving to the next key.")
+                    break
     print("All API keys exhausted, unable to process the document.")
     return None
 
 
+def main():
+    previous_state = load_previous_state(state_file)
 
+    new_schemes, updated_schemes = identify_changes(goaPdfText, previous_state)
+    schemes_to_process = new_schemes + updated_schemes
 
-# for scheme in goaPdfText:
-#     extractedSchemeText = parse_document(scheme["pdf_link"])
-#     result = process_and_structure_document(extractedSchemeText, api_key)
-#     fc = result.candidates[0].content.parts[0].function_call
-#     final_data = json.dumps(type(fc).to_dict(fc), indent=4)
-#     convert_data = json.loads(final_data)
-#     final_converted_data = convert_data.get("args",{})
-#     print("This is structured result:", json.dumps(final_converted_data, indent=4))
+    final_results = []
 
-final_results = []
+    for scheme in schemes_to_process:
+        extractedSchemeText = parse_document(scheme["pdf_link"])
 
-for scheme in goaPdfText:
-    extractedSchemeText = parse_document(scheme["pdf_link"])
+        if extractedSchemeText:
+            result = process_with_api_key_rotation(extractedSchemeText, api_keys)
 
-    if extractedSchemeText:
-        result = process_with_api_key_rotation(extractedSchemeText, api_keys)
-
-        if result:
-            fc = result.candidates[0].content.parts[0].function_call
-            final_data = json.dumps(type(fc).to_dict(fc), indent=4)
-            convert_data = json.loads(final_data)
-            final_converted_data = convert_data.get("args", {})
-            final_converted_data = final_converted_data.get("state")
-            # final_scheme_json = json.dumps(final_converted_data, indent=4)
-            final_results.append(final_converted_data)
-            print("This is structured result:", final_converted_data)
+            if result and result.candidates:
+                try:
+                    fc = result.candidates[0].content.parts[0].function_call
+                    final_data = json.dumps(type(fc).to_dict(fc), indent=4)
+                    convert_data = json.loads(final_data)
+                    final_converted_data = convert_data.get("args", {})
+                    final_converted_data = final_converted_data.get("scheme_details")
+                
+                    with open(output_file, 'a') as f:
+                        if os.stat(output_file).st_size == 0:
+                            f.write("[\n")
+                            json.dump(final_converted_data, f, indent=4)
+                        else:
+                            # f.seek(f.tell() - 1, os.SEEK_SET)  
+                            f.write(",\n")
+                            json.dump(final_converted_data, f, indent=4)
+                            
+                        
+                    print(f"Processed and appended scheme: {scheme['pdf_link']}")
+                except IndexError as e:
+                    print(f"Error processing the result for {scheme['pdf_link']}: {e}")
+            else:
+                print(f"Failed to process the scheme: {scheme['pdf_link']}")
         else:
-            print(f"Failed to process the scheme: {scheme['pdf_link']}")
-    else:
-        print(f"Failed to extract text from the PDF: {scheme['pdf_link']}")
+            print(f"Failed to extract text from the document: {scheme['pdf_link']}")
+    with open(output_file, 'a') as f:
+        f.write("\n]")
+    current_state = {scheme["id"]: calculate_hash(scheme) for scheme in goaPdfText}
+    save_current_state(state_file, current_state)
 
-
-output_file = os.path.join(os.path.dirname(__file__), 'structured_results.json')
-with open(output_file, 'w') as f:
-    json.dump(final_results, f, indent=4)
-
-print(f"Structured results have been written to {output_file}")
-
-
+if __name__ == "__main__":
+    main()
 

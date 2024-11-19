@@ -31,13 +31,12 @@ def process_and_structure_document(document_extracted_text: str, api_key: str):
         required=['sponsor_type']
     )
 
-    criterion = genai.protos.Schema(
+    criteria = genai.protos.Schema(
         type=genai.protos.Type.OBJECT,
         properties={
-            'description': genai.protos.Schema(type=genai.protos.Type.STRING),
-            'value': genai.protos.Schema(type=genai.protos.Type.STRING)
+            'description': genai.protos.Schema(type=genai.protos.Type.STRING)
         },
-        required=['description', 'value']
+        required=['description']
     )
 
     procedure = genai.protos.Schema(
@@ -52,6 +51,7 @@ def process_and_structure_document(document_extracted_text: str, api_key: str):
         type=genai.protos.Type.OBJECT,
         properties={
             'title': genai.protos.Schema(type=genai.protos.Type.STRING),
+            'department_name': genai.protos.Schema(type=genai.protos.Type.STRING),
             'introduced_on': genai.protos.Schema(type=genai.protos.Type.STRING),
             'valid_upto': genai.protos.Schema(type=genai.protos.Type.STRING),
             'funding_pattern': genai.protos.Schema(type=genai.protos.Type.STRING),
@@ -60,32 +60,32 @@ def process_and_structure_document(document_extracted_text: str, api_key: str):
             'beneficiaries': genai.protos.Schema(type=genai.protos.Type.ARRAY, items=beneficiary),
             'documents': genai.protos.Schema(type=genai.protos.Type.ARRAY, items=genai.protos.Schema(type=genai.protos.Type.STRING)),
             'sponsors': genai.protos.Schema(type=genai.protos.Type.ARRAY, items=sponsor),
-            'criteria': genai.protos.Schema(type=genai.protos.Type.ARRAY, items=criterion),
+            'criteria': genai.protos.Schema(type=genai.protos.Type.ARRAY, items=criteria),
             'procedures': genai.protos.Schema(type=genai.protos.Type.ARRAY, items=procedure),
             'tags': genai.protos.Schema(type=genai.protos.Type.ARRAY, items=genai.protos.Schema(type=genai.protos.Type.STRING))
         },
         required=['title', 'introduced_on', 'valid_upto', 'funding_pattern', 'description', 'scheme_link', 'beneficiaries', 'documents', 'sponsors', 'criteria', 'procedures', 'tags']
     )
 
-    department = genai.protos.Schema(
-        type=genai.protos.Type.OBJECT,
-        properties={
-            'department_name': genai.protos.Schema(type=genai.protos.Type.STRING),
-            'created_at': genai.protos.Schema(type=genai.protos.Type.STRING),
-            'schemes': genai.protos.Schema(type=genai.protos.Type.ARRAY, items=scheme)
-        },
-        required=['department_name', 'created_at', 'schemes']
-    )
+    # department = genai.protos.Schema(
+    #     type=genai.protos.Type.OBJECT,
+    #     properties={
+    #         'department_name': genai.protos.Schema(type=genai.protos.Type.STRING),
+    #         'created_at': genai.protos.Schema(type=genai.protos.Type.STRING),
+    #         'schemes': genai.protos.Schema(type=genai.protos.Type.ARRAY, items=scheme)
+    #     },
+    #     required=['department_name', 'created_at', 'schemes']
+    # )
 
-    state = genai.protos.Schema(
-        type=genai.protos.Type.OBJECT,
-        properties={
-            'state_name': genai.protos.Schema(type=genai.protos.Type.STRING),
-            'created_at': genai.protos.Schema(type=genai.protos.Type.STRING),
-            'departments': genai.protos.Schema(type=genai.protos.Type.ARRAY, items=department)
-        },
-        required=['state_name', 'created_at', 'departments']
-    )
+    # state = genai.protos.Schema(
+    #     type=genai.protos.Type.OBJECT,
+    #     properties={
+    #         'state_name': genai.protos.Schema(type=genai.protos.Type.STRING),
+    #         'created_at': genai.protos.Schema(type=genai.protos.Type.STRING),
+    #         'departments': genai.protos.Schema(type=genai.protos.Type.ARRAY, items=department)
+    #     },
+    #     required=['state_name', 'created_at', 'departments']
+    # )
 
     add_to_database = genai.protos.FunctionDeclaration(
         name="add_to_database",
@@ -95,7 +95,7 @@ def process_and_structure_document(document_extracted_text: str, api_key: str):
         parameters=genai.protos.Schema(
             type=genai.protos.Type.OBJECT,
             properties={
-                'state': state
+                'scheme_details': scheme
             }
         )
     )
