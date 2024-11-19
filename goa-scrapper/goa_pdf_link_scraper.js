@@ -1,4 +1,6 @@
 const puppeteer = require('puppeteer')
+const { v4: uuidv4 } = require('uuid');
+
 const fs = require('fs').promises
 async function extract_title_and_pdfUrl(){
     const url = "https://www.goa.gov.in/government/schemes/"
@@ -20,7 +22,9 @@ async function extract_title_and_pdfUrl(){
         })
         return data
     })
-    await fs.writeFile('goa_pdf_link.json', JSON.stringify(result, null, 2), 'utf-8')
+    const resultWithUUID = result.map(item => ({ id: uuidv4(), ...item }));
+    await fs.writeFile('goa_pdf_link.json', JSON.stringify(resultWithUUID, null, 2), 'utf-8')
+    
     await browser.close()
 }
 extract_title_and_pdfUrl()
