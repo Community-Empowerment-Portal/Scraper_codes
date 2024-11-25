@@ -1,0 +1,72 @@
+[
+  {
+    "id": "6c20a737-6c64-4833-84cf-19957758d766",
+    "title": "Raj SSP Scheme",
+    "schemeUrl": "https://ssp.rajasthan.gov.in/LoginContent/MidLogin.aspx",
+    "requireDocumentsUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402061153483977.pdf",
+    "userManualUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402191522541342.pdf"
+  },
+  {
+    "id": "58a1896b-a429-4a2d-bf30-905dd023cf86",
+    "title": "Scholarship Scheme",
+    "schemeUrl": "https://sjmsnew.rajasthan.gov.in/scholarship/StudentDashBoard.aspx",
+    "requireDocumentsUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402061153162134.pdf",
+    "userManualUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402191524209649.pdf"
+  },
+  {
+    "id": "e8fb2e72-d34a-4046-8359-bd3a4f8abe52",
+    "title": "Palanhar Scheme",
+    "schemeUrl": "https://sjmsnew.rajasthan.gov.in/palanhaar/",
+    "requireDocumentsUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402061159256361.pdf",
+    "userManualUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402191521248425.pdf"
+  },
+  {
+    "id": "02ecb71a-218e-4657-9291-233d1955a231",
+    "title": "CM Kanyadan Scheme",
+    "schemeUrl": "https://sso.rajasthan.gov.in/signin",
+    "requireDocumentsUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402211659500454.pdf",
+    "userManualUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402191205395916.pdf"
+  },
+  {
+    "id": "2158987b-a9b7-488d-8bb8-aeb58934906d",
+    "title": "Inter Caste Marriage Scheme",
+    "schemeUrl": "https://sso.rajasthan.gov.in/signin",
+    "requireDocumentsUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402211703381004.pdf",
+    "userManualUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402141706579922.pdf"
+  },
+  {
+    "id": "e131326a-a2f3-4a83-bd5c-72c34fa7ea1a",
+    "title": "Atrocity Prevention",
+    "schemeUrl": "https://sjmsnew.rajasthan.gov.in/atrocities/Login.aspx",
+    "requireDocumentsUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402151532385405.pdf",
+    "userManualUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402141705438796.pdf"
+  },
+  {
+    "id": "2552584b-4d5e-42ba-acd7-23eff80d9e12",
+    "title": "Hostel & RREIS Scheme",
+    "schemeUrl": "https://sjmsnew.rajasthan.gov.in/sjmshostel",
+    "requireDocumentsUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402211701305969.pdf",
+    "userManualUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402141706355388.pdf"
+  },
+  {
+    "id": "01ce71d0-81f1-40df-a307-4bc11a258534",
+    "title": "CM Anuprati Coaching Scheme",
+    "schemeUrl": "https://sjmsnew.rajasthan.gov.in/cmanupratiCoaching/",
+    "requireDocumentsUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402191514560241.pdf",
+    "userManualUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402191520050796.pdf"
+  },
+  {
+    "id": "cf54fc0f-292c-4186-b014-bf5a74631884",
+    "title": "Navjeevan Scheme",
+    "schemeUrl": "https://sso.rajasthan.gov.in/signin",
+    "requireDocumentsUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402211702416098.pdf",
+    "userManualUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402141707287261.pdf"
+  },
+  {
+    "id": "136b8cad-ea47-4a03-8555-0edd88a2516f",
+    "title": "Ambedkar DBT Voucher Scheme",
+    "schemeUrl": "https://sjmsnew.rajasthan.gov.in/cmanupratiCoaching/",
+    "requireDocumentsUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402191517246413.pdf",
+    "userManualUrl": "https://sje.rajasthan.gov.in/siteadmin/Uploads/202402151518206193.pdf"
+  }
+]
