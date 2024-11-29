@@ -15,6 +15,9 @@ from trackScheme import (
     save_current_state,
     identify_changes,
 )
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 
@@ -24,13 +27,13 @@ output_file = os.path.join(os.path.dirname(__file__), 'structured_results.json')
 state_file = 'scheme_state.json'
 
 api_keys = [
-    "AIzaSyCwZDOJVmSi7hxrw-1oHadN__3-Qnh3-uE",
-    "AIzaSyDun0IvxbLRGtj484dh2H59ZJQY125pozc",
-    "AIzaSyDryM70GXyoxoZOUuT-oiJSEypjNohBGDI",
-    "AIzaSyAUdZiWi-TBgR5NK43_zs3G4yQEiMm9zpw",
-    "AIzaSyCtyRHNl2W0jsFA-yiA2jGaNkG6_zr2mzc",
-    "AIzaSyB4XEu-v61Jlxz_otvFPrQfJvPxCgm_FFs",
-    "AIzaSyDdahnDepkau1tx5gf4gFiDq0R_hxbwfcg"
+    os.getenv("API_KEY_1"),
+    os.getenv("API_KEY_2"),
+    os.getenv("API_KEY_3"),
+    os.getenv("API_KEY_4"),
+    os.getenv("API_KEY_5"),
+    os.getenv("API_KEY_6"),
+    os.getenv("API_KEY_7")
 ]
 
 
