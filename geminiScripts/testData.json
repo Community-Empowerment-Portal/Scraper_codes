@@ -1,0 +1,77 @@
+{
+    "state": {
+        "created_at": "2018-07-20",
+        "departments": [
+            {
+                "created_at": "2018-07-20",
+                "schemes": [
+                    {
+                        "description": "To create an environment conducive for attracting investment in the State of Goa and to ineentivise existing units to be competitive while giving boost to local employment.",
+                        "tags": [
+                            "Employment",
+                            "Subsidy"
+                        ],
+                        "beneficiaries": [],
+                        "procedures": [],
+                        "sponsors": [],
+                        "valid_upto": "2022-09-30",
+                        "introduced_on": "2017-10-01",
+                        "funding_pattern": "Subsidy will be pro-rata increasing from 60% to 100% in a continuous linear scale subject to 60% to 80% of Goan employment.",
+                        "title": "EMPLOYMENT SUBSIDY SCHEME, 2017",
+                        "scheme_link": "",
+                        "criteria": [
+                            {
+                                "value": "",
+                                "description": "Micro, Small, Medium and Large manufacturing industries listed under White category, Green category and Orange category are eligible."
+                            },
+                            {
+                                "value": "",
+                                "description": "The projects of Hinterland Eco tourism in lesser developed talukas registered with/ recognised by the Department of Tourism/ Goa-IPB/ Town & Country Planning/PDA/Eco Sensitive Zone Authority will also be eligible to avail benefits under this scheme subject to fulfilment of all the other eligibility criteria."
+                            },
+                            {
+                                "value": "",
+                                "description": "Enterprises engaging a minimum of 60% of Goan manpower on regular employment are eligible for benefits under this scheme."
+                            },
+                            {
+                                "value": "",
+                                "description": "All the Goan employees upto 60 years of age who are paid gross salary of more than Rs. 8,000/- per month shall be considered."
+                            },
+                            {
+                                "description": "The relations defined under section 56 of Income Tax Act 1961 shall not he counted as employees for the purpose of this scheme.",
+                                "value": ""
+                            },
+                            {
+                                "description": "The units which have availed of Chief Minister's Rojgar Yojana (CMRY) Scheme or any other employment generation scheme of Government of India/Government of Goa shall not be eligible for benefits under this scheme.",
+                                "value": ""
+                            },
+                            {
+                                "description": "The enterprises which are taking or have taken any benefit under any policy of the Department of Information Technology, Government of Goa, shall not be eligible for benefits under this scheme.",
+                                "value": ""
+                            },
+                            {
+                                "value": "",
+                                "description": "This scheme shall not he applicable to cases which haN c claimed similar benefit under any other scheme/program of Government of Goa."
+                            }
+                        ],
+                        "documents": [
+                            "A self-attested copy of registration under Umbrella Scheme",
+                            "A self-declaration in the format provided",
+                            "A copy of payroll of the unit highlighting the number of total employees, and monthly salaries paid to them in that year, certified by a Chartered Accountant",
+                            "A statement of Goan employees excluding non-eligible Goans and monthly salaries paid to them in that year",
+                            "Documentary evidence to support that the employees are Goans as specified in clause (3) above",
+                            "A Chartered Accountant certificate certifying the amount paid to the Goan regular employees towards salary during that year",
+                            "A copy of Audited balance sheet of the unit for the claim year",
+                            "A copy of GST returns filed by the unit for the claim year",
+                            "For applications under Hinterland Eco tourism, the certificate of registration or approval issued by the Department of Tourism / CR/ Authority/Goa 1P13 /hco Sensitive Zone Authority shall be submitted",
+                            "Certificate from Chartered Accountant stating that no claim from the Department of Information Technology, Government of Goa has been made for any incentives",
+                            "A Chartered Accountant certificate certifying that no other claim for similar benefit has been made under any other scheme/program of Government of Goa",
+                            "Copies of ESI/PF returns wherever applicable"
+                        ]
+                    }
+                ],
+                "department_name": "Department of Industries"
+            }
+        ],
+        "state_name": "Goa"
+    }
+}
