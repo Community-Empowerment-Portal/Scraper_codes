@@ -1,9 +1,10 @@
+const { url } = require('inspector');
 const puppeteer = require('puppeteer');
 const fs = require('fs').promises;
 const { v4: uuidv4 } = require('uuid');
 
 let allResults = [];
-
+let resultWithUUID = [];
 async function departmental_pdf_links() {
     const url = 'https://sje.rajasthan.gov.in/Default.aspx?PageID=3453';
     const browser = await puppeteer.launch();
@@ -54,14 +55,12 @@ async function scrape_title_and_pdfUrl(urls) {
                     res.pdfUrl = await getEmbedSrc(res.pdfUrl, browser);
                 }
             }
-
             allResults = [...allResults, ...result];
+            resultWithUUID = allResults.map(item => ({ id: uuidv4(), schemeUrl:url, ...item }));
         } catch (err) {
             console.error(`Error scraping ${url}:`, err);
         }
     }
-
-    const resultWithUUID = allResults.map(item => ({ id: uuidv4(), ...item }));
     await fs.writeFile('rajasthan-pdf-links.json', JSON.stringify(resultWithUUID, null, 2), 'utf8');
 
     console.log('Scraping complete. Results saved to rajasthan-pdf-links.json.');

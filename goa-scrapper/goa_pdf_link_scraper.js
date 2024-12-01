@@ -22,7 +22,7 @@ async function extract_title_and_pdfUrl(){
         })
         return data
     })
-    const resultWithUUID = result.map(item => ({ id: uuidv4(), ...item }));
+    const resultWithUUID = result.map(item => ({ id: uuidv4(),schemeUrl:url , ...item }));
     await fs.writeFile('goa_pdf_link.json', JSON.stringify(resultWithUUID, null, 2), 'utf-8')
     
     await browser.close()
