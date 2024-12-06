@@ -7,7 +7,7 @@ const getAllUrls = async function(){
     const url = "https://jharkhand.gov.in/Home/SearchSchemes"
     const browser = await puppeteer.launch()
     const page = await browser.newPage()
-    await  page.goto(url , {timeout:60000})
+    await  page.goto(url , {timeout:300000})
 
     const values = await page.evaluate(() => {
         const options = Array.from(document.querySelector('select').children); 
@@ -38,7 +38,7 @@ main()
 async function get_pdf_link(url, departmentName) {
     const browser = await puppeteer.launch()
     const page = await browser.newPage()
-    await  page.goto(url , {timeout:60000})
+    await  page.goto(url , {timeout:300000})
     const result = await page.evaluate(()=>{
         const rows = document.querySelectorAll('tbody tr')
         const data = []
@@ -52,7 +52,7 @@ async function get_pdf_link(url, departmentName) {
         return data 
     })
 
-    const resultWithUUID = result.map((item)=>({id:uuidv4(), ...item, departmentName}))
+    const resultWithUUID = result.map((item)=>({id:uuidv4(),scheme_url:url, ...item, departmentName}))
 
     await browser.close()
     return resultWithUUID
