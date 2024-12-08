@@ -1,0 +1,42 @@
+[
+  {
+    "id": "5b539ea5-74aa-4a37-82bc-0a1274ba218c",
+    "title": "Pradhan Mantri Jan Dhan Yojana",
+    "scheme_url": "https://nicobars.andaman.nic.in/scheme/atal-mission-for-rejuvenation-and-urban-transformation-amrut/",
+    "publishDate": "28/08/2014",
+    "department": "Financial inclusion",
+    "description": "Pradhan Mantri Jan-Dhan Yojana (PMJDY) is National Mission for Financial Inclusion to ensure access to financial services, namely, Banking/ Savings & Deposit Accounts, Remittance, Credit, Insurance, Pension in an affordable manner. Account can be opened in any bank branch or Business Correspondent (Bank Mitr) outlet. Accounts opened under PMJDY are being opened with Zero balance. However, if the account-holder wishes to get cheque book, he/she will have to fulfill minimum balance criteria.",
+    "beneficiary": "People",
+    "benefits": "Financial Inclusion to ensure access to financial services, namely, Banking/ Savings & Deposit Accounts, Remittance, Credit, Insurance, Pension in an affordable manner"
+  },
+  {
+    "id": "cc507dfe-8785-4a64-a86b-f98f36eb15c2",
+    "title": "Mahatma Gandhi National Rural Employment Guarantee Act",
+    "scheme_url": "https://nicobars.andaman.nic.in/scheme/mahatma-gandhi-national-rural-employment-guarantee-act-mgnrega/",
+    "publishDate": "01/04/2008",
+    "department": "RURAL EMPLOYMENT",
+    "description": "The MGNREGA was initiated with the objective of “enhancing livelihood security in rural areas by providing at least 100 days of guaranteed wage employment in a financial year, to every household whose adult members volunteer to do unskilled manual work”. Another aim of MGNREGA is to create durable assets (such as roads, canals, ponds and wells). Employment is to be provided within 5 km of an applicant’s residence, and minimum wages are to be paid. If work is not provided within 15 days of applying, applicants are entitled to an unemployment allowance. Thus, employment under MGNREGA is a legal entitlement.",
+    "beneficiary": "Rural household",
+    "benefits": "Monetary Gain"
+  },
+  {
+    "id": "bdcddcc7-cde7-406b-b3e0-de56d0191d76",
+    "title": "National Rural Health Mission (NRHM)",
+    "scheme_url": "https://nicobars.andaman.nic.in/scheme/sarva-shiksha-abhiyan/",
+    "publishDate": "12/04/2005",
+    "department": "Health Care",
+    "description": "The National Rural Health Mission (NRHM), now under National Health Mission[1] is an initiative undertaken by the government of India to address the health needs of under-served rural areas. Basic objectives for implementation of NRHM are: To reduce infant mortality rate and maternal mortality rate To ensure population stabilization To prevent and control of communicable and non-communicable diseases To upgrade AYUSH(Aurvedic Yoga Unani Siddh and Homopath) for promotion of healthy life style",
+    "beneficiary": "Better Health Care to Community, Specially Women and child",
+    "benefits": "Improve Health sector, Infrastructure etc"
+  },
+  {
+    "id": "e443d602-56c2-4750-87a1-1f56c1595cdf",
+    "title": "Beti Bachao Beti Padhao",
+    "scheme_url": "https://nicobars.andaman.nic.in/scheme/beti-bachao-beti-padhao-yojana/",
+    "publishDate": "22/01/2015",
+    "department": "Education",
+    "description": "The Overall Goal of the Beti Bachao, Beti Padhao(BBBP) Scheme is to Celebrate the Girl Child & Enable her Education . The objectives of the Scheme are as under :- – Prevent gender biased sex selective elimination Ensure survival & protection of the girl child Ensure education of the girl child",
+    "beneficiary": "Girl Child",
+    "benefits": ""
+  }
+]

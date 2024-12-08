@@ -1627,6 +1627,7 @@ async function scrapeScheme(url) {
         console.log(`Extracted data for scheme: ${schemeName}`);
         allData[schemeId] = {
           id: schemeId,
+          scheme_url:url,
           ...data
         };
       } else {

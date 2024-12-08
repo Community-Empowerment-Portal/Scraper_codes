@@ -1,5 +1,6 @@
 const puppeteer = require('puppeteer')
 const fs = require('fs')
+const { v4: uuidv4 } = require('uuid');
 
 async function scrapeHaryana(){
     const browser = await puppeteer.launch();
@@ -56,10 +57,10 @@ async function main(){
         schemes.push(result)
         await browser.close()
     }
-    
-    fs.writeFileSync('haryanaSchemes.json', JSON.stringify(schemes, null, 2), 'utf-8');
+    const resultWithUUID = schemes.map((it)=>({id:uuidv4(),scheme_url:url,...it}))
+    fs.writeFileSync('haryanaSchemes.json', JSON.stringify(resultWithUUID, null, 2), 'utf-8');
 
-    console.log('Data has been saved to schemes.json');
+    // console.log('Data has been saved to schemes.json');
 }
 main()
 
