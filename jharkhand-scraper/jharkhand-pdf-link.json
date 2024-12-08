@@ -1,394 +1,450 @@
 [
   {
-    "id": "4916b7bb-b7f0-4627-9e54-20fdbf2cfdda",
-    "title": "संकल्प",
-    "publishDate": "05/03/2024",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D031DO00605032024051350646",
-    "departmentName": "Department of Women, Child Development & Social Security"
-  },
-  {
-    "id": "e0f430c6-fd1e-44a0-9c6a-dbbfab2a5220",
-    "title": "इंदिरा गाँधी राष्ट्रीय दिव्यांग पेंशन योजना",
-    "publishDate": "28/06/2023",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D031DO00628062023123755029",
-    "departmentName": "Department of Women, Child Development & Social Security"
-  },
-  {
-    "id": "dd9d342a-5c91-468c-a750-4a71013a822a",
-    "title": "राष्ट्रीय सामाजिक सहायता कार्यक्रम अन्तर्गत केन्द्र प्रायोजित पेंशन योजनाओं हेतु परिक्रामी निधि के गठन एवं राज्य योजनान्तर्गत संचालित सामाजिक सुरक्षा पेंशन योजनाओं के मार्ग निर्देश में संशोधन की स्वीकृति।",
-    "publishDate": "28/06/2023",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D031DO00628062023124410458",
-    "departmentName": "Department of Women, Child Development & Social Security"
-  },
-  {
-    "id": "4dee7fc9-6b19-4511-909c-6f92aad4c85e",
-    "title": "राज्य योजनान्तर्गत स्वस्थ्य हो चुके मानसिक दिव्यांगजनो के पुनर्वास एवं देखभाल हेतु Halfway Home के संचालन की स्वीकृति।",
-    "publishDate": "28/06/2023",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D031DO00628062023011545167",
-    "departmentName": "Department of Women, Child Development & Social Security"
-  },
-  {
-    "id": "143b0e13-f3bf-4bcb-af6f-61c2a1dc09c4",
-    "title": "2014-15_HEADWISE PLAN WITH EXPENDITURE",
-    "publishDate": "12/07/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00611072019060211641",
-    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
-  },
-  {
-    "id": "50e2302a-20ce-4d23-84c2-473092a35d93",
-    "title": "2011-12 to 2018-19 PLAN (GIRIDIH,KHARSAWAN,DUMKA,DHANBAD,SHAIBGANJ & BOKARO)",
-    "publishDate": "12/07/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00611072019051910628",
-    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
-  },
-  {
-    "id": "a5fabf23-ec83-4b5b-a9b7-31e9faa49b59",
-    "title": "2015-16_HEADWISE PLAN WITH EXPENDITURE",
-    "publishDate": "12/07/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00612072019122333324",
-    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
-  },
-  {
-    "id": "1d676cf5-ae15-43cf-a5a2-bfe8023dd4f3",
-    "title": "2011-12 to 2018-19 PLAN (GUMLA,JAMSHEDPUR,CHAIBASA,KHUNTI, HAZARIBAGH & CHATRA",
-    "publishDate": "12/07/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00611072019054100642",
-    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
-  },
-  {
-    "id": "b75e9494-be30-46b6-804a-99f732ad452c",
-    "title": "2016-17_HEADWISE PLAN WITH EXPENDITURE",
-    "publishDate": "12/07/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00612072019122554940",
-    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
-  },
-  {
-    "id": "c5d2e751-7a90-44b2-a760-856232ae5a7d",
-    "title": "2011-12 to 2018-19 PLAN (JAMTARA, LOHARDAGA,PALAMU,PAKUR,SIMDEGA & LATEHAR)",
-    "publishDate": "12/07/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00611072019054646768",
-    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
-  },
-  {
-    "id": "d95ae307-e464-40f9-a348-d4a14b317fae",
-    "title": "2017-18 PLAN_TOURISM DIRECTOR",
-    "publishDate": "12/07/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00612072019123614447",
-    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
-  },
-  {
-    "id": "b2ba7cfa-aa63-4715-b35f-25785db9b936",
-    "title": "2011-2012 to 2018-19 PLAN (RAMGARH,GARWAH,DEOGHAR,RANCHI,KODERMA & GODDA)",
-    "publishDate": "12/07/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00611072019060105160",
-    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
-  },
-  {
-    "id": "203dfa5f-653e-42c9-bedd-5046979551d9",
-    "title": "2017-18_HEADWISE PLAN WITH EXPENDITURE",
-    "publishDate": "12/07/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00612072019124228783",
-    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
-  },
-  {
-    "id": "1efea515-2924-4a2d-bbd7-693b9d025dd6",
-    "title": "2018-19 PLAN_UPTO NOV 2018",
-    "publishDate": "12/07/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00612072019125736373",
-    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
-  },
-  {
-    "id": "3f94d5c8-7e3d-4648-bc26-d489eed50f35",
+    "id": "762279b1-99eb-4b6a-b66d-ebc5c16994bb",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=5cedfc034ccdad75d58a0fa1875d396a",
     "title": "वर्ष 2016-17 का प्रगति प्रतिवेदन एवं वार्षिक कार्य योजना 2017-18",
     "publishDate": "01/01/2019",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D016DO00601012019121506222",
     "departmentName": "Department of Information Technology & e-Governance"
   },
   {
-    "id": "6a2f29ab-0d6a-45ab-aa23-074140af287d",
+    "id": "1495cd81-584e-41a5-97fa-3d6d19d82eb2",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=5cedfc034ccdad75d58a0fa1875d396a",
     "title": "WRITE- UP 2018-19",
     "publishDate": "01/01/2019",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D016DO00601012019121307218",
     "departmentName": "Department of Information Technology & e-Governance"
   },
   {
-    "id": "29292739-a20c-4bca-96d4-e3d1a4184f98",
+    "id": "a6a941a7-c347-4ba7-b0d0-e478bd124877",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=5cedfc034ccdad75d58a0fa1875d396a",
     "title": "EXPENDITURE REPORT 2017-18",
     "publishDate": "01/01/2019",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D016DO00601012019121215891",
     "departmentName": "Department of Information Technology & e-Governance"
   },
   {
-    "id": "198ae8dd-dc2e-4050-a3a3-1f0f0b761e82",
+    "id": "10a7c06b-3c9c-4045-ac42-b2725d12947e",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=5cedfc034ccdad75d58a0fa1875d396a",
     "title": "BUDGET BOOKLET 2018-19",
     "publishDate": "01/01/2019",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D016DO00601012019121110000",
     "departmentName": "Department of Information Technology & e-Governance"
   },
   {
-    "id": "5489b4a8-47dd-48e3-beb3-9fe7bcbf3b95",
-    "title": "Allotment",
-    "publishDate": "16/01/2020",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D012DO00616012020042741258",
-    "departmentName": "Department of Home, Jail & Disaster Management"
-  },
-  {
-    "id": "80bcc642-00a4-4bc8-96ba-1525484b6c37",
-    "title": "2",
-    "publishDate": "12/07/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D010DO00612072019031721727",
-    "departmentName": "Department of Forest, Environment & Climate Change"
-  },
-  {
-    "id": "d373e6c4-f4a1-4fc0-8810-6876ff16695f",
-    "title": "3",
-    "publishDate": "12/07/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D010DO00612072019032620280",
-    "departmentName": "Department of Forest, Environment & Climate Change"
-  },
-  {
-    "id": "b25abb25-5db5-42ef-a5ca-a5585e459b08",
-    "title": "Action Plan on Climate Change",
-    "publishDate": "12/07/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D010DO00612072019032958119",
-    "departmentName": "Department of Forest, Environment & Climate Change"
-  },
-  {
-    "id": "890beea0-41a2-4018-b46a-0bbd8b623ae2",
-    "title": "Greening India Scheme",
-    "publishDate": "12/07/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D010DO00612072019033250104",
-    "departmentName": "Department of Forest, Environment & Climate Change"
-  },
-  {
-    "id": "40378637-dcbe-45d4-bd84-ed4e018c4e02",
-    "title": "National Afforestation Programme",
-    "publishDate": "12/07/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D010DO00612072019033356277",
-    "departmentName": "Department of Forest, Environment & Climate Change"
-  },
-  {
-    "id": "4ef38f64-fbc3-4ffa-9b6d-e4018320dd3c",
+    "id": "4bb03df3-68dc-4e24-9ae2-08cfc9c84f58",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=d5cbf528f740b502b79241ff873ce6c5",
     "title": "Central Sector Scheme for ‘Mass Media Support to Agriculture Extension’(for testing only, not for official use)",
     "publishDate": "05/09/2019",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D001DO00605092019032222544",
     "departmentName": "Department of Agriculture, Animal Husbandry & Co-operative"
   },
   {
-    "id": "f2878713-5509-4834-bb03-77e36c6d60a6",
+    "id": "b7f78cfe-cad5-418c-8c6c-a2c0e653a9b3",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=d5cbf528f740b502b79241ff873ce6c5",
     "title": "Central Sector Scheme for MRIN(for testing only, not for official use)",
     "publishDate": "05/09/2019",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D001DO00605092019032320723",
     "departmentName": "Department of Agriculture, Animal Husbandry & Co-operative"
   },
   {
-    "id": "cb4ae9f3-601b-4d5b-9772-8cb5a4037636",
+    "id": "ac057f7f-31c4-433e-93a5-030f1b279d60",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=d5cbf528f740b502b79241ff873ce6c5",
     "title": "INTEGRATED SCHEME FOR AGRICULTURAL MARKETING (only for testing, not for official use)",
     "publishDate": "05/09/2019",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D001DO00605092019032404330",
     "departmentName": "Department of Agriculture, Animal Husbandry & Co-operative"
   },
   {
-    "id": "c16ea278-9b25-4e91-b13a-fc8f1f8a1d44",
+    "id": "4e1b41e7-9536-4162-a75e-9d94290f523a",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=d5cbf528f740b502b79241ff873ce6c5",
     "title": "Progress Report Of AMIGS Scheme (only for testing, not for official use)",
     "publishDate": "05/09/2019",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D001DO00605092019032440255",
     "departmentName": "Department of Agriculture, Animal Husbandry & Co-operative"
   },
   {
-    "id": "8c4f57ec-fde5-4b7e-af94-04134694e304",
-    "title": "Central Sector Scheme for ‘Mass Media Support to Agriculture Extension’(for testing only, not for official use)",
-    "publishDate": "05/09/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D001DO00605092019032222544",
-    "departmentName": "Select"
-  },
-  {
-    "id": "34aa510e-9b31-40d7-b1bf-07e1cd003af2",
-    "title": "Central Sector Scheme for MRIN(for testing only, not for official use)",
-    "publishDate": "05/09/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D001DO00605092019032320723",
-    "departmentName": "Select"
-  },
-  {
-    "id": "6cbef269-62c7-4a33-84a4-8de490c254e2",
-    "title": "INTEGRATED SCHEME FOR AGRICULTURAL MARKETING (only for testing, not for official use)",
-    "publishDate": "05/09/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D001DO00605092019032404330",
-    "departmentName": "Select"
-  },
-  {
-    "id": "6a2299e1-9963-4623-abec-93931b1677ef",
-    "title": "Progress Report Of AMIGS Scheme (only for testing, not for official use)",
-    "publishDate": "05/09/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D001DO00605092019032440255",
-    "departmentName": "Select"
-  },
-  {
-    "id": "f3854c80-0694-435e-b676-e136090c1c26",
-    "title": "Pradhan Mantri Awas Yojana Urban",
-    "publishDate": "08/08/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D028DO00608082019020731823",
-    "departmentName": "Department of Urban Development & Housing"
-  },
-  {
-    "id": "6241a39d-396d-4a51-a32d-61ebd0c0dd23",
-    "title": "Approval of state scheme for financial year 2023-24",
-    "publishDate": "17/05/2023",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D019DO00617052023035308689",
-    "departmentName": "Department of Mines & Geology"
-  },
-  {
-    "id": "e442e040-0124-49d8-8a68-c86540380e3c",
-    "title": "12th Five Year Plan Geology",
-    "publishDate": "15/05/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D019DO00615052019040132367",
-    "departmentName": "Department of Mines & Geology"
-  },
-  {
-    "id": "1e92a0df-7154-4c48-90e8-6de6b1edaaad",
-    "title": "Training Geologist",
-    "publishDate": "15/05/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D019DO00615052019040312055",
-    "departmentName": "Department of Mines & Geology"
-  },
-  {
-    "id": "95641e8f-9bca-4a1a-b3fc-e875311b39ee",
-    "title": "Extended Field Programme 2017-18",
-    "publishDate": "15/05/2019",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D019DO00615052019040403253",
-    "departmentName": "Department of Mines & Geology"
-  },
-  {
-    "id": "58e080cb-a1c6-4446-b4a4-cd7fa7f12bdc",
+    "id": "bc87d1c5-1c9f-457b-89a4-5da1052d6c9e",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=420c0ede70cff1d160c862004a7bfee0",
     "title": "Employment Oriented Vocational Training for the Youth of Jharkhand by CIDC, New Delhi",
     "publishDate": "05/03/2019",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D014DO00605032019031902978",
     "departmentName": "Department of Industries"
   },
   {
-    "id": "13f4e285-2cb0-42d5-91b9-e5e2db1ae46d",
+    "id": "4514dc87-5442-4698-9d3f-acf554bcbcfa",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=420c0ede70cff1d160c862004a7bfee0",
     "title": "Memorandum of Understanding between Department of Industries and CIDC for Skill Development of Human Resources and Placement of Youth in the Construction Sector",
     "publishDate": "05/03/2019",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D014DO00605032019032118101",
     "departmentName": "Department of Industries"
   },
   {
-    "id": "c9ef62cd-5efd-4e59-b578-9dee8c6f1a32",
-    "title": "PROGRESS REPORT OF ROAD CIRCLE CHAIBASA SEPTEMBER 2024",
-    "publishDate": "21/10/2024",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00621102024030949709",
-    "departmentName": "Department of Road Construction"
+    "id": "a440cc73-eee5-444f-b2b1-20fe74100dd8",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=1bc964f6f1e70dcba774fd80fe1118e0",
+    "title": "Allotment",
+    "publishDate": "16/01/2020",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D012DO00616012020042741258",
+    "departmentName": "Department of Home, Jail & Disaster Management"
   },
   {
-    "id": "166321d7-ee7c-4515-bf9a-1cea65fdcbb5",
-    "title": "PROGRESS REPORT OF ROAD CIRCLE DALTONGANJ SEPTEMBER 2024",
-    "publishDate": "21/10/2024",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00621102024030851657",
-    "departmentName": "Department of Road Construction"
+    "id": "684c4892-47db-452d-8841-8cdfda679968",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=22d164d469bfc0bc0f2aefe67dd2806e",
+    "title": "SVEEP MESSAGE",
+    "publishDate": "21/02/2022",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D004DO00621022022042225390",
+    "departmentName": "Department of Cabinet Election"
   },
   {
-    "id": "225a6fa3-1c9f-4d77-829b-32ab1c286f10",
-    "title": "PROGRESS REPORT OF ROAD CIRCLE DUMKA SEPTEMBER 2024",
-    "publishDate": "21/10/2024",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00621102024030802809",
-    "departmentName": "Department of Road Construction"
+    "id": "fb59efd0-c45a-4060-b631-4bca4d9696ae",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=0f9d76428568fcad70cb130b20f4638e",
+    "title": "2",
+    "publishDate": "12/07/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D010DO00612072019031721727",
+    "departmentName": "Department of Forest, Environment & Climate Change"
   },
   {
-    "id": "b12fed9a-1501-4b98-a8b4-573947de3d7f",
-    "title": "PROGRESS REPORT OF ROAD CIRCLE HAZARIBAGH SEPTEMBER 2024",
-    "publishDate": "21/10/2024",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00621102024030700225",
-    "departmentName": "Department of Road Construction"
+    "id": "83041099-95d6-416e-bea8-83d0516f3af1",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=0f9d76428568fcad70cb130b20f4638e",
+    "title": "3",
+    "publishDate": "12/07/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D010DO00612072019032620280",
+    "departmentName": "Department of Forest, Environment & Climate Change"
   },
   {
-    "id": "855d9c36-5cd1-4b61-94d9-b86293d37567",
-    "title": "PROGRESS REPORT OF ROAD CIRCLE RANCHI SEPTEMBER 2024",
-    "publishDate": "21/10/2024",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00621102024030609861",
-    "departmentName": "Department of Road Construction"
+    "id": "6377a804-1199-4580-904a-9170e83eb81c",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=0f9d76428568fcad70cb130b20f4638e",
+    "title": "Action Plan on Climate Change",
+    "publishDate": "12/07/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D010DO00612072019032958119",
+    "departmentName": "Department of Forest, Environment & Climate Change"
   },
   {
-    "id": "cb4752d9-c7c4-4fce-8c6c-4076095db315",
-    "title": "PROGRESS REPORT OF ROAD CIRCLE CHAIBASA AUGUST 2024",
-    "publishDate": "19/09/2024",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00619092024123432856",
-    "departmentName": "Department of Road Construction"
+    "id": "2095988b-9962-44b2-82f3-651bc0617a3c",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=0f9d76428568fcad70cb130b20f4638e",
+    "title": "Greening India Scheme",
+    "publishDate": "12/07/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D010DO00612072019033250104",
+    "departmentName": "Department of Forest, Environment & Climate Change"
   },
   {
-    "id": "723e6736-9d4f-439b-a2b5-d2589573c298",
-    "title": "PROGRESS REPORT OF ROAD CIRCLE DALTONGANJ AUGUST 2024",
-    "publishDate": "19/09/2024",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00619092024123343214",
-    "departmentName": "Department of Road Construction"
+    "id": "fea7586a-2c31-46d7-b0a5-70408294a02c",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=0f9d76428568fcad70cb130b20f4638e",
+    "title": "National Afforestation Programme",
+    "publishDate": "12/07/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D010DO00612072019033356277",
+    "departmentName": "Department of Forest, Environment & Climate Change"
   },
   {
-    "id": "5e65455d-8536-498e-87d6-1957f1d831f6",
-    "title": "PROGRESS REPORT OF ROAD CIRCLE DUMKA AUGUST 2024",
-    "publishDate": "19/09/2024",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00619092024123259651",
-    "departmentName": "Department of Road Construction"
+    "id": "98d3a469-e385-4cee-b3ae-c64c71904351",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=5e78d6d7d6b97e07863f2b2ac6c72c49",
+    "title": "Approval of state scheme for financial year 2023-24",
+    "publishDate": "17/05/2023",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D019DO00617052023035308689",
+    "departmentName": "Department of Mines & Geology"
   },
   {
-    "id": "fb72926c-2eaa-44dc-9219-2906c77199b6",
-    "title": "PROGRESS REPORT OF ROAD CIRCLE HAZARIBAGH AUGUST 2024",
-    "publishDate": "19/09/2024",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00619092024123217527",
-    "departmentName": "Department of Road Construction"
+    "id": "9e402113-076d-4413-ba32-59f53b077246",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=5e78d6d7d6b97e07863f2b2ac6c72c49",
+    "title": "12th Five Year Plan Geology",
+    "publishDate": "15/05/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D019DO00615052019040132367",
+    "departmentName": "Department of Mines & Geology"
   },
   {
-    "id": "90cdfe0b-98fe-45e7-bee4-c1c9f549448b",
-    "title": "PROGRESS REPORT OF ROAD CIRCLE RANCHI AUGUST 2024",
-    "publishDate": "19/09/2024",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00619092024123127636",
-    "departmentName": "Department of Road Construction"
+    "id": "1cec64e2-a5d1-4940-8535-a179e09fec78",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=5e78d6d7d6b97e07863f2b2ac6c72c49",
+    "title": "Training Geologist",
+    "publishDate": "15/05/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D019DO00615052019040312055",
+    "departmentName": "Department of Mines & Geology"
   },
   {
-    "id": "60c52837-3390-4d6b-880a-8ec7618f7440",
+    "id": "7ee31af8-3ee3-4a39-b1c6-93f4bea7b9ca",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=5e78d6d7d6b97e07863f2b2ac6c72c49",
+    "title": "Extended Field Programme 2017-18",
+    "publishDate": "15/05/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D019DO00615052019040403253",
+    "departmentName": "Department of Mines & Geology"
+  },
+  {
+    "id": "6f5d9b0f-2d3f-41d4-92c5-3d6b612efad5",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=9b4444362f0552972f13bf5536751e75",
     "title": "Timeline for Year 2023 for Marang Gomke Jaipal Singh Munda Overseas Scholarship",
     "publishDate": "15/03/2023",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D030DO00615032023103211264",
     "departmentName": "Department of Scheduled Tribe, Scheduled Caste, Minority and Backward Class Welfare"
   },
   {
-    "id": "6d772f5f-d005-4295-9443-dca9efa3bf4d",
+    "id": "0ecd8461-cf54-4810-82d0-4fcd02a17bfb",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=9b4444362f0552972f13bf5536751e75",
     "title": "Scheme of Coaching & Allied for SC Guidelines",
     "publishDate": "17/01/2019",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D030DO00616012019010943594",
     "departmentName": "Department of Scheduled Tribe, Scheduled Caste, Minority and Backward Class Welfare"
   },
   {
-    "id": "c0fd3d1e-88fd-46db-8a04-3e0b751088c5",
+    "id": "e49c8f5b-f280-4474-a857-8156b75d7f8b",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=9b4444362f0552972f13bf5536751e75",
     "title": "Scheme of Coaching & Allied for ST Guidelines",
     "publishDate": "17/01/2019",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D030DO00616012019011213271",
     "departmentName": "Department of Scheduled Tribe, Scheduled Caste, Minority and Backward Class Welfare"
   },
   {
-    "id": "79568583-460a-452c-b89d-ef62240cbfaa",
+    "id": "fd25886a-912f-4c12-9342-1ff3947c4ae4",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=299be138d615ca9d4dd0d382a642e96c",
+    "title": "Pradhan Mantri Awas Yojana Urban",
+    "publishDate": "08/08/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D028DO00608082019020731823",
+    "departmentName": "Department of Urban Development & Housing"
+  },
+  {
+    "id": "d8bcc78f-54cd-4589-a323-292d6d1be7ac",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=ec6d0d0555498e764280158310986e87",
+    "title": "2011-12 to 2018-19 PLAN (GIRIDIH,KHARSAWAN,DUMKA,DHANBAD,SHAIBGANJ & BOKARO)",
+    "publishDate": "12/07/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00611072019051910628",
+    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
+  },
+  {
+    "id": "96348e66-74d3-41af-a18e-6084e063665b",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=ec6d0d0555498e764280158310986e87",
+    "title": "2014-15_HEADWISE PLAN WITH EXPENDITURE",
+    "publishDate": "12/07/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00611072019060211641",
+    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
+  },
+  {
+    "id": "6b07a892-0ce0-49bd-99af-a3a50f85c0ad",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=ec6d0d0555498e764280158310986e87",
+    "title": "2011-12 to 2018-19 PLAN (GUMLA,JAMSHEDPUR,CHAIBASA,KHUNTI, HAZARIBAGH & CHATRA",
+    "publishDate": "12/07/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00611072019054100642",
+    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
+  },
+  {
+    "id": "284061d3-31cc-41ec-a890-451cec13d61a",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=ec6d0d0555498e764280158310986e87",
+    "title": "2015-16_HEADWISE PLAN WITH EXPENDITURE",
+    "publishDate": "12/07/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00612072019122333324",
+    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
+  },
+  {
+    "id": "6d07ac17-80ec-498c-8686-5de5a02953e8",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=ec6d0d0555498e764280158310986e87",
+    "title": "2011-12 to 2018-19 PLAN (JAMTARA, LOHARDAGA,PALAMU,PAKUR,SIMDEGA & LATEHAR)",
+    "publishDate": "12/07/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00611072019054646768",
+    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
+  },
+  {
+    "id": "5434fbd5-8ca1-420a-bfa6-a35cfcc9c574",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=ec6d0d0555498e764280158310986e87",
+    "title": "2016-17_HEADWISE PLAN WITH EXPENDITURE",
+    "publishDate": "12/07/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00612072019122554940",
+    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
+  },
+  {
+    "id": "e28719a8-2763-4d1d-91ac-85c5a938e12a",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=ec6d0d0555498e764280158310986e87",
+    "title": "2011-2012 to 2018-19 PLAN (RAMGARH,GARWAH,DEOGHAR,RANCHI,KODERMA & GODDA)",
+    "publishDate": "12/07/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00611072019060105160",
+    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
+  },
+  {
+    "id": "9c9b8930-5320-45c7-b776-6539b7855faa",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=ec6d0d0555498e764280158310986e87",
+    "title": "2017-18 PLAN_TOURISM DIRECTOR",
+    "publishDate": "12/07/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00612072019123614447",
+    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
+  },
+  {
+    "id": "f81411d0-9df7-4c78-9c45-1c18f6e2985b",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=ec6d0d0555498e764280158310986e87",
+    "title": "2017-18_HEADWISE PLAN WITH EXPENDITURE",
+    "publishDate": "12/07/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00612072019124228783",
+    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
+  },
+  {
+    "id": "ed5f1553-d287-48b6-b6bb-6a241ef79a53",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=ec6d0d0555498e764280158310986e87",
+    "title": "2018-19 PLAN_UPTO NOV 2018",
+    "publishDate": "12/07/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D026DO00612072019125736373",
+    "departmentName": "Department of Tourism, Arts, Culture, Sports & Youth Affairs"
+  },
+  {
+    "id": "4865b350-145e-4a5d-b397-b65927ad5c05",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=",
+    "title": "Central Sector Scheme for ‘Mass Media Support to Agriculture Extension’(for testing only, not for official use)",
+    "publishDate": "05/09/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D001DO00605092019032222544",
+    "departmentName": "Select"
+  },
+  {
+    "id": "47991793-5884-4eca-88f5-11d679669ece",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=",
+    "title": "Central Sector Scheme for MRIN(for testing only, not for official use)",
+    "publishDate": "05/09/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D001DO00605092019032320723",
+    "departmentName": "Select"
+  },
+  {
+    "id": "b27c9d6e-d946-4647-832b-9b705b8dec9d",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=",
+    "title": "INTEGRATED SCHEME FOR AGRICULTURAL MARKETING (only for testing, not for official use)",
+    "publishDate": "05/09/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D001DO00605092019032404330",
+    "departmentName": "Select"
+  },
+  {
+    "id": "26097e60-1baa-4b7c-97c2-9ce5b8d61850",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=",
+    "title": "Progress Report Of AMIGS Scheme (only for testing, not for official use)",
+    "publishDate": "05/09/2019",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D001DO00605092019032440255",
+    "departmentName": "Select"
+  },
+  {
+    "id": "bc544865-255d-45ca-a62d-57226c7a4234",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=01f00daeed1418fb5cf6d8988d8a8fab",
+    "title": "संकल्प",
+    "publishDate": "05/03/2024",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D031DO00605032024051350646",
+    "departmentName": "Department of Women, Child Development & Social Security"
+  },
+  {
+    "id": "9992b94d-8591-411c-93ba-5896ae16a1ab",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=01f00daeed1418fb5cf6d8988d8a8fab",
+    "title": "इंदिरा गाँधी राष्ट्रीय दिव्यांग पेंशन योजना",
+    "publishDate": "28/06/2023",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D031DO00628062023123755029",
+    "departmentName": "Department of Women, Child Development & Social Security"
+  },
+  {
+    "id": "3e1d0c8e-b558-468f-a806-f077c008d34c",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=01f00daeed1418fb5cf6d8988d8a8fab",
+    "title": "राष्ट्रीय सामाजिक सहायता कार्यक्रम अन्तर्गत केन्द्र प्रायोजित पेंशन योजनाओं हेतु परिक्रामी निधि के गठन एवं राज्य योजनान्तर्गत संचालित सामाजिक सुरक्षा पेंशन योजनाओं के मार्ग निर्देश में संशोधन की स्वीकृति।",
+    "publishDate": "28/06/2023",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D031DO00628062023124410458",
+    "departmentName": "Department of Women, Child Development & Social Security"
+  },
+  {
+    "id": "1e461354-c849-4ff5-85ef-3051670079dc",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=01f00daeed1418fb5cf6d8988d8a8fab",
+    "title": "राज्य योजनान्तर्गत स्वस्थ्य हो चुके मानसिक दिव्यांगजनो के पुनर्वास एवं देखभाल हेतु Halfway Home के संचालन की स्वीकृति।",
+    "publishDate": "28/06/2023",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D031DO00628062023011545167",
+    "departmentName": "Department of Women, Child Development & Social Security"
+  },
+  {
+    "id": "c9504410-50de-4c34-9996-83bb557d98c8",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=f2da24cc2c612a0002eb7f07ec02801b",
+    "title": "PROGRESS REPORT OF ROAD CIRCLE CHAIBASA OCTOBER 2024",
+    "publishDate": "02/12/2024",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00602122024053033400",
+    "departmentName": "Department of Road Construction"
+  },
+  {
+    "id": "ec5502ac-4023-4cf7-a678-b6c2884c772b",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=f2da24cc2c612a0002eb7f07ec02801b",
+    "title": "PROGRESS REPORT OF ROAD CIRCLE DALTONGANJ OCTOBER 2024",
+    "publishDate": "02/12/2024",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00602122024052950864",
+    "departmentName": "Department of Road Construction"
+  },
+  {
+    "id": "04b71e05-a73a-4af9-8843-5aa51fbad866",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=f2da24cc2c612a0002eb7f07ec02801b",
+    "title": "PROGRESS REPORT OF ROAD CIRCLE DUMKA OCTOBER 2024",
+    "publishDate": "02/12/2024",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00602122024052858240",
+    "departmentName": "Department of Road Construction"
+  },
+  {
+    "id": "e1ca1cca-473a-4e40-ba04-e9704f807ab3",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=f2da24cc2c612a0002eb7f07ec02801b",
+    "title": "PROGRESS REPORT OF ROAD CIRCLE HAZARIBAGH OCTOBER 2024",
+    "publishDate": "02/12/2024",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00602122024052806010",
+    "departmentName": "Department of Road Construction"
+  },
+  {
+    "id": "a2dd6a01-3c6e-4117-a7b2-bcaeeb4f5c75",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=f2da24cc2c612a0002eb7f07ec02801b",
+    "title": "PROGRESS REPORT OF ROAD CIRCLE RANCHI OCTOBER 2024",
+    "publishDate": "02/12/2024",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00602122024052622274",
+    "departmentName": "Department of Road Construction"
+  },
+  {
+    "id": "37985a58-2e3a-49d1-9076-8531954b43ad",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=f2da24cc2c612a0002eb7f07ec02801b",
+    "title": "PROGRESS REPORT OF ROAD CIRCLE CHAIBASA SEPTEMBER 2024",
+    "publishDate": "21/10/2024",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00621102024030949709",
+    "departmentName": "Department of Road Construction"
+  },
+  {
+    "id": "dc3dfe90-82d1-4a6d-aa21-49260992f4ff",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=f2da24cc2c612a0002eb7f07ec02801b",
+    "title": "PROGRESS REPORT OF ROAD CIRCLE DALTONGANJ SEPTEMBER 2024",
+    "publishDate": "21/10/2024",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00621102024030851657",
+    "departmentName": "Department of Road Construction"
+  },
+  {
+    "id": "d57d931b-1434-48c7-8277-6f6efc668ee5",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=f2da24cc2c612a0002eb7f07ec02801b",
+    "title": "PROGRESS REPORT OF ROAD CIRCLE DUMKA SEPTEMBER 2024",
+    "publishDate": "21/10/2024",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00621102024030802809",
+    "departmentName": "Department of Road Construction"
+  },
+  {
+    "id": "44e70990-020b-4b10-9063-1e2a6b4a5369",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=f2da24cc2c612a0002eb7f07ec02801b",
+    "title": "PROGRESS REPORT OF ROAD CIRCLE HAZARIBAGH SEPTEMBER 2024",
+    "publishDate": "21/10/2024",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00621102024030700225",
+    "departmentName": "Department of Road Construction"
+  },
+  {
+    "id": "b70e5a14-d4f5-40ed-a276-1ee1b034df2d",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=f2da24cc2c612a0002eb7f07ec02801b",
+    "title": "PROGRESS REPORT OF ROAD CIRCLE RANCHI SEPTEMBER 2024",
+    "publishDate": "21/10/2024",
+    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D023DO00621102024030609861",
+    "departmentName": "Department of Road Construction"
+  },
+  {
+    "id": "c2c6ea5a-747f-42e1-91d5-6f974027b1c5",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=b7ea2ca01a87777825bc151ebf8f8e2b",
     "title": "Financial Year 2017- 2018.",
     "publishDate": "27/06/2019",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D027DO00627062019121310857",
     "departmentName": "Department of Transport"
   },
   {
-    "id": "7eadebad-d000-497a-9cdb-46973c47180c",
+    "id": "4b8e0cb2-84ed-4c8b-988e-7de5afaf6902",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=b7ea2ca01a87777825bc151ebf8f8e2b",
     "title": "Financial Year 2018- 2019.",
     "publishDate": "27/06/2019",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D027DO00627062019121333315",
     "departmentName": "Department of Transport"
   },
   {
-    "id": "52c25615-8ac9-499b-aff6-5ab5cee56929",
+    "id": "e5e3dd19-a117-4f0b-b20e-ae404263ac24",
+    "scheme_url": "https://jharkhand.gov.in/Home/SearchSchemes?department=b7ea2ca01a87777825bc151ebf8f8e2b",
     "title": "Schemes of Transport Department, Jharkhand",
     "publishDate": "27/06/2019",
     "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D027DO00627062019121401678",
     "departmentName": "Department of Transport"
-  },
-  {
-    "id": "afcb0763-2423-4bae-8dd0-037f3ba7aed7",
-    "title": "SVEEP MESSAGE",
-    "publishDate": "21/02/2022",
-    "pdfUrl": "https://jharkhand.gov.in/Home/ViewDoc?id=D004DO00621022022042225390",
-    "departmentName": "Department of Cabinet Election"
   }
 ]

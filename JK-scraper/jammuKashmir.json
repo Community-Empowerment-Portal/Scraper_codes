@@ -1,0 +1,331 @@
+[
+  {
+    "title": "National Social Assistance Programme (NSAP)",
+    "schemes": [
+      {
+        "id": "d660b01b-0d4a-48ec-bc56-442b6c34cade",
+        "name": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+        "url": "https://socialwelfarekashmir.jk.gov.in/IGNOAPS.html",
+        "details": {
+          "Description of the Scheme": "The scheme is centrally sponsored and shared by Central and State Govt. on 50:50 basis. Financial Assistance is provided to old aged persons of 60  years age and above, living below poverty line (BPL)",
+          "Procedure": "The application forms are available with DSWO/TSWO free of cost. The applicant has to complete the application form and enclose proof regarding age, income, status and address. Complete case is to be submitted to the concerned Tehsil Social Welfare officer against proper receipt. The concerned Tehsil Social Welfare Officer (TSWO) consolidates the list of eligible applicants under the scheme and forwards it to the concerned District Social Welfare Officer for arrangement of funds and accord of sanction by a designated District level Sanctioning Committee headed by Director General, Social Welfare Department, Kashmir."
+        },
+        "criteria": {
+          "S. No": "1",
+          "Category": "BPL",
+          "Age": "Above 60 years",
+          "No of Sanctioned Beneficiaries": "70839",
+          "Rate of pension per beneficiary per month": "1000"
+        }
+      },
+      {
+        "id": "fb14dd0f-2217-447a-b8cd-c4405264e0d5",
+        "name": "Indira Gandhi National Widow Pension Scheme (IGNWPS)",
+        "url": "https://socialwelfarekashmir.jk.gov.in/IGNWPS.html",
+        "details": {
+          "Description of the Scheme": "The scheme is centrally sponsored and shared by Centre and State Govt. on 50:50 basis.  Under the scheme widows in the age group of 40 to 79 years belonging to BPL category are eligible for monthly pension.",
+          "Procedure": "The application forms are available with DSWO/TSWO free of cost. The applicant has to complete the application form and enclose proof regarding age, income, status and address. Complete case is to be submitted to the concerned Tehsil Social Welfare officer against proper receipt. The concerned Tehsil Social Welfare Officer (TSWO) consolidates the list of eligible applicants under the scheme and forwards it to the concerned District Social Welfare Officer for arrangement of funds and accord of sanction by a designated District level Sanctioning Committee headed by Director General, Social Welfare Department, Kashmir."
+        },
+        "criteria": {
+          "S. No": "1",
+          "Category": "BPL",
+          "Age": "Above 49 years",
+          "No of Sanctioned Beneficiaries": "4943",
+          "Rate of pension per beneficiary per month": "1000"
+        }
+      },
+      {
+        "id": "a0bcbc23-a47f-4032-8291-62672559ae8a",
+        "name": "Indira Gandhi National Disability Pension Scheme (IGNDPS)",
+        "url": "https://socialwelfarekashmir.jk.gov.in/IGNDPS.html",
+        "details": {
+          "Description of the Scheme": "The scheme is centrally sponsored and shared by Central and State Govt. on 50:50 basis.  Under the scheme, persons with Severe or multiple disabilities in the age group of 18 to 79 years belonging to BPL category are eligible for monthly pension.",
+          "Procedure": "The application forms are available with DSWO/TSWO free of cost. The applicant has to complete the application form and enclose proof regarding age, income, status and address. Complete case is to be submitted to the concerned Tehsil Social Welfare officer against proper receipt. The concerned Tehsil Social Welfare Officer (TSWO) consolidates the list of eligible applicants under the scheme and forwards it to the concerned District Social Welfare Officer for arrangement of funds and accord of sanction by a designated District level Sanctioning Committee headed by"
+        },
+        "criteria": {
+          "S. No": "Total",
+          "Category": "",
+          "Age": "",
+          "No of Sanctioned Beneficiaries": "",
+          "Rate of pension per beneficiary per month": ""
+        }
+      },
+      {
+        "id": "4adb8cb2-8c9f-4995-b857-2da7e37ac788",
+        "name": "National Family Benefit Scheme (NFBS)",
+        "url": "https://socialwelfarekashmir.jk.gov.in/NFBS.html",
+        "details": {
+          "Description of the Scheme": "National Family Benefit Scheme (NFBS) provides one-time lump sum cash assistance of Rs. 20,000 to families living below poverty line on the death of the primary bread-earner between the age group of 18-59. The objective of the scheme is to ensure social security of the households living below poverty line. The payment is to be made to the widow or the un-married daughter of the family.",
+          "Procedure": "The application forms are available with DSWO/TSWO free of cost. The applicant has to complete the application form and enclose proof regarding age, income, status, address and death certificate. Complete case is to be submitted to the concerned TSWO who consolidates the lists and forwards to Block Level Sanctioning Committee. The cases are then submitted to DSWO for accord of sanction by District level sanctioning committee headed by"
+        },
+        "criteria": {
+          "S. No": "1",
+          "Category": "BPL",
+          "Age": "18-59 years whose primary bread earner dies due to accident/natural cause",
+          "No. of pending cases": "5684",
+          "cases covered ending 03.2020": "9175",
+          "Net pendency": "5540",
+          "Rate of Assistance": "Rupees 20,000",
+          "Remarks": "One-time benefit from Centre Share only"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Integrated Social Security Schemes (ISSS)",
+    "schemes": [
+      {
+        "id": "9412c0e4-b6c0-4caa-953c-b235af16c0a6",
+        "name": "Old Age Pension (OAP),",
+        "url": "https://socialwelfarekashmir.jk.gov.in/OAP.html",
+        "details": {
+          "Description of the Scheme": "Old aged men and women with no source of income are provided financial support in the form of pension. Applicants shall be 60 years and above in case of males and 55 years or above in case of females and the applicant should have meager source of income."
+        },
+        "criteria": {
+          "S. No": "1",
+          "Component": "OAP",
+          "Age": "60 Years (Men)55 Years (Women)",
+          "No of Sanctioned Beneficiaries": "205272",
+          "Rate of pension per beneficiary per month": "1000"
+        }
+      },
+      {
+        "id": "b67308fb-5d0e-432e-af8e-d1747f043790",
+        "name": "Widows/Women in Distress (WID),",
+        "url": "https://socialwelfarekashmir.jk.gov.in/WID.html",
+        "details": {
+          "Description of the Scheme": "Women in distress, including destitute, separated, divorced or widow are provided financial support in the form of monthly pension. - The applicant should be aged between 40-79 years"
+        },
+        "criteria": {
+          "S. No": "1",
+          "Component": "WID",
+          "Age": "40 - 79 years",
+          "No of Sanctioned Beneficiaries": "106633",
+          "Rate of pension per beneficiary per month": "1000"
+        }
+      },
+      {
+        "id": "444dc034-75b3-4a0e-95bc-c99a359193dd",
+        "name": "Pension for Physically Challenged Persons (PCP), , 4. Pension for, , Transgender Community",
+        "url": "https://socialwelfarekashmir.jk.gov.in/PCP.html",
+        "details": {
+          "Description of the Scheme": "The pension is provided to persons with 40% or more disability and having no source of income. Physically Challenged Person should be in the age of 18-79 years."
+        },
+        "criteria": {
+          "S. No": "1",
+          "Component": "PCP",
+          "Age": "18-79 years with severe or multiple disabilities",
+          "No of Sanctioned Beneficiaries": "93093",
+          "Rate of pension per beneficiary per month": "1000"
+        }
+      }
+    ]
+  },
+  {
+    "title": ") CONTRIBUTARY SCHEME (State Sponsored )",
+    "schemes": [
+      {
+        "id": "bd98761f-f711-41cc-a3b1-376244b67442",
+        "name": "Contributory Social Security Scheme (CSSS)",
+        "url": "https://socialwelfarekashmir.jk.gov.in/CSSS.html",
+        "details": {
+          "Description of the Scheme": "With the aim to provide social security to the marginal workers having meager income the department has formulated this scheme to provide financial support on contributory basis. Marginal workers include Agricultural and Non-Agricultural Labourer, Rural Barber, Craftsman, Blacksmith, Shepherd, Masons, Weavers etc."
+        },
+        "criteria": {}
+      },
+      {
+        "id": "f53ca92d-0e1f-43a0-96b8-85a23a3d3093",
+        "name": "Aam Aadmi Bima Yojana Scheme (AABYS), ,",
+        "url": "https://socialwelfarekashmir.jk.gov.in/AABYS.html",
+        "details": {
+          "Description of the Scheme": "The scheme provides death and disability insurance cover to marginal sections in case the head of the family or one earning member of the household becomes disabled due to an accident or dies due to a natural/accidental cause."
+        },
+        "criteria": {}
+      }
+    ]
+  },
+  {
+    "title": "SCHOLARSHIP SCHEMES",
+    "schemes": [
+      {
+        "id": "e4facaca-23b3-4f44-8827-80ae6973c3aa",
+        "name": "Post-matric Scholarship for Physically Challenged, SC & OBC Students,",
+        "url": "https://socialwelfarekashmir.jk.gov.in/POMPCOBC.html",
+        "details": {
+          "Eligibility": "For OBC and physically challenged students:- The income limit of parents/guardians should not exceed Rs. 1.00 lacs/year.In case of Physically Challenged, the disability should be 40% and above and should be studying in recognized institutions for professional/academic courses.- The student should not be receiving simultaneously any other scholarship from any other Institution for any other course under any other category.For Scheduled Caste/Pahari students:- The scholarship is available for students at post Matric or Post Graduation level.- Income limit of parents/guardians is Rs. 2.00 Lacs per year.- The students must be from SC/Pahari speaking category, and studying in recognized institutions for undergoing various professional/academic courses.- The student is not in receipt of any other scholarship under any other institution/course/category."
+        },
+        "criteria": {}
+      }
+    ]
+  },
+  {
+    "title": "DISTRICT LEVEL SCHOLARSHIP SCHEMES",
+    "schemes": [
+      {
+        "id": "397381fa-8c42-4db1-852b-fe515a7a29d0",
+        "name": "Pre-matric Scholarship for Physically Challenged and Other Backward Classes Students (OBC)",
+        "url": "https://socialwelfarekashmir.jk.gov.in/PRMPCOBC.html",
+        "details": {
+          "Description of the Scheme": "Pre-matric scholarship is provided to OBC and physically challenged students from class I to X.School attendance required for all classes is 80% and above,Minimum marks obtained should be 50% and above for class VI-VIII and 55% and above for class IX-X in previous exam qualified.For all classes the income of parents/guardians should not exceed Rs. 2100/- per month"
+        },
+        "criteria": {}
+      },
+      {
+        "id": "a2cf1932-dff5-462e-aeed-2cff520991e4",
+        "name": "Stipend to ITI Trainees from OBC Background",
+        "url": "https://socialwelfarekashmir.jk.gov.in/SITIOBC.html",
+        "details": {
+          "Description of the Scheme": "Students who are studying in Industrial Training Institute and whose parental income is low, receive a monthly stipend to support them in their academic course. Students who belong to OBC category and are pursuing various technical courses in the district in Industrial Training Institutes are eligible for the stipend under the scheme. The monthly income of the parents/guardians of the students shall not exceed Rs. 2100/- per month"
+        },
+        "criteria": {}
+      },
+      {
+        "id": "e4d7bca7-528c-4c5a-8293-50fdd9648796",
+        "name": "Pre-matric Scholarship for Children of those Engaged in Unclean Occupation",
+        "url": "https://socialwelfarekashmir.jk.gov.in/PRCEUO.html",
+        "details": {},
+        "criteria": {}
+      }
+    ]
+  },
+  {
+    "title": "SCHEMES IMPLEMENTED BY MINISTRY OF",
+    "schemes": [
+      {
+        "id": "44cff39d-d4a6-4a96-91fe-8b4af9c6cd0d",
+        "name": "Pre-matric Scholarship to Students belonging to National Minorities",
+        "url": "https://socialwelfarekashmir.jk.gov.in/PRSNM.html",
+        "details": {},
+        "criteria": {}
+      },
+      {
+        "id": "9b2758e9-116a-40b1-92b8-0f6651de7b61",
+        "name": "Post-matric Scholarship to students belonging to National Minorities",
+        "url": "https://socialwelfarekashmir.jk.gov.in/POSNM.html",
+        "details": {},
+        "criteria": {}
+      },
+      {
+        "id": "4494b4b7-fbdf-4abd-8481-713cf6c3eaf2",
+        "name": "Merit-cum-Means based scholarship to students belonging to National Minorities",
+        "url": "https://socialwelfarekashmir.jk.gov.in/MCM.html",
+        "details": {
+          "Eligibility": "- The student belongs to a Minority Community- The income limit of parents/guardians of Rs. 2.5 Lakhs per year. It is awarded only for specified professional and technical courses.- Students studying in institutes listed in the scheme (70 institutions) will be entitled for reimbursement of full course fee. Students studying in other recognized institutions will be entitled for reimbursement of a maximum course fee of Rs. 20,000/- per annum.- The scholarship is available for students studying in India only, provided they have secured minimum of 50% marks in their last qualifying exam (fresh cases) of minimum of 50% in their previous exam (renewal).- Renewal cases are given priorityThe students will have to register themselves online on www.scholarships.gov.inAfter registering online, the student is supposed to submit hard copy of the form along with income proof, marks obtained in last examination passed, proof of residence to the institutionFor more information and application forms see the website of the Ministry of Minority Affairs: http://minorityaffairs.gov.in"
+        },
+        "criteria": {}
+      },
+      {
+        "id": "b34fb0f1-ef9f-448c-83b2-87881e2d7c90",
+        "name": "Dr. Ambedkar post-matric scholarship for Economically Backward Classes, (EBC) students",
+        "url": "https://socialwelfarekashmir.jk.gov.in/ebc.html",
+        "details": {
+          "Eligibility": "Previous Class passed"
+        },
+        "criteria": {}
+      },
+      {
+        "id": "c927f1a6-e550-487b-9fb1-eb15b0e17256",
+        "name": "",
+        "url": "file:///C:/Users/Desktop/website%20details/POSNM.html",
+        "details": {
+          "error": "Failed to load details"
+        },
+        "criteria": {
+          "error": "Failed to load criteria"
+        }
+      },
+      {
+        "id": "b5458f9f-25ed-4753-8b39-502a5cbd6364",
+        "name": "Dr. Ambedkar post-matric scholarship for Denotified Nomadic & Semi-, nomadic tribes(DNT) students",
+        "url": "https://socialwelfarekashmir.jk.gov.in/DNTs.html",
+        "details": {
+          "Eligibility": "Previous Class passed"
+        },
+        "criteria": {}
+      },
+      {
+        "id": "177d2936-fb85-484b-b6e0-5e09a2520ce3",
+        "name": "Central sector schemes of pre and post-matric scholarship for students with, disabilities",
+        "url": "https://socialwelfarekashmir.jk.gov.in/CSPMSD.html",
+        "details": {
+          "Eligibility": "Previous Class passed"
+        },
+        "criteria": {}
+      }
+    ]
+  },
+  {
+    "title": "MISCELLANEOUS WELFARE SCHEMES",
+    "schemes": [
+      {
+        "id": "13cf98b2-74f4-4673-bd4e-eb129c92bf16",
+        "name": "Financial assistance to Gadhanjis (Fishermen)",
+        "url": "https://socialwelfarekashmir.jk.gov.in/FAGH.html",
+        "details": {
+          "Eligibility": "The assistance shall be admissible if the following conditions are fulfilled:1. The applicant is a permanent resident of the State;2. The applicant is a Gad-Hanjis and possesses license from the Fisheries Department for the last 3 years consecutively;3. The income of the applicant does not exceed Rs. 3,600 per annum;4. The applicant has not received assistance under this scheme during the last 2 years.Sanctioning authority is the District Level Committee headed by the District Development Commissioner with the District Social Welfare Officer as Member Secretary. The Committee shall consider the cases and issue appropriate order within one month. On the basis of approval of the Committee, the DSWO shall issue sanction to the grant of financial assistance."
+        },
+        "criteria": {}
+      },
+      {
+        "id": "e870aecc-016a-4e7b-9524-c01084c18b97",
+        "name": "Grant of Prosthetic Aid for fitting-up/repairing of Artificial Limbs",
+        "url": "https://socialwelfarekashmir.jk.gov.in/PAAL.html",
+        "details": {
+          "Eligibility": "Disabled persons in need of prosthetic aid whose family income is less than Rs. 400/- per month.On receipt of application duly completed by the applicant with regard to the disability and type of prosthetic aid required .DSWO shall consolidate the list and forward to the District Level Sanctioning Committee, comprising of Chief Medical officer as member, DSWO as member Secretary and Deputy Commissioner as Chairman. The Committee authorizes the District Social Welfare Officer to purchase these aids/fitments from the approved agencies for onward disbursement among the sanctioned beneficiaries."
+        },
+        "criteria": {}
+      },
+      {
+        "id": "19e2f798-d5a3-4b95-b88f-50702f09f64b",
+        "name": "Grant in Aid to NGO's",
+        "url": "https://socialwelfarekashmir.jk.gov.in/NGO.html",
+        "details": {
+          "Description of the Scheme": "The Department is providing grant-in-aid to registered voluntary organizations for various welfare schemes like income generations, running of homes for destitute/ orphans etc.",
+          "Eligibility": "The organization should have registered under the Registrar of Societies Act, 1961.",
+          "Procedure": "Applications for grant-in-aid shall be submitted by the NGO/Institutions on the prescribed format (form-“A”) supported by the requisite document in the 1st quarter of each financial year but not latter than 30th June. The concerned Distt. Social Welfare Officers after have complete all the requisite formalities shall submit the grant-in-aid cases to the Director by or before the end of September. The Director Social Welfare shall submit the same to the Administrative Department by the end of November."
+        },
+        "criteria": {
+          "Description of the Scheme": "Eligibility",
+          "The Department is providing grant-in-aid to registered voluntary organizations for various welfare schemes like income generations, running of homes for destitute/ orphans etc.": "The organization should have registered under the Registrar of Societies Act, 1961.The voluntary organization should have been registered for at least 3 years at the time of applying for grant under the scheme.It is non-sectarian, engaged in welfare services irrespective of caste, colour or creed.It has tangible assets, trained personal and adequate equipment."
+        }
+      },
+      {
+        "id": "0ce5ac34-824c-4d4d-9338-39ae4db5f789",
+        "name": "State Marriage Assistance Scheme",
+        "url": "https://socialwelfarekashmir.jk.gov.in/State%20Marriage%20Assistance%20Scheme.html",
+        "details": {
+          "Description of the Scheme": "“State Marriage Assistance Scheme”"
+        },
+        "criteria": {
+          "Description of the Scheme": "Norms for availing benefits under the scheme",
+          "“State Marriage Assistance Scheme” (SMAS)for poor girls is a newly launched social assistance scheme meant for those educated unmarried (marriageable) girls of the state who may not find themselves in a position to marry due to financial constraints. In pursuance of the directions of the Hon’ble High Court, a preliminary survey of girls living below the poverty line was got conducted by the Deputy Commissioners through District Social Welfare Officers across the State.": "The beneficiary girl:·   Should be an identified poor girl in the survey lists already available with the              concerned DDCs/District Social Welfare Officers.·    Should be above 18 years of age.·    Should not have availed the benefits for the same purpose under any other State/Centrally Sponsored Scheme.·    Can avail benefit only once under the scheme.          After determining the eligibility, as per the laid down guidelines, the Committee may sanction the financial assistance to the beneficiary, subject to the availability of funds. The amount of assistance “shall be credited to the saving bank accounts of the beneficiary."
+        }
+      },
+      {
+        "id": "08662fb2-daed-4c47-8279-553e442e1424",
+        "name": "AASRA",
+        "url": "https://socialwelfarekashmir.jk.gov.in/AASRA.html",
+        "details": {
+          "Description of the Scheme": "“Aasra”",
+          "Eligibility": ""
+        },
+        "criteria": {
+          "Description of the Scheme": "Eligibility",
+          "“Aasra” is a newly launched comprehensive scheme of financial Inclusion covering the following groups deprived of basic financial service scheme:1. All bread winners of families whose total annual income is less then Rs.75000/-2. All widows and destitute residing in the State.                  The scheme aims to provide social and financial security to eligible beneficiaries and entails to provide a zero balance Saving Bank Account to avail the insurance cover benefit and the state Government will pay or reimburse the premium for a period of five years for the following two insurance schemes:i.         i.     Pradhan Mantri Suraksha Bima Youjanaii.     Pradhan Mantri Jeevan Jyoti Bima Yojana": "·             Application on the prescribed format·        All bread winners of families whose total annual income is less then Rs.75000/-·        All widows and destitute residing in the State.The life/accident cover will be paid only to the prescribed nominee in case of death of the beneficiary"
+        }
+      },
+      {
+        "id": "cd374da3-413e-4500-ab2d-1cf846a57d6a",
+        "name": "HUNAR",
+        "url": "https://socialwelfarekashmir.jk.gov.in/HUNAR.html",
+        "details": {
+          "Description of the Scheme": "“Hunnar”"
+        },
+        "criteria": {
+          "Description of the Scheme": "Norms for availing benefits under the scheme",
+          "“Hunnar” is a module of skill Development meant for those identified poor girls of the State living below the poverty line, who may not find themselves in a position to earn dignified livelihood.This is not a new scheme but an effort to bring all such schemes launched by different Govt. Departments under one umbrella which have training and skill development component.": "·       Should be an identified poor girl in the survey lists already available with the concerned    DDCs  /        District   Social Welfare Offices.·        Should be above 18 years of age.·        Should not be school going girl.·        Should meet eligibility criteria of the respective scheme.          The scheme has to be an organic, with the following constituents:·       Skill Development.·       Micro-Enterprises.·       Co-operative societies for the production.·       Manufacturing of goods.·       Marketing of products.Implementing Agencies·       Directorate of Animal Husbandry·       Directorate of Handicrafts·       J&K State Women’s Development Corporation·       Rural Development Department·       Directorate of Handloom·       J&K Entrepreneurship Development Institute·       Cooperative DepartmentThe Social Welfare Department, J&K shall be the nodal department for implementation and monitoring of the scheme. The District Social Welfare Officers, with in  their respective jurisdictions shall distribute “Intend Forms” and also shall consolidate the list in order of preference of the trade and forward the same to the Social Welfare Board, who in turn will forward the list to the concerned Training Imparting agencies/department."
+        }
+      }
+    ]
+  }
+]
