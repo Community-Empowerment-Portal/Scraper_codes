@@ -74,8 +74,8 @@ async function main() {
     results.forEach((schemes) => allSchemes.push(...schemes));
 
     // Write the final data to a file
-    await fs.writeFile('arunachal_scholarship.json_1', JSON.stringify(allSchemes, null, 2));
-    console.log('Scraping done, data saved to arunachal_scholarship.json');
+    await fs.writeFile('arunachal_scholarship_1.json', JSON.stringify(allSchemes, null, 2));
+    console.log('Scraping done, data saved to arunachal_scholarship_1.json');
 }
 
 main().catch((error) => console.error('Error in main:', error.message));

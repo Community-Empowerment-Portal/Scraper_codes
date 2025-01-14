@@ -1,611 +1,666 @@
 [
   {
-    "id": "4cd1831e-632d-495b-a730-6709bd42e7f7",
+    "id": "4b7de115-a5fa-42c5-b6d7-6c5f3d341928",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/mukhyamantri-alpsankhyak-chhatravas-anudaan-yojna/",
     "title": "Mukhyamantri Alpsankhyak Chhatravas Anudaan Yojna",
     "description": "Under this scheme, students studying/residing in minority hostels are given the benefit of hostel grant at the rate of INR 1,000 per month per student."
   },
   {
-    "id": "371e615d-738f-49fb-9324-bb4a59f081b8",
+    "id": "afb1a207-f040-4221-a3ca-9f2562834aed",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/bihar-mukhyamantri-kanya-utthan-yojana-graduates/",
     "title": "Bihar Mukhyamantri Kanya Utthan Yojana Graduates",
     "description": "Students who complete their graduation are provided an incentive of INR 50,000"
   },
   {
-    "id": "8912e74b-b42b-4432-8b8e-b7850d945809",
+    "id": "3f9ec70a-023c-4457-8449-f0a08df08882",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/bihar-mukhyamantri-kanya-utthan-yojana-intermediate/",
     "title": "Bihar Mukhyamantri Kanya Utthan Yojana Intermediate",
     "description": "Students of Class 12 who clear their exams are provided an incentive of INR 25,000"
   },
   {
-    "id": "6b5d7dcc-84da-4e33-b1f4-c0796e01c433",
+    "id": "6112300c-6c00-4181-a1ce-7d6357e82a8b",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship-for-stscbc-and-ebc/",
     "title": "Post-Matric Scholarship for ST,SC,BC and EBC",
     "description": "The scholarship aims to help meritorious students of families whose annual income is not more than INR 3 lakh. Students can avail INR 1 lakh to INR 4 lakh as financial aid in a year."
   },
   {
-    "id": "a65d1d4c-2b7f-422e-ba78-94fb2199fe1c",
+    "id": "131d58bd-b580-445f-af1f-c2824946cde2",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/national-talent-search-exam/",
     "title": "National Talent Search Exam",
     "description": "There are two stages in this exam. The first stage of the exam is conducted by the states. NTSE scholars are provided with the scholarship of INR 1,250 per month for Class 11 and 12 and INR 2,000 per month for graduation and higher studies by the Centre"
   },
   {
-    "id": "8f9d16c6-d804-4f64-ac9b-482a95bf3614",
+    "id": "a0c64c40-0069-4b5c-83e9-f4092e3a05ce",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/bihar-national-means-cum-merit-scholarship/",
     "title": "Bihar National Means cum Merit Scholarship",
     "description": "Under this scheme, students who have cleared their Class 8 and belong to state government/ Centre/ recognized minority schools /madrasahs can participate are given a financial aid of Rs 12,000 from Class 9 to 12. Students must appear for the Bihar NMMS entrance exam to qualify for the scheme."
   },
   {
-    "id": "8c660bce-9e5f-4951-83fb-340fd13390cb",
+    "id": "302e1c28-5366-419e-8270-4afed3dc8ca5",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/bihar-mukhyamantri-sc-st-civil-seva-protsahan-yojana/",
     "title": "Bihar Mukhyamantri SC/ST Civil Seva Protsahan Yojana",
     "description": "Under the scheme, the Bihar government provides a one-time incentive of INR 50,000 to girl students of the state belonging to the SC and ST categories and who have passed the BPSC and UPSC prelims"
   },
-  null,
   {
-    "id": "0d8c86f9-1da3-4384-b337-0fd687397ed1",
+    "id": "6078e0d8-57b7-4ff9-a062-684be2a44d82",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/bihar-mukhyamantri-ebc-bc-civil-seva-protsahan-yojana/",
+    "title": "Bihar Mukhyamantri EBC/BC Civil Seva Protsahan Yojana",
+    "description": "Under the scheme, the Bihar government provides a one-time incentive of INR 50,000 to girl students of the state belonging to the EBC and OBC categories and who have passed the BPSC and UPSC prelims"
+  },
+  {
+    "id": "5d13c886-d8f8-45da-ba26-9c02b52050c8",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/technip-energies-india-scholarship-program-2022-23/",
     "title": "Technip Energies India Scholarship Program 2022-23",
     "description": "Under this, female students from several states, including Bihar, who are in the first year of their B.E./B.Tech. (Chemical, Electrical, Civil, and Mechanical Engineering) courses are provided with a one-time scholarship grant of INR 30,000 to cover their academic expenses."
   },
   {
-    "id": "6a7ffa40-6a65-4ec7-8858-fbb7980c0eec",
+    "id": "5664a384-92f5-4194-bdfe-ec1bcc6f089a",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/vidyadhan-scholarship-program-from-sarojini-damodaran-foundation/",
     "title": "Vidyadhan Scholarship Program from Sarojini Damodaran Foundation",
     "description": "Students whose family annual income is less than INR 2 lakhs and who have completed their Class 10 exam. They should have scored 75% or obtained 7.5 CGPA in their 10th Grade/SSC examination. They can get a financial aid of INR 10,000 per year."
   },
   {
-    "id": "16ffcaa7-6e36-4f0a-87b1-1aee6df5cad4",
+    "id": "b6e5bf87-ba47-41d5-bad4-a639b0893ed3",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/bihar-credit-card-yojana/",
     "title": "Bihar Credit Card Yojana",
     "description": "Under this scheme, the state government of Bihar provides education loan up to Rs 4 lakh to the students."
   },
   {
-    "id": "52ea1ea6-005b-4678-a5c6-50e53d20ba45",
+    "id": "6c6ba770-42ec-4cfe-a094-4ab9996f87e6",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pre-matric-scholarship-for-sc-students-punjab/",
     "title": "Pre-Matric Scholarship for SC Students, Punjab",
     "description": "Pre Matric Scholarship for SC Students and Others, Punjab 2022-23 is an initiative of the Department of School Education, Government of Punjab to provide financial assistance to SC and other students studying in Class 9 & 10. The selected students will receive a fixed allowance."
   },
   {
-    "id": "715b2ca6-90ad-4216-8723-75376e0f1395",
+    "id": "76bcd430-af22-4b99-a2da-146ccbb615b5",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarships-for-sc-students/",
     "title": "Post Matric Scholarships for SC Students",
     "description": "Post Matric Scholarships for SC Students, Punjab is an opportunity offered by the Department of Social Justice, Empowerment & Minorities, Government of Punjab for SC students of Class 11 and above. This scholarship aims to provide financial assistance to Scheduled Caste students studying at the post-matriculation or post-secondary stage so that they can complete their education. The selected students will receive up to INR 1,200 per month and several other benefits"
   },
   {
-    "id": "1d5a04e4-45fa-4a5d-8c0f-d9ff0303bed4",
+    "id": "dd15e702-2a93-49fd-9d68-95a1adc160ce",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/combined-counselling-board-ccb-scholarship/",
     "title": "Combined Counselling Board (CCB) Scholarship",
     "description": "An initiative by The Combined Counselling Board (CCB), the Combined Counselling Board (CCB) Scholarship will be providing INR 1,00,000 to INR 4,00,000 discount to the candidates opting for different types of postgraduate or undergraduate courses.This is a merit-based scholarship and only the candidates who have scored excellent marks will be eligible for this scholarship scheme."
   },
   {
-    "id": "2680bca2-d372-4c32-8915-2e33d6d70b46",
+    "id": "6bd37a95-ac55-46d8-b188-29d9c62c270f",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/scheme-of-overseas-scholarships-for-sc-st-students-karnataka/",
     "title": "Scheme of Overseas Scholarships for SC/ST Students, Karnataka",
     "description": "The students of the SC/ST community can shine their dream with Karnataka Prabuddha Scheme. Under this scheme, the Govt of Karnataka is providing the chance to pursue their higher education abroad. There is a reservation of 33% for women (SC/ST) candidates and 4% for differently-abled persons in the community"
   },
-  null,
   {
-    "id": "36fdd564-bb1f-4b77-b50f-6ac9bcb36893",
+    "id": "9c60590a-3d12-4ce6-a302-162065336943",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/national-overseas-scholarship-for-minority-community-students/",
+    "title": "National Overseas Scholarship for Minority Community Students",
+    "description": "The State Government through the Directorate of Minorities have introduced a scheme for providing financial assistance to Minority students of Karnataka State for pursuing higher studies abroad in Master Degree, Ph.D and Post Doctoral Courses etc., in prestigious Foreign Universities. Minority students who opt to pursue higher studies Abroad in prestigious foreign Universities after their degree course are provided with National Overseas Scholarship by Government of Karnataka at the rate of INR 20,00,000 for the 2 years course."
+  },
+  {
+    "id": "bd992086-e22c-4218-ac8b-7232acb84eb0",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship-for-st-girl-students/",
     "title": "Post Matric Scholarship for ST Girl Students",
     "description": "Post Matric Scholarship for St Girls Students is provided by the Department of Social Justice and Empowerment, Government of Gujarat. Students from class 11 to postgraduate level are eligible to apply for this scholarship scheme. Through this scholarship, the financial assistance to the girl’s candidates of schedule tribe category (ST) is provided. Only candidates belonging from the Gujarat state will be eligible for this scholarship."
   },
   {
-    "id": "0a73da85-c5b9-4699-a106-f9879e29d791",
+    "id": "edf7711e-a460-4793-a25d-7d0137cf02f0",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/fellowship-scheme-for-m-phil-and-ph-d-sc-students/",
     "title": "Fellowship Scheme For M.Phil And Ph.D. (SC) Students",
     "description": "The fellowship scheme for M.Phil and Ph.D. (SC) Students, Gujarat aims high in providing partly economical independence for students during a course. The scheme comes under BCK- 11 M.Phil and Ph.D. students for the SC category"
   },
   {
-    "id": "4457bf4e-88fc-44ea-8a1f-62b66003bcba",
+    "id": "fc5ec0a7-40e4-4542-b6cb-7d2bbae5a74c",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-ssc-scholarships-for-boys-ntdnt/",
     "title": "Post SSC Scholarships for Boys (NTDNT)",
     "description": "Post SSC Scholarships for Boys (NTDNT) is granted by the Department of Social Justice and Empowerment, Government of Gujarat. This scholarship is offered to boys candidates belonging to the NTDNT category. Students from class 11th to Ph.D. level can take part in this scholarship scheme. The benefit of this scholarship will be provided to Gujarat state candidates only. The aim of the scholarship is to financially support the backward classes of society and encourage them for pursuing higher studies."
   },
   {
-    "id": "43c97ebb-1fb7-4047-8351-c74a46f79cd8",
+    "id": "19fd2669-39cc-4819-9564-18d2e10b4238",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/higher-education-scheme/",
     "title": "Higher Education Scheme",
     "description": "The government of Gujarat is offering Higher Education Scheme, Gujarat to the students of class 11th to post-graduation level. Students who are the permanent resident of the Gujarat state can apply for this scholarship scheme. The main purpose of government behind offering this scholarship scheme is to financially help the needy students who want to pursue higher education but due to the lack of money, they cannot continue their studies."
   },
   {
-    "id": "d231ee0f-4d8d-44de-88ca-75d0bb59ae2a",
+    "id": "fdd5ab7d-0349-44ec-b35b-09c3778fdffa",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/swami-vivekanand-stipend-scheme-for-iti-courses/",
     "title": "Swami Vivekanand Stipend Scheme for ITI Courses",
     "description": "Students undergoing training in state government / government recognized private industrial training institutes / centers are eligible to get stipend under the Swami Vivekanand Stipend Scheme. The main objective of this scheme is to provide financial assistance for the educational development of Scheduled Tribe students. Recipients of this scholarship can get INR 400 per month for I.T.I courses and Technical courses."
   },
   {
-    "id": "0bf2793f-b4af-43e3-b2e0-748fc1ce473a",
+    "id": "3bda785c-cf5e-4c8c-a52e-9647d88fba78",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/scholarship-for-differently-abled-students-towards-purchase-of-books-note-books/",
     "title": "Scholarship for Differently Abled Students towards Purchase of Books & Note Books",
     "description": "An initiative by the commission for Welfare of differently Abled, Government of Tamil Nadu. The Scholarship for Differently Abled Students towards Purchase of Books & Note Books is intended for the financial welfare of differently-abled students. It is for the students studying in classes 1-8."
   },
   {
-    "id": "43bda631-4209-43c7-9799-af3341176782",
+    "id": "7ded8be2-79ca-43cb-b02f-bbe725b8d7f3",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/swami-vivekananda-merit-cum-means-scholarship-for-minorities/",
     "title": "Swami Vivekananda Merit Cum Means Scholarship for Minorities",
     "description": "Swami Vivekananda Merit Cum Means Scholarship Scheme for Minorities, West Bengal is an initiative of the West Bengal Minorities Development & Finance Corporation, under the Minority Affairs and Madrasah Education Department, Government of West Bengal to financially help the minority students of Class 11 to the postgraduate level. The selected candidates will receive up to INR 5,000 per month."
   },
-  null,
   {
-    "id": "a4d39bdd-c224-4a14-bde0-871f4d15dac8",
+    "id": "7d4a8744-7b85-4ae1-b11a-069e913bc816",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pre-matric-scholarship-for-minorities-of-karnataka/",
+    "title": "Pre-Matric Scholarship for Minorities of Karnataka",
+    "description": "The Pre-Matric Scholarship for Minorities of Karnataka is an initiative by Ministry of Minority Affairs, Government of Karnataka which invites applications from the minority communities students of Class 1 to 10. The scholarship aims to encourage parents of minority communities to send their kids to school by their school education."
+  },
+  {
+    "id": "4187e960-481d-47bf-b2b7-366b4cdaabfb",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/free-education-schemes-for-bc-mbc-dnc-students/",
     "title": "Free Education Schemes for BC, MBC & DNC students",
     "description": "Free Education Schemes for BC, MBC & DNC students is an initiative by the Department of Backward Classes and Most Backward Classes and Minority Welfare, Government of Tamil Nadu. The scholarship is open to students belonging to BC/MBC/DNC category who are pursuing a 3-year degree or polytechnic diploma course or professional degree course provided the annual income of the family is less than INR 50,000."
   },
   {
-    "id": "6279d92a-ac27-4639-bcd5-b08e1466b02f",
+    "id": "40122445-746b-4edc-aab3-7b0995e01999",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pre-matric-scholarship-for-sc-st-students/",
     "title": "Pre-Matric Scholarship for SC ST Students",
     "description": "Pre-Matric Scholarship to SC Students, West Bengal is an initiative by the Backward Classes Welfare Department, Government of West Bengal for students of Class 9 and 10. The objective of the scheme is to provide financial assistance to SC students studying in Class 9 and 10. The selected candidates will receive a monthly scholarship and adhoc grant."
   },
-  null,
   {
-    "id": "0d5741b7-37f6-4f8f-bc05-28ac8efc755e",
+    "id": "00655c30-67f9-43c6-9669-b7744cc8906f",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship-for-sc-st-obc/",
+    "title": "Post-Matric Scholarship for SC/ST/OBC",
+    "description": "Post-Matric Scholarship to SC/ST Students, West Bengal is an initiative by the Backward Classes Welfare Department, Government of West Bengal for SC/ST students of Class 11 to post graduation level. The objective of the scheme is to provide financial assistance to the SC/ST students studying at post matriculation or post-secondary stages to enable them to complete their education. The selected candidates will receive variable awards."
+  },
+  {
+    "id": "78be3cc8-49a7-413a-8827-fce896e9c014",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/r-i-m-c-dehradun-scholarship/",
     "title": "R. I. M. C. Dehradun Scholarship",
     "description": "The R.I.M.C. Dehradun Scholarship is an initiative by the Directorate of Collegiate Education, Government of Tamil Nadu. The students studying in Rashtriya Indian Military College, Dehradun are eligible for this scholarship. The awardees of this scholarship are eligible for a sum of upto INR 1,000 per month."
   },
   {
-    "id": "1aa3d2bb-91a3-4e41-a722-2b2c0e2f854f",
+    "id": "2c10c684-8ad7-4ae8-b868-d41e5cf92c8a",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/deceased-government-servants-scholarship/",
     "title": "Deceased Government Servants Scholarship",
     "description": "The Deceased Government Servants Scholarship is an initiative by the Directorate of Collegiate Education, Government of Tamil Nadu. The scholarship is applicable for the wards of deceased government servants who died in service. Under this scheme, the awardees are eligible for the compensation of their Tuition fees, hostel fees and other admissible items of special fees up to UG level."
   },
   {
-    "id": "2265670d-725b-4e70-93d0-c801525c5676",
+    "id": "8db570df-1112-4b47-8d65-780f2dfeffa6",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/evr-nagammai-scholarship/",
     "title": "EVR Nagammai Scholarship",
     "description": "The EVR Nagammai Scholarship is an initiative by the Directorate of Collegiate Education, Government of Tamil Nadu. This scholarship is applicable only for girl students who are pursuing postgraduate degree courses in Arts and Science from a recognised college in Tamil Nadu. The awardees are given variable financial assistance as per their needs under this scheme."
   },
   {
-    "id": "9130c760-1c51-465a-ba58-20f90512194b",
+    "id": "e3ec4814-6bfb-4325-b1eb-86628a069435",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/cm-sarvjan-scholarship/",
     "title": "CM Sarvjan Scholarship",
     "description": "The CM Sarvjan scholarship will be given by the Chief Minister of Rajasthan state and under this scholarship, you will get an amount of 5000 rupees per annum. The scholarship is available for students who have completed their class 12th and they should have at least gotten more than 60% of marks in their board examinations."
   },
-  null,
   {
-    "id": "1424232e-93e3-4495-b9f8-dc4d1dd2b180",
-    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/mukhya-mantri-jan-kalyan-yojana-mmjky/",
-    "title": "Mukhya Mantri Jan Kalyan Yojana (MMJKY)",
-    "description": "This scheme has been launched by the Government of Madhya Pradesh. Through the Mukhyamantri Jankalyan Shiksha Protsahan Yojana, financial assistance will be provided for education to those students of Madhya Pradesh whose mother or father is registered as an unorganized worker in the Labor Department of Madhya Pradesh Government. The tuition fee of all such students on getting admission in graduation, polytechnic, diploma or ITI courses will be borne by the state government."
+    "id": "ae8188a6-faee-4bc8-a337-6eb096a143c0",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/rajasthan-yuva-vikas-prerak-internship-program/",
+    "title": "Rajasthan Yuva Vikas Prerak Internship Program",
+    "description": "The Rajasthan Yuva Vikas Prerak Internship Program is applicable for all of the students who have completed their undergraduate course, post-graduation course and now they are pursuing their Ph.D. In this internship program, the students of the Rajasthan state will receive a monthly payment of INR 25000 along with INR 2500 for the monthly expenses of their communication as well as travel bill."
   },
   {
-    "id": "246dddfe-229d-49ef-9833-34797ed398da",
-    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship-scheme-for-sc-students/",
-    "title": "Post Matric Scholarship Scheme for SC Students",
-    "description": "Post Matric Scholarship Scheme for SC Students, Madhya Pradesh is an opportunity offered by the Government of Madhya Pradesh to students belonging to the SC category students who are studying at post matric level of education. The selected candidates will receive up to 100% scholarship for higher studies."
-  },
-  {
-    "id": "1d90086d-748d-4e7f-830b-d85cc50af450",
+    "id": "6bff9642-84c7-46c7-a3d1-2eed395e7cfd",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-cm-scholarship/",
     "title": "Post-Matric & CM Scholarship",
     "description": "The post-matric and CM scholarship is available in Rajasthan state for students who belong to an economically backward category such as SC, ST, OBC, EBC, and all of the other such categories who are not able to afford their education because of less financial funds. The scholarship is applicable to the students of classes 11th and 12th. The incentives will be provided on the basis of the personal cost of students."
   },
   {
-    "id": "c2f230b1-345a-46df-8627-e63586bf698d",
+    "id": "7cb30c1a-7386-411e-bf0c-b45067ddbd1c",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/ambedkar-fellowship-scheme-for-sc-students/",
     "title": "Ambedkar Fellowship Scheme for SC Students",
     "description": "Under the Ambedkar Fellowship scholarship scheme, INR Rs, 15000 rupees will be provided monthly to all of the students who are willing to do a Phd. in special subjects such as social science, education, science, political science, and all of the other special subjects. This scholarship scheme is also available for students of the scheduled caste category of Rajasthan."
   },
   {
-    "id": "65f12ed9-54a8-477b-9a48-3162c142b458",
+    "id": "a1d23f2b-0157-45cf-a645-4d827e496592",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/ambedkar-international-scholarship-scheme-for-sc-students/",
     "title": "Ambedkar International Scholarship Scheme for SC Students",
     "description": "The Ambedkar International Scholarship Scheme for SC Students is an initiative by the Social Justice and Empowerment Department, Government of Rajasthan. All of the students who are willing to do a Phd. in special subjects such as social science, education, science, political science, and all of the other special subjects are applicable to the Ambedkar International scholarship scheme. The student must also belong to the SC caste which is the scheduled caste. They can also get upto INR 25 lakh Rupees as an incentive under this scholarship scheme."
   },
   {
-    "id": "9bdb02c1-863f-4940-933e-6e85e5331ec7",
+    "id": "4db5501c-8876-4418-8d72-7d5351735571",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/mukhya-mantri-jan-kalyan-yojana-mmjky/",
+    "title": "Mukhya Mantri Jan Kalyan Yojana (MMJKY)",
+    "description": "This scheme has been launched by the Government of Madhya Pradesh. Through the Mukhyamantri Jankalyan Shiksha Protsahan Yojana, financial assistance will be provided for education to those students of Madhya Pradesh whose mother or father is registered as an unorganized worker in the Labor Department of Madhya Pradesh Government. The tuition fee of all such students on getting admission in graduation, polytechnic, diploma or ITI courses will be borne by the state government."
+  },
+  {
+    "id": "a01ca4eb-ffa4-4264-9e29-bf855f37cb03",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship-scheme-for-sc-students/",
+    "title": "Post Matric Scholarship Scheme for SC Students",
+    "description": "Post Matric Scholarship Scheme for SC Students, Madhya Pradesh is an opportunity offered by the Government of Madhya Pradesh to students belonging to the SC category students who are studying at post matric level of education. The selected candidates will receive up to 100% scholarship for higher studies."
+  },
+  {
+    "id": "93e2dd94-30fd-419d-8154-943fbb76e80b",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-intermediate-scholarship-for-minorities/",
     "title": "Post matric Intermediate Scholarship for Minorities",
     "description": "Post Matric Intermediate Scholarship For Minorities, Uttar Pradesh is an initiative of the Minority Department, Government of Uttar Pradesh for students studying in class 11 and 12 belonging to minority communities. The selected students will receive variable awards."
   },
   {
-    "id": "5baa0b5d-798e-4372-b4be-f63ba6753827",
+    "id": "57f039c4-e2ce-4c34-aa08-e99871a376ec",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship-scheme-for-obc-students/",
     "title": "Post Matric Scholarship Scheme for OBC Students",
     "description": "Post Matric Scholarship Scheme for OBC Students is an initiative by the Government of Madhya Pradesh for students belonging to other backward classes. All students whose annual family income is up to Rs.300000 will be eligible for 100% scholarship under this scheme."
   },
   {
-    "id": "364e3dd5-711b-4d9b-b6ed-b00932207d3e",
+    "id": "f2345b87-4ba5-4ace-ba5d-9e277ad77fba",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/mukhyamantri-medhavi-vidyarthi-yojana-mmvy/",
     "title": "Mukhyamantri Medhavi Vidyarthi Yojana (MMVY)",
     "description": "The Madhya Pradesh Government has invited applications for the Mukhyamantri Medhavi Vidyarthi Yojana (MMVY) . Students who have passed class 12th from Madhya Pradesh and have enrolled in a graduate-level course (any discipline) are eligible to apply for the scheme. The objective of the scheme is to provide promising career opportunities to meritorious and talented students."
   },
   {
-    "id": "22ded736-8905-4662-baa2-6565040e0ca0",
+    "id": "d910d6b1-da7a-4704-828a-b0fc3aee925e",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pre-matric-scholarship-for-st-sc-general-category/",
     "title": "Pre-matric Scholarship For ST/SC/General Category",
     "description": "Pre Matric Scholarship for SC, ST & General Students, Uttar Pradesh is an initiative by the Social Welfare Department, Government of Uttar Pradesh for students of class 9 and 10. The scholarship aims to promote secondary education among the children of Uttar Pradesh and encourage them to complete their matriculation by providing financial aid to them. The selected candidates will receive variable awards."
   },
   {
-    "id": "46ccfc46-ac25-499f-b7e8-abba450cc571",
+    "id": "6e79a5b7-14c2-4e2f-85f2-5dca474ccc22",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-intermediate-scholarship-for-st-sc-general-category/",
     "title": "Post matric Intermediate Scholarship For ST/SC/General Category",
     "description": "Post Matric Intermediate Scholarship for SC, ST & General Category, Uttar Pradesh is an initiative of the Social Welfare Department, Government of Uttar Pradesh for students studying in class 11 and 12. The selected students will receive variable awards."
   },
   {
-    "id": "e6426868-23ef-46a5-a519-9acbb422cc3e",
+    "id": "fb6f5779-6f51-43a9-88f3-d8d63a8ad780",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pre-matric-scholarship-for-minorities-2/",
     "title": "Pre-Matric Scholarship for Minorities",
     "description": "An initiative by the Ministry of Minority Affairs, Government of India, the Pre-Matric Scholarship for MInorities invites applications from the students of Class 1 to 10 of minority communities. The scholarship aims to encourage parents of minority communities to send their kids to school by helping them to fund the school education of their children and by supporting the efforts of educating their children"
   },
   {
-    "id": "78a10270-59a1-4052-a7a4-40e3287ed3ac",
-    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/merit-scholarship-for-sc-st-obc-minority-students-class-1-to-12/",
-    "title": "Merit Scholarship for SC/ST/OBC/Minority Students (Class 1 to 12)",
-    "description": "Merit Scholarship program for ST/SC/OBC/Minority Students is an initiative by the Department for the Welfare of SC/ST/OBC, Government of NCT of Delhi which invites applications from students studying in Class 1 to 12.This scholarship aims to provide financial assistance to meritorious students. Selected students will receive up to INR 4,500 per annum."
-  },
-  {
-    "id": "74532b3e-6b48-484b-a518-26362c349d6f",
-    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pre-matric-scholarship-scheme-for-obc-students/",
-    "title": "Pre-Matric Scholarship Scheme for OBC Students",
-    "description": "Pre-Matric Scholarship Scheme for OBC Students is an initiative by the Department for the Welfare of SC/ST/OBC, Government of NCT of Delhi which invites applications from students studying in Class 1 to 10. This scholarship aims to provide financial assistance to eligible students whose family annual income is below double the poverty line. Selected students will receive a scholarship of up to INR 500 per month for 10 months and an ad-hoc grant of INR 500 per annum."
-  },
-  {
-    "id": "75eaf7d6-be53-4b09-a03f-08221f01361f",
-    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship-for-obc-students-2/",
-    "title": "Post Matric Scholarship for OBC Students",
-    "description": "Post-Matric Scholarship for OBC Students, Assam is an initiative of the Government of Assam to provide financial support to students Class 11 and above. Under this scheme, OBC students studying at the post-matriculation or post-secondary stage will be provided financial support to continue their higher studies. The selected candidates will receive an academic allowance and other benefits."
-  },
-  {
-    "id": "9331eb61-60ba-4238-a7a6-fd43e59ab9bb",
+    "id": "1b593460-8e01-4bc8-9d23-336680c05e72",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/reimbursement-of-tuition-fee-for-sc-st-obc-minority/",
     "title": "Reimbursement of Tuition Fee for SC/ST/OBC/Minority",
     "description": "Reimbursement of Tuition Fee for SC/ST/OBC/Minority program is an initiative by the Department for the Welfare of SC/ST/OBC/Minority, Government of NCT of Delhi which invites applications from students studying in Class 1 to 12. This scholarship aims to provide reimbursement of the tuition and other compulsory fees to the financially weak students in recognized public sector schools in Delhi. Selected students will receive up to 100% reimbursement of fee under this scheme."
   },
   {
-    "id": "b0f0ac41-4e3c-4061-826a-dd2624989d1a",
+    "id": "68b80d44-d8db-4ae5-bb0b-0a690d5865e4",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/merit-scholarship-for-sc-st-obc-minority-students-class-1-to-12/",
+    "title": "Merit Scholarship for SC/ST/OBC/Minority Students (Class 1 to 12)",
+    "description": "Merit Scholarship program for ST/SC/OBC/Minority Students is an initiative by the Department for the Welfare of SC/ST/OBC, Government of NCT of Delhi which invites applications from students studying in Class 1 to 12.This scholarship aims to provide financial assistance to meritorious students. Selected students will receive up to INR 4,500 per annum."
+  },
+  {
+    "id": "d0865c0a-03b2-4560-aca2-0d62bd150f3f",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pre-matric-scholarship-scheme-for-obc-students/",
+    "title": "Pre-Matric Scholarship Scheme for OBC Students",
+    "description": "Pre-Matric Scholarship Scheme for OBC Students is an initiative by the Department for the Welfare of SC/ST/OBC, Government of NCT of Delhi which invites applications from students studying in Class 1 to 10. This scholarship aims to provide financial assistance to eligible students whose family annual income is below double the poverty line. Selected students will receive a scholarship of up to INR 500 per month for 10 months and an ad-hoc grant of INR 500 per annum."
+  },
+  {
+    "id": "2cd4b17c-52eb-4ace-aa9b-c0c0e3dc86bc",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship-for-obc-students-2/",
+    "title": "Post Matric Scholarship for OBC Students",
+    "description": "Post-Matric Scholarship for OBC Students, Assam is an initiative of the Government of Assam to provide financial support to students Class 11 and above. Under this scheme, OBC students studying at the post-matriculation or post-secondary stage will be provided financial support to continue their higher studies. The selected candidates will receive an academic allowance and other benefits."
+  },
+  {
+    "id": "5260007f-175a-45ac-bc4c-89ce4ad9207e",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/samsung-star-scholar-program/",
     "title": "Samsung Star Scholar Program",
     "description": "Samsung Star Scholar is a Scholarship Program for undergraduate students of Jawahar Navodaya Vidyalaya pursuing B.Tech & M.Tech."
   },
   {
-    "id": "f20407fc-d6ec-43e2-a4aa-788b0ce7bcb4",
+    "id": "e8624fb4-c6c3-46c7-8a3a-1de20cf3e019",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/nikon-scholarship-program/",
     "title": "Nikon Scholarship Program",
     "description": "Nikon Scholarship Program is an initiative of Nikon India Private Limited to financially support students from underprivileged sections of the society to pursue photography-related courses. The scholarship is meant to help students (Class 12 passed onwards) who are enrolled in a photography-related course with a duration of 3 months or more."
   },
   {
-    "id": "b857dce5-1ba5-46ae-9755-5e572a1fe831",
-    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/aicte-pragati-scholarship-for-girls/",
-    "title": "AICTE Pragati Scholarship for Girls",
-    "description": "AICTE Pragati Scholarship for Girls 2022-23 is an initiative for girl students admitted to the first year or second year of diploma/degree level course through lateral entry in any of the AICTE-approved institutions of the respective year. Initiated by the All India Council for Technical Education (AICTE), this scheme aims to provide assistance for the advancement of girls pursuing technical education."
+    "id": "a655e54f-4f9e-44e4-a5c4-3774f724e4fc",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/aicte-saksham-scholarship-scheme/",
+    "title": "AICTE-Saksham Scholarship Scheme",
+    "description": "AICTE-Saksham Scholarship Scheme is an initiative for differently-abled students admitted to the first year of technical degree/diploma courses in any of the AICTE-approved institutions. The students will be awarded INR 50,000 per annum for every year of study."
   },
   {
-    "id": "8964e0f9-b3e8-460a-a2e4-a2aa630ccb73",
+    "id": "65482d4f-f5b0-43fe-8209-ab9c987cbc77",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/aicte-saksham-scholarship-scheme/",
+    "title": "AICTE-Saksham Scholarship Scheme",
+    "description": "AICTE-Saksham Scholarship Scheme is an initiative for differently-abled students admitted to the first year of technical degree/diploma courses in any of the AICTE-approved institutions. The students will be awarded INR 50,000 per annum for every year of study."
+  },
+  {
+    "id": "9c87a7b3-cc3d-411e-aaa1-f90dc442abd2",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/baba-guru-bachan-singh-scholarship-scheme/",
     "title": "Baba Guru Bachan Singh Scholarship Scheme",
     "description": "Baba Guru Bachan Singh Scholarship Scheme is provided by Sant Nirankari Mandal. This scheme focuses on needy students who are willing to pursue diploma and degree courses. The educational department will select candidates based on their needs and offer them financial support for the courses like B.A. and BA (HONS), B.Com and B.Com (Hons), B.Sc, Diploma in Engineering, Hotel Management, MCA, Diploma/ Degree or Sports, Instrumental Music, vocal music training from a recognized institute/college in India."
   },
   {
-    "id": "fd002bb4-08c6-497c-8321-35ccc4d9dce2",
-    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/aicte-pragati-scholarship-for-girls/",
-    "title": "AICTE Pragati Scholarship for Girls",
-    "description": "AICTE Pragati Scholarship for Girls 2022-23 is an initiative for girl students admitted to the first year or second year of diploma/degree level course through lateral entry in any of the AICTE-approved institutions of the respective year. Initiated by the All India Council for Technical Education (AICTE), this scheme aims to provide assistance for the advancement of girls pursuing technical education."
-  },
-  {
-    "id": "e8b0bb86-98ae-4605-aece-6095ffc88a76",
+    "id": "7cd1c051-937f-48ac-97d2-8e426027d262",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/ishan-uday-special-scholarship-scheme-for-north-eastern-region/",
     "title": "Ishan Uday – Special Scholarship Scheme for North Eastern Region",
     "description": "Special Scholarship Scheme Ishan Uday for NER is an initiative offered by UGC for Class 12 passed students of the North-Eastern Region. The scholarship aims to promote higher education and increase GER (Gross Enrollment Ratio) in the North-Eastern Region. Under this program, 10,000 fresh scholarships are awarded every year."
   },
   {
-    "id": "dd3703cd-18e4-44c3-9ee3-94f410d39fbc",
+    "id": "2f891e71-7655-4d24-a6d3-05a3d76d4263",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/women-scientists-scheme-c-wos-c/",
     "title": "Women Scientists Scheme-C (WOS-C)",
     "description": "WOS-C scheme aims to train women having qualifications in science/ engineering / medicine or allied areas in the area of IPR and their management for a period of one year. The training will allow them to work from their homes and thus maintain a good balance between professional and domestic demands."
   },
   {
-    "id": "0efb05cb-1e60-44b8-a106-825a67894b96",
+    "id": "ab6780e0-a5e0-4705-b6d9-3daa73e7c6e4",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/swarnajayanti-fellowships-scheme/",
     "title": "SwarnaJayanti Fellowships Scheme",
     "description": "Offered by the Department of Science and Technology, Government of India, SwarnaJayanti Fellowships Scheme offers scholarships to young scientists with a PhD degree in Science/Engineering/Medicine. The duration of the fellowship along with the project will be for a period of five years. Selected fellows will receive a monthly stipend of INR 25,000."
   },
   {
-    "id": "1c80306d-1812-4f21-8db3-5f2c1cac4842",
+    "id": "e7aeb69d-1469-405c-ab7f-41648ef75957",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-graduate-merit-scholarship-for-university-rank-holders/",
     "title": "Post Graduate Merit Scholarship for University Rank Holders",
     "description": "Offered by the University Grants Commission (UGC), Government of India, Post Graduate Merit Scholarship for University Rank Holders is an opportunity offered to University Rank Holders (1st and 2nd) at the UG level, admitted to a PG course."
   },
   {
-    "id": "bd410b29-2e8e-44b0-ba7c-4d35798de08d",
+    "id": "4df2dba1-7fb1-45ce-922e-8472a6dad73e",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-graduate-indira-gandhi-scholarship-for-single-girl-child/",
     "title": "Post-Graduate Indira Gandhi Scholarship for Single Girl Child",
-    "description": "Post-Graduate Indira Gandhi Scholarship for Single Girl Child is an initiative for girl students up to 30 years of age who happen to be the only girl child in their family. The scholarship is being offered by the University Grants Commission (UGC), Ministry of Human Resource Development, Government of India. The scholarship aims to promote girl education and compensate for the direct costs of girl education at all levels. The selected candidates will receive INR 36,200 per annum for a period of two years."
+    "description": ""
   },
   {
-    "id": "2c133146-e645-4dbf-a457-50dfa5349e0c",
+    "id": "7a528adb-9cf4-4977-aa85-784a3a888ea9",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/prime-ministers-scholarship-scheme-for-wards-of-states-uts-police-personnel-martyred-during-terror-naxal-attacks/",
     "title": "Prime Minister’s Scholarship Scheme for Wards of States/UTs Police Personnel Martyred during Terror/Naxal Attacks",
     "description": "Prime Minister's Scholarship Scheme for Wards of States/UTs Police Personnel is an initiative of the Welfare and Rehabilitation Board, Ministry of Home Affairs, Government of India for the dependent wards of State Police personnel who are martyred during Terror/Naxal attacks. The selected candidates will receive up to INR 3,000 every month under this scheme."
   },
   {
-    "id": "3e7fb130-c34f-475d-ad24-6bb41a5f98b6",
+    "id": "0dadbe8a-5426-478a-9fc9-118ed2e33724",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/prime-ministers-scholarship-scheme-for-rpf-rpsf/",
     "title": "Prime Minister’s Scholarship Scheme For RPF/RPSF",
     "description": "Prime Minister’s Scholarship Scheme was introduced from the Academic year 2008-09 for RPF. It was introduced to encourage higher technical and professional education for the dependent wards of Ex/Serving RPF/RPSF personnel and widows (below the Rank of Gazetted officer)"
   },
   {
-    "id": "8618228f-9ecc-4b9e-b9c1-10da43eaa6b9",
+    "id": "96d10d2c-bcca-4367-b2ba-016968a12381",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/financial-support-to-the-students-of-ner-for-higher-professional-coursesnec-merit-scholarship/",
     "title": "Financial Support to the Students of NER for Higher Professional Courses (NEC Merit Scholarship)",
     "description": "The North Eastern Council (NEC) under the Ministry of Development of North Eastern Region, Government of India invites applications for NEC Merit Scholarship for Students of NER 2023 from students pursuing diploma/ degree/ postgraduate/ MPhil/ PhD programmes. The scholarship aims to providing financial assistance to students of North-Eastern Region undergoing studies in various disciplines at a recognized Indian institution. The students will receive a stipend of up to Rs.30,000/- per annum."
   },
   {
-    "id": "f026c50b-eeb0-491b-8a37-b56bf3b774f6",
+    "id": "b8283c2c-d028-47ff-8d6b-609065954a57",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/indian-oil-educational-scholarship/",
     "title": "Indian Oil Educational Scholarship",
     "description": "The IOC Ltd offers 300 scholarships every year to eligible students. Students need to be enrolled in an undergraduate course. The scholarship particularly focuses on students with physical disabilities, women and students from North East and J&K"
   },
   {
-    "id": "2fcba5e2-cdc6-4e78-b9df-1bf4cbcc9329",
+    "id": "907a8e49-0d49-4d81-9e14-76070b891b65",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/central-sector-scheme-of-scholarships-for-college-and-university-students/",
     "title": "Central Sector Scheme of Scholarships for College and University Students",
     "description": "Offered by the Department of Higher Education, Central Sector Scholarship Scheme for College and University Students is a centrally-funded merit-cum-means scholarship started with the objective to financially assist students of economically underprivileged families. The Central Sector Scholarship scheme disburses scholarships to 82,000 graduate/postgraduate students every year."
   },
   {
-    "id": "fad2a01a-f3d8-4c0d-8e0a-502f22f1ca40",
+    "id": "60e429ed-fd01-4708-a018-893fad8d32f7",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/prime-ministers-scholarship-scheme-for-central-armed-police-forces-and-assam-rifles/",
     "title": "Prime Minister’s Scholarship Scheme For Central Armed Police Forces And Assam Rifles",
     "description": "Prime Minister’s Scholarship Scheme (PMSS) was introduced from the academic year 2006-07 to encourage higher technical and professional education for the dependent wards and widows of Central Armed Police Forces & Assam Rifles (CAPFs & AR) Personnel. From 2019-20, this scheme has further been extended for the dependent wards of States/UTs Police Personnel who are martyred during Terror/Naxal attacks."
   },
-  null,
   {
-    "id": "e466d270-55c9-4f1d-a09b-273f55082982",
-    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pm-yasasvi-central-sector-scheme-of-top-class-education-in-schools-for-obc-ebc-and-dnt-students/",
-    "title": "PM Yasasvi Central Sector Scheme of Top Class Education In Schools for OBC, EBC and DNT Students",
-    "description": "PM Young Achievers Scholarship Award Scheme for Vibrant India (YASASVI) scheme will provide continuous education to bright students of underprivileged section of society. This scheme focuses on socio-economic development of the Other Backward Class (OBC), Economically Backward Class (EBC), De-Notified, Nomadic & Semi-Nomadic Tribes (DNT/SNT) community through Scholarship to students. The YASASVI scheme covers Scholarship fees and Hostel fees."
+    "id": "767fbfe1-a434-4d9a-8c31-0937208ec2e2",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/scholarships-for-top-class-education-for-students-with-disabilities/",
+    "title": "Scholarships for Top Class Education for Students with Disabilities",
+    "description": "Scholarships for Top Class Education for Students with Disabilities is an initiative of the Department of Empowerment of Persons with Disabilities, Government of India to promote quality education among physically challenged students who are pursuing studies at the graduate/post-graduate/diploma level."
   },
-  null,
   {
-    "id": "6c507dbc-9fcc-42cf-95bf-001f345e0ef5",
+    "id": "1cd09b6e-c214-4280-927e-14048be4780c",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/top-class-education-scheme-for-sc-students/",
     "title": "Top Class Education Scheme for SC Students",
     "description": "Top Class Education Scheme for SC Students is an initiative by the Ministry of Social Justice and Empowerment, Government of India for Scheduled Caste (SC) students who have taken admission at the undergraduate or postgraduate level to pursue higher education. The scheme aims to recognize and promote quality education beyond Class 12 among Scheduled Caste students"
   },
   {
-    "id": "39a332d4-02e7-478a-8e30-5100091eb107",
+    "id": "3f4747a3-2b30-4c1b-964c-79c2c04ae22e",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/kishore-vaigyanik-protsahan-yojana-scholarship/",
+    "title": "Kishore Vaigyanik Protsahan Yojana Scholarship",
+    "description": "Kishore Vaigyanik Protsahan Yojana Scholarship is provided to students enrolled in the first year of their engineering undergraduate course. Eligibility includes an aptitude test. It is awarded by the Government of India for economically backward students who have a strong aptitude for scientific research."
+  },
+  {
+    "id": "2c9baed3-db6d-4493-bd37-af6d7e29d3ee",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pm-yasasvi-central-sector-scheme-of-top-class-education-in-schools-for-obc-ebc-and-dnt-students/",
+    "title": "PM Yasasvi Central Sector Scheme of Top Class Education In Schools for OBC, EBC and DNT Students",
+    "description": "PM Young Achievers Scholarship Award Scheme for Vibrant India (YASASVI) scheme will provide continuous education to bright students of underprivileged section of society. This scheme focuses on socio-economic development of the Other Backward Class (OBC), Economically Backward Class (EBC), De-Notified, Nomadic & Semi-Nomadic Tribes (DNT/SNT) community through Scholarship to students. The YASASVI scheme covers Scholarship fees and Hostel fees."
+  },
+  {
+    "id": "6240699b-b3bf-4632-b60b-b1bd657b962f",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pre-matric-scholarship-for-students-with-disabilities/",
     "title": "Pre-Matric Scholarship for Students with Disabilities",
     "description": "The key objective of the Pre-Matric Scholarship is to support students with disabilities for their studies and prepare them to earn their livelihood and find a dignified place for themselves in society. This scholarship is being offered by the Department of Empowerment of Persons with Disability, Government of India."
   },
   {
-    "id": "fd4422ee-889d-44f4-a9b1-3bb592132028",
+    "id": "0ff09898-a0f2-4e8c-b6ba-abf2c1b30531",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship-for-students-with-disabilities/",
     "title": "Post Matric Scholarship for Students with Disabilities",
     "description": "Post Matric Scholarship for Students with Disabilities is an initiative for the physically challenged students from Class 11 to postgraduate level. The scholarship is being offered by the Department of Empowerment of Persons with Disabilities, Government of India"
   },
   {
-    "id": "a938f723-bd94-4770-b9c5-e122366f7258",
+    "id": "46f82845-8f2e-44da-b1b8-573811939790",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pre-matric-scholarships-scheme-for-minorities/",
     "title": "Pre Matric Scholarships Scheme for Minorities",
     "description": "Pre Matric Scholarships Scheme for Minorities is an initiative for the students of Class 1 to 10 of minority communities. The scholarship is being offered by the Ministry of Minority Affairs, Government of India."
   },
   {
-    "id": "1069db5d-a30a-49fa-a6ee-8f3592481ad1",
+    "id": "0e25a925-89ef-4a12-a6ac-c6352e01402b",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/keep-india-smiling-foundational-scholarship-mentorship-programme/",
     "title": "Keep India Smiling Foundational Scholarship & Mentorship Programme",
     "description": "This scholarship aims to provide adequate foundational support to individuals who are deserving but lack fundamental resources. This scholarship is conducted by Colgate-Palmolive (India) Ltd and offers upto a sum of INR 30,000 per annum for a period of 3 years"
   },
   {
-    "id": "56a1edd9-8d99-4b1d-b0f4-3bf67cbd56ad",
+    "id": "030782d6-1461-4e24-b040-e59c705f0894",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/merit-cum-means-scholarship-for-professional-and-technical-courses-cs/",
     "title": "Merit Cum Means Scholarship for Professional and Technical Courses CS",
     "description": "Merit Cum Means Scholarship for Professional and Technical Courses CS (Minorities) 2022-23 is an initiative for minority community students who are pursuing technical or professional courses at the undergraduate or postgraduate level. This scholarship is offered by the Ministry of Minority Affairs (MoMA), Government of India."
   },
   {
-    "id": "d09a1718-44e9-42e9-902d-b53ca25693ee",
+    "id": "06bc1b3f-df77-48f6-9422-be306e052c38",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pre-matric-scholarship-for-obc-students-uttar-pradesh/",
     "title": "Pre-Matric Scholarship for OBC Students, Uttar Pradesh",
     "description": "Pre Matric Scholarship for OBC Students, Uttar Pradesh is an initiative of Backward Classes Welfare Department, Government of Uttar Pradesh for the students of classes 9 and 10 belonging to the OBC category of Uttar Pradesh. The scholarship aims to provide financial assistance to needy students to help them complete their matriculation."
   },
   {
-    "id": "b0cb4990-ed61-49ed-a5ff-043432bdc967",
+    "id": "9fb016fa-088c-4a95-b991-027177376bd0",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-other-than-intermediate-scholarship-for-obc-students/",
     "title": "Post Matric (Other Than Intermediate) Scholarship for OBC students",
     "description": "Post Matric (Other Than Intermediate) Scholarship for OBC, Uttar Pradesh is an initiative by the Backward Classes Welfare Department, Government of Uttar Pradesh for students who are pursuing studies at graduation or higher level. The selected students will be awarded variable benefits."
   },
-  null,
   {
-    "id": "a2b68081-fd2b-4c30-92c0-0ad23869437b",
+    "id": "43ceda08-0dab-4908-ad54-537b703a0478",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/bccl-ke-laal-and-bccl-ki-laadli-scholarship/",
+    "title": "BCCL Ke Laal and BCCL Ki Laadli Scholarship",
+    "description": "An initiative by the Bharat Coking Coal Limited (BCCL), BCCL Ke Laal and BCCL Ki Laadli Scholarship, Jharkhand is aimed at children studying in the 10th standard. The programme provides the children with the opportunity to get educational training for competitive entrance examinations free of cost and aims to get them better prepared for the examinations, in turn, providing the students of the state of Jharkhand with a bright future ahead."
+  },
+  {
+    "id": "30ba2071-a2f0-4827-8959-06a42d67c39d",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship/",
     "title": "Post Matric Scholarship",
     "description": "Post Matric (Within State and Outside State) Scholarship 2021-22, Jharkhand is an initiative for SC, ST, and BC students who are enrolled at post-matric (Class 11 and above) levels. The selected students will get variable awards."
   },
   {
-    "id": "e8f3f527-d762-46e6-a2dc-9eee0d843fba",
+    "id": "1ab37f04-1ad3-4196-b2b0-e9c62a01a872",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/prime-minister-special-scholarship-scheme-pmsss/",
     "title": "Prime Minister Special Scholarship Scheme (PMSSS)",
     "description": "Prime Minister's Special Scholarship Scheme (PMSSS), J&K is an initiative of the All India Council for Technical Education (AICTE) for Class 12 passed/diploma degree holders in J&K and Ladakh. The scholarship aims to support the youth of J&K to pursue higher education outside the state. It facilitates access to quality education for students so as to equip them with knowledge, skills, experience, and training for higher academic levels/professions. The students selected will receive financial assistance up to INR 3 lakhs and a maintenance allowance of INR 1 lakh per annum."
   },
   {
-    "id": "653b1d0e-3e9c-4cff-824d-fd0c00474cba",
+    "id": "0d571d1c-36b5-48fa-9efe-53538239af61",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship-scheme-for-st-students/",
     "title": "Post Matric Scholarship Scheme for ST Students",
     "description": "Post Matric Scholarship Scheme for ST Students, Jammu and Kashmir is an initiative of the Ministry of Tribal Affairs, Government of Jammu, and Kashmir to provide financial assistance to students studying from Class 11 to postdoctoral level. The objective of the scheme is to provide financial assistance to the ST category students studying at post-matriculation or post-secondary stages to enable them to complete their education. The selected candidates will receive a maintenance allowance and other benefits."
   },
   {
-    "id": "4e4470f8-7161-45c5-aac2-df09eb9459ec",
+    "id": "8cda379d-a300-4f76-b58b-16acfb62aa32",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/financial-assistance-to-sportspersons/",
     "title": "Financial Assistance to Sportspersons",
     "description": "Scheme for Financial Assistance to Sportspersons, Odisha is a skill development programme that aims to enhance the employability of sportspersons from Odisha who are willing to take up sports coaching as a career option. Under this scheme, the Government of Odisha will provide financial support to sportspersons undergoing coaching courses at the Netaji Subhas National Institute of Sports (NSNIS), Patiala, a major centre of the Sports Authority of India (SAI)."
   },
   {
-    "id": "57174967-6e6d-428b-95f4-749cde82ca88",
+    "id": "dd82df12-9426-4915-a7a6-4027176e1f5d",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/vyasa-kabi-fakir-mohan-senapati-scholarship/",
     "title": "Vyasa Kabi Fakir Mohan Senapati Scholarship",
     "description": "Vyasakabi Fakir Mohan Senapati Scholarship, Odisha is an opportunity offered for the meritorious students of Odisha. The aim of the scholarship program is to promote the Odia language and financially support the students who display merit in Odia. Students after passing in +3 Odia ( Honors), M. A. (Odia) examination can receive variable benefits under this scheme."
   },
   {
-    "id": "b5029735-1dc7-41f7-b5f8-6fc1d5864128",
+    "id": "42042ccc-6d16-4f32-9ae6-0df401766c1e",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship-for-st-students/",
     "title": "Post Matric Scholarship for ST Students",
     "description": "Post-Matric Scholarship for ST Students, Assam is an initiative of the Ministry of Tribal Affairs, Government of India for Class 11 and above students who belong to the Scheduled Tribes (ST). Under this scheme, ST students studying at the post-matriculation or post-secondary stage will be provided financial support to enable them to complete their education. The selected candidates will receive a maintenance allowance of up to INR 1,200 per month and other benefits."
   },
   {
-    "id": "e935826b-8258-448b-aa15-877a22f7fc5f",
+    "id": "25c843f7-0ff1-4ea7-9846-064ab7aa5e4c",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/junior-and-senior-merit-scholarship-e-medhabruti/",
     "title": "Junior and Senior Merit Scholarship (e-Medhabruti)",
     "description": "e-Medhabruti Scholarship Scheme 2023 is an opportunity offered by the Higher Education Department, Government of Odisha. The objective of the scholarship is to encourage and motivate brilliant students of Odisha to pursue higher studies in the field of UG/PG/Technical & Professional education. The selected candidates will receive a scholarship of up to INR 10,000 per annum."
   },
   {
-    "id": "f9829258-5540-4656-8953-b990a6ebed5b",
+    "id": "515eef49-32ef-4181-be4b-19585eb3b7a8",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/prerana-post-matric-scholarship-for-ebc/",
     "title": "Prerana- Post-Matric Scholarship for EBC",
     "description": "An initiative by the ST & SC Development and Minorities & Other Backward Classes Welfare Department, Government of Odisha, PRERNA Post Matric Scholarship scheme for ST/SC/OBC/SEBC/EBC Communities, Odisha is aimed at SC/ST/OBC/EBC/SEBC community students studying at the post-matriculation level. The selected scholars will receive variable financial assistance under this scholarship scheme."
   },
   {
-    "id": "752be645-8d83-4587-867f-84950870aeab",
+    "id": "39f67be4-3b52-4d99-b5f7-38ebc491dc66",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pre-matric-scholarship-for-sc-students/",
     "title": "Pre-Matric Scholarship for SC Students",
     "description": "Pre-Matric Scholarship for SC Students (Class 9 & 10), Assam is an initiative of the Ministry of Social Justice & Empowerment, Government of India to provide financial assistance to SC students who are studying in Class 9 and 10. Under this scheme, SC students from the EWS category will be offered financial support with an aim to reduce the incidences of student drop-outs during the transition from elementary to secondary stage. The selected candidates will receive a scholarship and other grants."
   },
   {
-    "id": "f464e9d6-e5c2-4fd8-8665-302b7c6c3e30",
+    "id": "dfeaf724-7e95-4353-bb71-00bc858d6b74",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pre-matric-scholarship-for-obc-students/",
     "title": "Pre-Matric Scholarship for OBC Students",
     "description": "Pre-Matric Scholarship for OBC Students, Assam is an initiative of the Ministry of Social Justice & Empowerment, Government of India to provide financial assistance to students studying in Class 9 and 10. Under this scheme, the OBC students fulfilling the eligibility criteria will receive financial support for pursuing higher studies in India. The selected students will receive financial help of INR 4,000 per annum."
   },
   {
-    "id": "b45df98d-ca5b-4b56-a14b-661abeaff78c",
+    "id": "07e0a2d5-6cc3-4637-9aea-67671b3c562d",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pre-matric-scholarship-for-st-students/",
     "title": "Pre-Matric Scholarship for ST Students",
     "description": "Pre-Matric Scholarship for ST Students (Class 9 & 10), Assam is an initiative of the Ministry of Tribal Affairs, Government of India to provide financial assistance to students studying in Class 9 and 10. This scheme aims to help ST students from economically weaker sections to reduce the rate of drop-outs during the transition from elementary to the secondary stage. The selected candidates will receive a scholarship and other grants."
   },
   {
-    "id": "87c21ddc-7a6c-4b0b-8496-2bc60bb36c0a",
+    "id": "1f1147cf-bb07-4615-81a3-2405cb5cdc37",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship-for-sc-students/",
     "title": "Post-Matric Scholarship for SC Students",
     "description": "Post-Matric Scholarship for SC Students, Assam is an initiative of the Ministry of Social Justice and Empowerment, Government of India for SC students of Assam studying in Class 11 and above. Under this scheme, SC students studying at the post-matriculation or post-secondary stage will be provided with financial support to complete their education. The selected candidates will receive a consolidated academic allowance."
   },
   {
-    "id": "450dd58e-aa72-4695-83ee-6028f952d58f",
+    "id": "5e90eff3-b8e4-41ea-8651-b074b06780fb",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/chief-minister-fellowship-cmf-program/",
     "title": "Chief Minister Fellowship (CMF) Program",
     "description": "Chief Minister Fellowship (CMF) Program, is an initiative by the Government of Maharashtra, India. Launched by the Chief Minister of Maharashtra, Shri Devendra Fadnavis, CMF is a drive to rope in young graduates in the administration. The fellowship aims to provide the youth an opportunity to earn valuable experience of working within the government. It is a 12-month program that offers the beneficiaries of the scheme a monthly remuneration of INR 75,000."
   },
   {
-    "id": "0de798c7-0114-4502-9194-be794691534a",
+    "id": "5e7aad70-bf51-49e5-b3a8-ba55afce481a",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/state-government-daxshina-adhichatra-scholarship/",
     "title": "State Government Daxshina Adhichatra Scholarship",
     "description": "State Government Daxshina Adhichatra Scholarship, Maharashtra is an initiative of the Directorate of Higher Education (DHE), Government of Maharashtra to provide financial assistance to students pursuing postgraduation from Government institutes and colleges and non-agricultural universities. A total of 76 selected students will receive INR 250 per month under this scholarship scheme"
   },
   {
-    "id": "e78f0786-73d9-47a3-88ab-97207ed5593a",
+    "id": "7fb44225-dcbd-4dd2-82a1-f404779be05a",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/eklavya-scholarship/",
     "title": "Eklavya Scholarship",
     "description": "Eklavya Scholarship, Maharashtra is an opportunity by the Directorate of Higher Education, Government of Maharashtra to provide financial aid to graduate students in Arts, Law, Commerce, and Science who have taken admission to a postgraduate degree program. The selected scholars will receive INR 5,000 (one-time)."
   },
-  null,
   {
-    "id": "ef622a84-6eb0-48cb-b73d-f0df50337050",
+    "id": "c9aa4da2-807a-4468-bf59-64c1f4fd94f7",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-tuition-fee-and-examination-fee-freeship/",
+    "title": "Post-Matric Tuition Fee and Examination Fee (Freeship)",
+    "description": "Post-Matric Tuition Fee and Examination Fee (Freeship), Maharashtra is an initiative of the Department of Social Justice and Special Assistance, Government of Maharashtra to provide financial assistance to Class 10 passed students. The eligible students' tuition fees, exam fees and other compulsory fees will be covered under this scheme."
+  },
+  {
+    "id": "b386ab18-8320-403d-873c-f78f4662e08c",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/government-vidyaniketan-scholarship/",
     "title": "Government Vidyaniketan Scholarship",
     "description": "Government Vidyaniketan Scholarship, Maharashtra is an initiative of the Directorate of Higher Education, Government of Maharashtra to financially help Class 10 passed students. The selected students will receive INR 100 per month for their higher education."
   },
   {
-    "id": "5994dd14-ed6d-48b5-a112-9e96d364d58f",
+    "id": "0cc1d356-5f71-4d57-a0f8-6ef00ac5e8ae",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/mother-teresa-scholarship-mts/",
     "title": "Mother Teresa Scholarship (MTS)",
     "description": "Mother Teresa Scholarship (MTS), Kerala is an opportunity offered by the Department of Minority Welfare, Government of Kerala to minority community students who are studying nursing diploma/paramedical course. The selected candidates will receive a scholarship of INR 15,000 per year."
   },
   {
-    "id": "34f9e6c3-5843-436c-8b1b-d00b4833c183",
+    "id": "113e1bd4-079e-455e-8670-f18bc73b3ddc",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/ca-icwa-cs-scholarship-iwcs/",
     "title": "CA/ICWA/CS Scholarship (IWCS)",
     "description": "CA/ICWA/CS Scholarship (IWCS), Kerala is an initiative of the Department of Minority Welfare, Government of Kerala for students in Kerala belonging to minority communities. This scholarship aims to support students from weaker sections in pursuing CA/ICWA/CS courses. The selected candidates will receive a scholarship of INR 15,000 per annum."
   },
   {
-    "id": "ea349dc3-7808-4a0c-a412-fe54926980eb",
+    "id": "3e1931e3-ef8e-4743-89c9-aa51f89cf384",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/district-merit-scholarship-dms/",
     "title": "District Merit Scholarship (DMS)",
     "description": "District Merit Scholarship (DMS), Kerala is an initiative for meritorious students pursuing higher secondary, VHSC, ITI, or Polytechnic courses. The selected students will receive INR 1,250 per annum."
   },
   {
-    "id": "5a14f709-b465-4301-812f-e3ccaaf26cfd",
+    "id": "5576d2d6-6723-4e01-af4a-0dde6f70b360",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/apj-abdul-kalam-scholarship-apjak/",
     "title": "APJ Abdul Kalam Scholarship (APJAK)",
     "description": "APJ Abdul Kalam Scholarship (APJAK), Kerala is an opportunity offered by the Department of Minority Welfare, Government of Kerala to students belonging to minority communities of the state. This scholarship aims to support students from weaker sections in pursuing diploma courses from government/aided polytechnics. The selected candidates will receive financial help of INR 6,000 per annum."
   },
   {
-    "id": "aa052bea-f7e2-4731-94f4-52dd3f2c5bf0",
+    "id": "3cbadcd6-3305-4ec5-a252-d1493f390c73",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/prof-joseph-mundassery-scholarship-award-pjms/",
     "title": "Prof. Joseph Mundassery Scholarship Award (PJMS)",
     "description": "Prof. Joseph Mundassery Scholarship Award (PJMS), Kerala is an initiative of the Department of Minority Welfare, Government of Kerala for students who belong to minority communities. This scholarship aims to support school students from weaker sections to pursue their education at SSLC (matriculation), plus 2 and VHSE levels. The selected candidates will receive up to INR 15,000 (one-time)."
   },
   {
-    "id": "135509e6-7117-4186-b46b-222e087998ed",
-    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/blind-ph-scholarship/",
-    "title": "Blind/PH Scholarship",
-    "description": "Blind/PH Scholarship, Kerala is an initiative from Blind/PH/Deaf students studying in Govt./Aided Arts and Science Colleges, Music Colleges, and Govt./Aided Higher Secondary/Vocational Higher Secondary Schools. The scholarship aims to provide financial assistance for the study of differently-abled students. The selected students will get fee charges, hostel charges, and boarding charges."
-  },
-  {
-    "id": "b63a369c-f046-4f9f-9d5b-d650d75bc95f",
+    "id": "58a2b4df-1fd1-48b5-9531-aec7a60fe135",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/muslim-nadar-girls-scholarship/",
     "title": "Muslim Nadar Girls Scholarship",
     "description": "Muslim Nadar Girls Scholarship, Kerala is an initiative for girl students of Kerala who are studying in the first year of HSC/VHSC/undergraduate course in Government/Aided arts and science college. The selected students will receive INR 125 per annum"
   },
   {
-    "id": "f1ef4c01-be52-4303-9fcd-33deb73f6a0f",
+    "id": "f5f78ec2-ea41-4aaa-bb2e-7f92f8b4b351",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/blind-ph-scholarship/",
+    "title": "Blind/PH Scholarship",
+    "description": "Blind/PH Scholarship, Kerala is an initiative from Blind/PH/Deaf students studying in Govt./Aided Arts and Science Colleges, Music Colleges, and Govt./Aided Higher Secondary/Vocational Higher Secondary Schools. The scholarship aims to provide financial assistance for the study of differently-abled students. The selected students will get fee charges, hostel charges, and boarding charges."
+  },
+  {
+    "id": "3058e2c1-933d-4bf3-a2f9-a10c9079923d",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/suvarna-jubilee-merit-scholarship/",
     "title": "Suvarna Jubilee Merit Scholarship",
     "description": "Suvarna Jubilee Merit Scholarship, Kerala is an initiative for first-year undergraduate and postgraduate students. The scholarship aims to support needy and meritorious students to pursue higher education. Selected students will receive INR 10,000 per annum."
   },
   {
-    "id": "ad496fe8-1639-47f8-af7c-6615bf947244",
+    "id": "d76417ff-48e2-4767-bc62-372adfda9453",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/hindi-scholarship-hs/",
     "title": "Hindi Scholarship (HS)",
     "description": "Hindi Scholarship (HS), Kerala is an initiative for undergraduate and postgraduate students of Kerala who have taken Hindi as one of the subjects in the current course. The selected students will receive up to INR 1,000 per month."
   },
   {
-    "id": "1bcc0e93-5340-4528-b024-7d0c152ee731",
+    "id": "69685a80-c003-405f-8a32-398aeff3f0ca",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/music-fine-arts-scholarship-mfas/",
     "title": "Music Fine Arts Scholarship (MFAS)",
     "description": "Music Fine Arts Scholarship (MFAS), Kerala is an initiative for students of Kerala who are pursuing an undergraduate or postgraduate course in music or fine arts from a government college."
   },
   {
-    "id": "c89e3749-0d72-45bc-9c5c-2685a808268c",
+    "id": "fb7034d9-ef50-4569-be71-a381d09deaac",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/sanskrit-scholarship-sse/",
     "title": "Sanskrit Scholarship (SSE)",
     "description": "Sanskrit Scholarship (SSE), Kerala is an initiative for undergraduate and postgraduate students of Kerala. The scholarship aims to support and promote Sanskrit education. The selected 55 undergraduate students will receive INR 200 per month and 25 postgraduate students will receive INR 200 per month."
   },
   {
-    "id": "4a3ef67e-1a5a-44bd-a95d-83de578122fe",
+    "id": "c2698b7c-85f8-432a-9144-017c3cd9fa29",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/state-merit-scholarship/",
     "title": "State Merit Scholarship",
     "description": "State Merit Scholarship (SMS), Kerala is an initiative for first-year graduate and post-graduate students. The scholarship aims to support the education of needy students. The selected 300 graduate students will receive INR 1,250 per annum whereas 150 post-graduate students will receive INR 1,500 per annum under this scholarship scheme."
   },
-  null,
   {
-    "id": "0ee14dd2-d1ac-4766-afb9-f887a73dbbe7",
+    "id": "23a44488-410c-42b2-943c-ab6525385a14",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship-for-minorities-of-karnataka/",
+    "title": "Post-Matric Scholarship for Minorities of Karnataka",
+    "description": "Post-Matric Scholarship for Minorities of Karnataka 2022 is an initiative by the Ministry of Minority Affairs, Government of Karnataka for Class 11 to Ph.D. students of minority communities. The scholarship aims to encourage meritorious students of economically weaker sections of the minority community to pursue higher education and enhance their employability by providing financial assistance. The selected candidates will receive admission fees, tuition fees, and maintenance allowance."
+  },
+  {
+    "id": "8904dc14-a78a-4028-a896-fd62d706871b",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/special-scholarship-for-boys-and-girls-students/",
     "title": "Special Scholarship for Boys and Girls Students",
     "description": "Special Scholarship for Boys And Girls Students, Gujarat 2021-22 available for students studying in class 1 to class 10 and belonging from backward classes community such as Valmiki, Hadi, Nadiya, Seva, Turi, Garo-Garoda, Vankar Sadhu, Dalit-Bava, Turi-Barot, Tirgar/Tirbanda, Thori, and Matang. This special scholarship is offered to improve the literacy rate in most backward classes children."
   },
   {
-    "id": "42fca747-705d-40c3-a4c0-2a3bc30fdbd4",
+    "id": "06ac5993-0342-40c9-b654-5b16bf7c76b3",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/higher-secondary-scholarship-sebc/",
     "title": "Higher Secondary Scholarship (SEBC)",
     "description": "The Higher Secondary Scholarship (SEBC) is an initiative by the Department of Social Justice and Empowerment, Government of Gujarat. Students belonging from the SEBC category can apply for this scholarship. The scholarship aims to provide financial assistance to the backward classes and weaker sections of the society so that they can pursue their higher secondary education without facing any monetary problem."
   },
   {
-    "id": "401a2f15-969f-4fff-83c6-d1aa0d464fe3",
+    "id": "c118f9b4-ce5f-4a64-9e5c-7c06320ffa05",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship-for-sc-girl-students/",
     "title": "Post Matric Scholarship for SC Girl Students",
     "description": "Post Matric Scholarship for SC Students, Gujarat 2021-22 is an initiative for SC students of Gujarat studying in graduation to post graduation level. The key objective of the scholarship is to ensure the economic welfare and empowerment of students belonging to backward classes of society."
   },
   {
-    "id": "fc11147a-2516-4479-9376-795500c1298e",
+    "id": "267a77b3-5682-41aa-bffb-bae25f16ca0f",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/mukhyamantri-yuva-swavalamban-yojana/",
     "title": "Mukhyamantri Yuva Swavalamban Yojana",
     "description": "An initiative by The Education Department, Government of Gujarat, the Mukhyamantri Yuva Swavalamban Yojana, Gujarat is a scholarship scheme for meritorious students pursuing diploma or degree courses. The scheme aims to provide financial assistance to deserving students for tuition fees, hostel & food expenses, and the cost of books & equipment."
   },
-  null,
   {
-    "id": "4a099254-57f1-4055-892f-f88008e889d3",
+    "id": "cc126392-30b9-4ceb-bc01-4192e6e4c800",
+    "scheme_url": "https://education.arunachal.gov.in/career/scholarship/pre-matric-scholarship-for-minorities/",
+    "title": "Pre-Matric Scholarship for Minorities",
+    "description": "Pre Matric Scholarship for Minority Students, Uttar Pradesh is an initiative by the Minority Department, Government of Uttar Pradesh for students of class 9 and 10 students who belong to the minority communities of Uttar Pradesh. The scholarship aims to provide financial assistance to needy students in completing their studies at the matriculation level."
+  },
+  {
+    "id": "c8e3f604-1abd-4e84-88fb-b42928696847",
     "scheme_url": "https://education.arunachal.gov.in/career/scholarship/post-matric-scholarship-for-obc-students/",
     "title": "Post Matric Scholarship for OBC Students",
     "description": "Post-Matric Scholarship Scheme for OBC Students is an initiative by the Department for the Welfare of SC/ST/OBC, Government of NCT of Delhi which invites applications from other backward class students. This scholarship aims to provide financial assistance to eligible students so that they can pursue their studies. Selected students will receive maintenance allowance of up to INR 750 per month and several other benefits."
