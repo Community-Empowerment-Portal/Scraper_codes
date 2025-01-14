@@ -1,0 +1,114 @@
+[
+  {
+    "id": "c31694fe-5d2b-4ab5-b4da-2ae76abe12b8",
+    "scheme_url": "https://www.arunachaluniversity.ac.in/scholarship",
+    "title": "Chancellor Meritorious Scholarship",
+    "application_programme": "For All Courses",
+    "eligibility": [
+      "93% marks in Senior Secondary  OR 85% marks in Graduation",
+      "Maintenance of 80% attendance and 60% marks for continuation"
+    ],
+    "granting_agency": "World Education Mission"
+  },
+  {
+    "id": "91eaa03d-d1c2-45d2-b7b0-759ca4bd362e",
+    "scheme_url": "https://www.arunachaluniversity.ac.in/scholarship",
+    "title": "Gautam Buddha Scholarship",
+    "application_programme": "MSW, MA, M.Com., M.Sc., MBA",
+    "eligibility": [
+      "Min 55% marks in the previous qualification",
+      "Income Certificate (<3 lac)",
+      "Maintenance of 80% attendance and 60% marks for continuation"
+    ],
+    "granting_agency": "World Education Mission"
+  },
+  {
+    "id": "5b5b7513-4968-4d84-9c38-34f34b1633d9",
+    "scheme_url": "https://www.arunachaluniversity.ac.in/scholarship",
+    "title": "Lachit Borphukon Scholarship",
+    "application_programme": "Diploma in Elementary Education – Tai Khamti Language Script",
+    "eligibility": [
+      "Min 55% marks in the previous qualification",
+      "Maintenance of 80% attendance and 60% marks for continuation"
+    ],
+    "granting_agency": "World Education Mission"
+  },
+  {
+    "id": "9b8528d1-8a40-4d33-b1d2-fa4e4b903f76",
+    "scheme_url": "https://www.arunachaluniversity.ac.in/scholarship",
+    "title": "Prof. Madhav Sadashiv Golwalkar Scholarship",
+    "application_programme": "B.A.-B.Ed, B.Sc.-B.Ed., D.El.Ed., M.Ed., M.Ed. (HI&VI), M.A.(Education)",
+    "eligibility": [
+      "Min 55% marks in the previous qualification",
+      "Maintenance of 80% attendance and 60% marks for continuation"
+    ],
+    "granting_agency": "World Education Mission"
+  },
+  {
+    "id": "b5d382d2-0d37-41a8-96f1-f862ec69005d",
+    "scheme_url": "https://www.arunachaluniversity.ac.in/scholarship",
+    "title": "Nang Iksha Mein Scholarship",
+    "application_programme": "B.A., B.Com., M.Com.,  B.A.-LLB, LLB, B.B.A, M.B.A, Diploma (Pali Language)",
+    "eligibility": [
+      "Min 55% marks in the previous qualification",
+      "Maintenance of 80% attendance and 60% marks for continuation"
+    ],
+    "granting_agency": "World Education Mission"
+  },
+  {
+    "id": "79c5fbd2-1004-4f4b-b71a-aa3dbcf661b3",
+    "scheme_url": "https://www.arunachaluniversity.ac.in/scholarship",
+    "title": "Prof. G.N. Pandey Science Scholarship",
+    "application_programme": "For all Science Course",
+    "eligibility": [
+      "The Scholarship will be issued only on the basis of percentage /CGPA obtained in the previous qualification"
+    ],
+    "granting_agency": "World Education Mission"
+  },
+  {
+    "id": "0c739bcb-0e81-471e-a2d4-22254b0ee68a",
+    "scheme_url": "https://www.arunachaluniversity.ac.in/scholarship",
+    "title": "Prof. Shiyali Ramamrita Ranganathan Scholarship",
+    "application_programme": "B.Lis., M.Lis,",
+    "eligibility": [
+      "Min 55% marks in the previous qualification",
+      "Income Certificate (<4 lac)",
+      "Maintenance of 80% attendance and 60% marks for continuation"
+    ],
+    "granting_agency": "World Education Mission"
+  },
+  {
+    "id": "d7e76fc4-16d0-4787-ab18-51f8f3f9643d",
+    "scheme_url": "https://www.arunachaluniversity.ac.in/scholarship",
+    "title": "Sardar Vallabhbhai Patel Scholarship",
+    "application_programme": "LLB, BA-LLB",
+    "eligibility": [
+      "Min 55% marks in the previous qualification",
+      "Maintenance of 80% attendance and 60% marks for continuation"
+    ],
+    "granting_agency": "World Education Mission"
+  },
+  {
+    "id": "3d631a9e-77a3-4eea-86c6-aa0bb1772d04",
+    "scheme_url": "https://www.arunachaluniversity.ac.in/scholarship",
+    "title": "Smt. Geeta Lochan Girl Child Scholarship",
+    "application_programme": "For all courses only for Girls (Max. up to Rs. 40,000/- per year)",
+    "eligibility": [
+      "Min 55% marks in the previous qualification",
+      "Income Certificate (<3 lac)",
+      "Maintenance of 80% attendance and 60% marks for continuation"
+    ],
+    "granting_agency": "World Education Mission"
+  },
+  {
+    "id": "6c92751f-f087-4272-ad98-cf3c71127939",
+    "scheme_url": "https://www.arunachaluniversity.ac.in/scholarship",
+    "title": "APST Stipend Scheme",
+    "application_programme": "For All Courses",
+    "eligibility": [
+      "APST Certificate",
+      "Satisfactory Progress report, good conduct, regular attendance"
+    ],
+    "granting_agency": "DHTE, Govt. of Arunachal Pradesh through National Scholarship Portal"
+  }
+]
