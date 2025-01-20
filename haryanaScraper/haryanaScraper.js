@@ -22,7 +22,6 @@ async function scrapeHaryana(){
         return result
     })
     
-    
     await browser.close()
     return result
 }
@@ -57,7 +56,7 @@ async function main(){
         schemes.push(result)
         await browser.close()
     }
-    const resultWithUUID = schemes.map((it)=>({id:uuidv4(),scheme_url:url,...it}))
+    const resultWithUUID = schemes.map((it)=>({id:uuidv4(),...it}))
     fs.writeFileSync('haryanaSchemes.json', JSON.stringify(resultWithUUID, null, 2), 'utf-8');
 
     // console.log('Data has been saved to schemes.json');

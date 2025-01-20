@@ -1615,7 +1615,7 @@ async function scrapeScheme(url) {
     'https://pbscfc.punjab.gov.in/?q=node/31'
   ];
 
-  const allData = {};
+  const allData = [];
 
   for (const url of urls) {
     console.log(`Scraping URL: ${url}`);
@@ -1624,12 +1624,12 @@ async function scrapeScheme(url) {
       const schemeId = uuidv4(); // Generate a unique ID for each scheme
       if (data.title) {
         const schemeName = data.title || `Scheme from ${url}`;
-        console.log(`Extracted data for scheme: ${schemeName}`);
-        allData[schemeId] = {
+        // console.log(`Extracted data for scheme: ${schemeName}`);
+        allData.push({
           id: schemeId,
           scheme_url:url,
           ...data
-        };
+        })
       } else {
         console.log(`No title found for URL: ${url}`);
       }

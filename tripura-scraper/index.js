@@ -18,7 +18,7 @@ async function get_pdf_link() {
         return data 
     })
 
-    const resultWithUUID = result.map((item)=>({id:uuidv4(), ...item}))
+    const resultWithUUID = result.map((item)=>({id:uuidv4(), scheme_url: url,...item}))
 
     await fs.writeFile('tripura-pdf-link.json', JSON.stringify(resultWithUUID, null,2))
     
